@@ -1,4 +1,4 @@
-# Welcome to KSchuler Documentation
+# Guide to Katie's Experiments
 
 Welcome to my documents!  This is the central location where I document [all of my experiments][1] and keep track of the resources and procedures that I use to conduct my research.  
 
