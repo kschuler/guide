@@ -1,8 +1,7 @@
-# Currently recruiting
+# Recruitment
 All of my currently running experiments are listed below.  If the experiment you are running is not listed please [email me][1] and remind me to update it. Or, if I’ve shown you how and you are feeling resourceful, update it yourself using the [Edit on GitHub][2]  link.
 
-----
-## (0170) Child Yang mixed frequency
+## 0170 Child Yang mixed frequency
 ### Kids
 - **Who is running:**
 	- Katie
@@ -16,8 +15,8 @@ All of my currently running experiments are listed below.  If the experiment you
 	- The experiment last about 15-20 minutes.
 - **exp-id:**
 	- 0170-empiricalYang-9Noun-MFrule-child
-----
-## (0301) Thompson & Newport SRT
+
+## 0301 Thompson & Newport SRT
 ### Adults  
 - **Who is running:**
 	- Rebecca, Katie
@@ -31,7 +30,7 @@ All of my currently running experiments are listed below.  If the experiment you
 - **exp-id:**
 	- 0301-mechanical-turk-9noun-hfrule
 
-## (0164) Mturk Yang cognitive load
+## 0164 Mturk Yang cognitive load
 ### Mechanical Turk
 - **Who is running:**
 	- Katie
@@ -46,7 +45,7 @@ All of my currently running experiments are listed below.  If the experiment you
 - **exp-id:**
 	- 0168-XXXXXX
 
-## (0200) Popsicle sticks pilot
+## 0200 Popsicle sticks pilot
 ### [ on hold ] Adults
 - **Who is running:**
 	- Alix, Katie
