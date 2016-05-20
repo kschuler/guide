@@ -4,7 +4,7 @@ This is a guide to running Katie's experiments, along with some helpful tips and
 
 ## Current experiments
 
-This section provides information on recruiting for and running Katie's current experiments.
+This section describes how to recruit and run subjects in Katie's current experiments.
 
 - [Recruiting subjects for current experiments](current/recruitment.md)
 - [How to run current experiments](current/how-to-run.md)
@@ -12,11 +12,11 @@ This section provides information on recruiting for and running Katie's current 
 ## Guidelines
 
 - [Documenting experiments](guidelines/documenting)
-- Making Stimuli
-- Creating experiments
-- Running experiments
-- Coding and transcribing data
-- Analyzing data
+- [Making Stimuli](guidelines/making-stimuli.md)
+- [Designing experiments](guidelines/designing-exps.md)
+- [Running experiments](running-exps.md)
+- [Coding and transcribing data](coding-and-transcribing.md)
+- [Analyzing data](analyzing-data.md)
 
 ## Tools
 
