@@ -1,12 +1,13 @@
 # Guide to Katie's Experiments
 
-Welcome to my documents!  This is the central location where I document [all of my experiments][1] and keep track of the resources and procedures that I use to conduct my research.  
+This is a guide to running Katie's experiments, along with some helpful tips and tricks for lab related things.
 
 ## Current experiments
-This section provides information on the experiments that I am currently running.  Collaborators and research assistants can check here for the recruiting and running procedures for active experiments.
 
-- [Recruiting subjects for current experiments][2]
-- [How to run current experiments][3]
+This section provides information on recruiting for and running Katie's current experiments.
+
+- [Recruiting subjects for current experiments](current/recruitment.md)
+- [How to run current experiments](current/how-to-run.md)
 
 ## Guidelines
 
@@ -42,8 +43,8 @@ This section provides common commands for each the tools I use most often: git, 
 ## Experiment Documentation
 
 [1]:	experiments/toc.md
-[2]:	current/recruitment.md
-[3]:	current/how-to-run.md
+[2]:	
+[3]:	
 [4]:	tools/hardware-and-software.md
 [5]:	tools/computer-setup.md
 [6]:  tools/server-setup.md
