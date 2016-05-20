@@ -1,6 +1,6 @@
 # Guide to Katie's Experiments
 
-This is a guide to running Katie's experiments, along with some helpful tips and tricks for lab related things.
+This is a guide to running Katie's experiments, along with some helpful tips and tricks for lab related things.  I hope it is helpful.
 
 ## Current experiments
 
