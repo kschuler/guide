@@ -11,7 +11,7 @@ This section describes how to recruit and run subjects in Katie's current experi
 
 ## Guidelines
 
-This section provides guidelines for each step in an experiment, from design to analysis.
+This section provides guidelines for how I create my experiments, from design to analysis.
 
 - [Documenting experiments](guidelines/documenting)
 - [Making stimuli](guidelines/making-stimuli.md)
@@ -45,8 +45,6 @@ This section provides common commands for each the tools I use most often: git, 
 ## Experiment Documentation
 
 [1]:	experiments/toc.md
-[2]:	
-[3]:	
 [4]:	tools/hardware-and-software.md
 [5]:	tools/computer-setup.md
 [6]:  tools/server-setup.md
