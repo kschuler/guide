@@ -71,7 +71,7 @@ ssh root@192.241.162.30
 If you opted not to use an SSH key, you might see a message like this.  Answer yes to proceed.
 ![step10](../static/images/step10-connecttoserver.png)
 
-You'll be asked to provide your servers password.  You get this from the email digital ocean sent you. Type it in exactly (case is important) and press enter.  
+You'll need to provide your servers password.  You get this from the email digital ocean sent you. Type it in exactly (case is important) and press enter.  
 
 Next you will see "Changing password for root. (current) UNIX password".  The server wants you to type in the password digital ocean sent you AGAIN.  
 ![step11](../static/images/step11-changepassword.png)
@@ -80,15 +80,13 @@ Then it will ask for your new UNIX password.  Type in whatever you want your pas
 
 ![step12](../static/images/step12-completepasswordchange.png)
 
-You'll be asked to retype the NEW password you selected. One you do so and press enter, you'll be logged into your sever!
+You'll need to retype the NEW password you selected. One you do so and press enter, you'll be in your sever!
 
 To exit your server, you type exit in the terminal and press enter.
+
 ```bash
-
 exit
-
 ```  
-
 The next time you log in, you'll enter the NEW password you selected.
 
 
