@@ -4,7 +4,6 @@ This is a guide to running Katie's experiments, along with some helpful tips and
 
 ##### Last edited 5/21/2016 by Katie
 
-
 ## Current experiments
 
 This section describes how to recruit and run subjects in Katie's current experiments.
