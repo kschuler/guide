@@ -1,5 +1,5 @@
 # Table of content
-* [Current Experiments](current/current-exps.md)
+* Current Experiments
   * [Recruiting subjects](current/recruitment.md)
   * [How to run](current/how-to-run.md)
 * Guidelines
@@ -9,7 +9,7 @@
   * [Running experiments](guidelines/running-exps.md)
   * [Coding and transcribing data](guidelines/coding-and-transcribing.md)
   * [Analyzing data](guidelines/analyzing-data.md) 
-* [TOOLS](tools/tools.md)
+* Tools
   * [Hardware & software](tools/hardware-and-software.md)
   * [Setting up a computer](tools/computer-setup.md)
   * [Setting up a server](tools/server-setup.md)
