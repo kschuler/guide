@@ -24,8 +24,6 @@ This section provides guidelines for how I create my experiments, from design to
 
 This section documents the hardware and software that I use to run my experiments, and how I set up computers and servers to run them. I also provide a list of the tools that I like best for performing common tasks in the lab.
 
-<!-- and a list of some of the most useful commands for Anaconda, git, R, and bash. (MAYBE FUTURE) -->
-
 - [Hardware and software I use ][4]
 - [How to set up a computer to run my experiments][5]
 - [How to set up a server to run my mechanical turk experiments][6]
