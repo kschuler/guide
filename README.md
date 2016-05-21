@@ -39,13 +39,4 @@ This section provides common commands for each the tools I use most often: git, 
 - [pandas](cheat-sheets/pandas.md)
 - [bash](cheat-sheets/bash.md)
 
-
-## Experiment Documentation
-
-[1]:	experiments/toc.md
-[4]:	tools/hardware-and-software.md
-[5]:	tools/computer-setup.md
-[6]:  tools/server-setup.md
-[7]:	tools/favorites.md
-
-##### Last edited 5/7/2016 by Katie
+##### Last edited 5/21/2016 by Katie
