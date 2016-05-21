@@ -13,12 +13,12 @@ This section describes how to recruit and run subjects in Katie's current experi
 
 This section provides guidelines for how I create my experiments, from design to analysis.
 
-- [Documenting experiments](guidelines/documenting)
-- [Making stimuli](guidelines/making-stimuli.md)
 - [Designing experiments](guidelines/designing-exps.md)
+- [Making stimuli](guidelines/making-stimuli.md)
 - [Running experiments](running-exps.md)
 - [Coding and transcribing data](coding-and-transcribing.md)
 - [Analyzing data](analyzing-data.md)
+- [Documenting experiments](guidelines/documenting)
 
 ## Tools
 
