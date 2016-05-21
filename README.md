@@ -2,6 +2,9 @@
 
 This is a guide to running Katie's experiments, along with some helpful tips and tricks for lab related things.  I hope it is helpful.
 
+##### Last edited 5/21/2016 by Katie
+
+
 ## Current experiments
 
 This section describes how to recruit and run subjects in Katie's current experiments.
@@ -39,4 +42,3 @@ This section provides common commands for each the tools I use most often: git, 
 - [pandas](cheat-sheets/pandas.md)
 - [bash](cheat-sheets/bash.md)
 
-##### Last edited 5/21/2016 by Katie
