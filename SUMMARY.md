@@ -2,7 +2,7 @@
 * [Current Experiments](current/current-exps.md)
   * [Recruiting subjects](current/recruitment.md)
   * [How to run](current/how-to-run.md)
-* [Guidelines](guidelines/guidelines.md)
+* Guidelines
   * [Documenting experiments](guidelines/documenting-exps.md)
   * [Making stimuli](guidelines/making-stimuli.md)
   * [Creating experiments](guidelines/designing-exps.md)
