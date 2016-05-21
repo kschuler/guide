@@ -28,7 +28,7 @@ This section documents the hardware and software that I use to run my experiment
 
 - [Hardware and software I use ](tools/hardware-and-software.md)
 - [How to set up a computer to run my experiments](computer-setup.md)
-- [How to set up a server to run my mechanical turk experiments][6]
+- [How to set up a server to run my mechanical turk experiments](tools/server-setup.md)
 - [A list of my favorite tools for common lab tasks][7]
 
 ## Programming cheat sheets
