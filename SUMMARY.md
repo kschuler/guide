@@ -14,7 +14,7 @@
   * [Setting up a computer](tools/computer-setup.md)
   * [Setting up a server](tools/server-setup.md)
   * [Favorite tools for common tasks](tools/favorites.md)
-* [CHEAT SHEETS](cheat-sheets/cheat-sheets.md)
+* Cheat sheets
   * [git](cheat-sheets/git.md)
   * [R](cheat-sheets/R.md)
   * [pandas](cheat-sheets/pandas.md)
