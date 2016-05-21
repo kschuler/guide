@@ -2,8 +2,6 @@
 
 This is a guide to running Katie's experiments, along with some helpful tips and tricks for lab related things.  I hope it is helpful.
 
-##### Last edited 5/21/2016 by Katie
-
 ## Current experiments
 
 This section describes how to recruit and run subjects in Katie's current experiments.
@@ -27,7 +25,7 @@ This section provides guidelines for how I create my experiments, from design to
 This section documents the hardware and software that I use to run my experiments, and how I set up computers and servers to run them. I also provide a list of the tools that I like best for performing common tasks in the lab.
 
 - [Hardware and software I use ](tools/hardware-and-software.md)
-- [How to set up a computer to run my experiments](computer-setup.md)
+- [How to set up a computer to run my experiments](tools/computer-setup.md)
 - [How to set up a server to run my mechanical turk experiments](tools/server-setup.md)
 - [A list of my favorite tools for common lab tasks](tools/favorites.md)
 
@@ -40,4 +38,6 @@ This section provides common commands for each the tools I use most often: git, 
 - [anaconda](cheat-sheets/anaconda.md)
 - [pandas](cheat-sheets/pandas.md)
 - [bash](cheat-sheets/bash.md)
+
+##### Last edited 5/21/2016 by Katie
 
