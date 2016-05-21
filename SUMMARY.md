@@ -20,5 +20,3 @@
   * [pandas](cheat-sheets/pandas.md)
   * [anaconda](cheat-sheets/anaconda.md)
   * [bash](cheat-sheets/bash.md)
-* [EXPERIMENT DOCUMENTATION]()
-  *[Experiment summaries](experiments/toc.md)
