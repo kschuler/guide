@@ -8,7 +8,7 @@ See [the guidelines][1] for the procedures I use to document my experiments and 
 
 * [**GitHub / git **][2] : for version control and hosting repositories
 *  [**mkdocs**][3] : python library for writing documentation in markdown
-*  [**gitbooks**](www.gitbooks.io) : writing documentation in markdown
+*  [**gitbooks**](www.gitbooks.io) : for writing documentation in markdown (this site was built with it!)
 
 ## Making stimuli
 See [the guidelines][4] for how to make stimuli for one of my experiments.
