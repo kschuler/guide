@@ -1,9 +1,8 @@
 # Recruiting subject for current experiments
 All current experiments are below.  If the experiment you are running is not listed please [email me][1] and remind me to update it.
 
-----
-## (0170) Child Yang mixed frequency
-### Kids
+### (0170) Child Yang mixed frequency
+#### Children & adults
 - **Who is running:**
 	- Katie
 - **Inclusion criteria:**
@@ -16,9 +15,10 @@ All current experiments are below.  If the experiment you are running is not lis
 	- The experiment last about 15-20 minutes.
 - **exp-id:**
 	- 0170-empiricalYang-9Noun-MFrule-child
-----
-## (0301) Thompson & Newport SRT
-### Adults  
+
+### (0301) Thompson & Newport SRT
+
+#### Adults  
 - **Who is running:**
 	- Rebecca, Katie
 - **Inclusion criteria:**
