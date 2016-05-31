@@ -1,7 +1,7 @@
 # Recruiting subject for current experiments
 All current experiments are below.  If the experiment you are running is not listed please [email me][1] and remind me to update it.
 
-### 0170-empiricalYang-9Noun-MFrule
+### 0170-empiricalyang-9noun-mixedfreq
 - **Who is running:**
 	- Katie
 - **Inclusion criteria:**
