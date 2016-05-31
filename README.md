@@ -27,7 +27,7 @@ This section documents the hardware and software that I use to run my experiment
 - [Hardware and software](tools/hardware-and-software.md)
 - [Setting up a computer](tools/computer-setup.md)
 - [Setting up a server](tools/server-setup.md)
-- [Favorite tools for tasks](tools/favorites.md)
+- [Favorite tools for common tasks](tools/favorites.md)
 
 ## Programming cheat sheets
 
