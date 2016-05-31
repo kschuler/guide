@@ -11,13 +11,16 @@ See [the guidelines][1] for the procedures I use to document my experiments and 
 *  [**gitbooks**](www.gitbooks.io) : for writing documentation in markdown (this site was built with it!)
 
 ## Making stimuli
+
 See [the guidelines][4] for how to make stimuli for one of my experiments.
+
 ### Artificial Languages
 * **artificial languages from past experiments**
 	* [ **stimuli/languages** (lab members only)](): repository of design sheets for past used artificial languages.
 * **making artificial languages**
 	* **white board / pen and paper**: the moral here is that there is really no substitute for doing this by hand.
 	* **a friend (or 3)**: to double check your work!
+
 ### Sounds
 * **sound files from past experiments**
 	* [**stimuli/sounds** (lab members only) ][6]: repository of sound files used in my experiments.
@@ -31,6 +34,7 @@ See [the guidelines][4] for how to make stimuli for one of my experiments.
 *  **editing sound files**
 	* [**Audacity**][12]: works well for the editing I need. [Here is the manual.][13]
 	* [**Praat**][14]: people who do phonetics and phonology stuff like Praat. [Here is a nice tutorial.][15]
+
 ### Images
  * **image files from past experiments**
 	* [**stimuli/images** (lab members only) ][16]: repository of image files used in my experiments. (lab members only)
