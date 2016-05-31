@@ -3,7 +3,7 @@
 UNDER CONSTRUCTION
 
 ## Computers
-This is a list of the computers that are currently involved in my experiments in some way.
+This is a list of the computers that are involved in my experiments in some way.
 
 ### My server
 **alfred**  
