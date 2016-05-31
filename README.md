@@ -2,6 +2,9 @@
 
 This is a guide to running my experiments, along with some helpful resources for lab related things.  
 
+##### Last edited 5/21/2016 by Katie
+
+
 ## Current experiments
 
 This section describes how to recruit and run subjects in my current experiments.
@@ -39,5 +42,4 @@ This section provides common commands for each the tools I use most often: git, 
 - [pandas](cheat-sheets/pandas.md)
 - [bash](cheat-sheets/bash.md)
 
-##### Last edited 5/21/2016 by Katie
 
