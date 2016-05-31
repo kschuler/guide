@@ -5,9 +5,9 @@ All current experiments are below.  If the experiment you are running is not lis
 - **Who is running:**
 	- Katie
 - **Inclusion criteria:**
-  - 
 	- Age range: 
-      - children: 5.0 - 8.5 years
+      - Children: 5.0 - 8.5 years
+      - Adults: 18 - 26 years
 	- Languages: we request monolingual, but technically unrestricted
 	- Vision and hearing: unrestricted
 - **Study info:**
