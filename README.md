@@ -1,10 +1,10 @@
 # Guide to Katie's Experiments
 
-This is a guide to running Katie's experiments, along with some helpful resources for lab related things.  
+This is a guide to running my experiments, along with some helpful resources for lab related things.  
 
 ## Current experiments
 
-This section describes how to recruit and run subjects in Katie's current experiments.
+This section describes how to recruit and run subjects in my current experiments.
 
 - [Recruiting subjects for current experiments](current/recruitment.md)
 - [How to run current experiments](current/how-to-run.md)
