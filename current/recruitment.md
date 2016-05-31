@@ -1,4 +1,4 @@
-# Currently recruiting
+# Recruiting for current experiments
 All current experiments are below.  If the experiment you are running is not listed please [email me][1] and remind me to update it.
 
 ----
