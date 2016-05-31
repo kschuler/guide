@@ -19,7 +19,7 @@ I prefer to create sound stimuli by recording actual human voices.  Afterward, I
 
 ## Videos
 
-### How to record videos
-### How to edit videos
+### How to record video stimuli
+### How to edit video stimuli
 
 
