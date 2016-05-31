@@ -8,8 +8,8 @@ All current experiments are below.  If the experiment you are running is not lis
 	- Age range: 
       - Children: 5.0 - 8.5 years
       - Adults: 18 - 26 years
-	- Languages: we request monolingual, but technically unrestricted
-	- Vision and hearing: unrestricted
+	- Native English speakers (bilingual is fine)
+	- Normal to corrected-to-normal hearing and vision
 - **Study info:**
 	- This study investigates how people learn languages.
 	- Computer game than involves learning an alien language.
