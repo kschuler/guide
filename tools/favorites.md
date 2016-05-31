@@ -36,7 +36,7 @@ See [the guidelines][4] for how to make stimuli for one of my experiments.
 	* [**Praat**][14]: people who do phonetics and phonology stuff like Praat. [Here is a nice tutorial.][15]
 
 ### Images
- * **image files from past experiments**
+* **image files from past experiments**
 	* [**stimuli/images** (lab members only) ][16]: repository of image files used in my experiments. (lab members only)
 * **finding image stimuli** (open-source)
 	* **[freepik][17]**: free photos and vector graphics, searchable by category
@@ -49,7 +49,7 @@ See [the guidelines][4] for how to make stimuli for one of my experiments.
 	* **[Gimp][24]**: an free, open-source version of Photoshop. [Gimp tutorials][25]
 
 ### Videos
- * **video files from past experiments**
+* **video files from past experiments**
 	* [**stimuli/videos** (lab members only) ][26]: repository of image files used in my experiments.
 * **making video stimuli**
 	* I haven’t done this in years, but whenever people do, they usually use the resources in [Ted’s lab][27].  (ask Lissa)
