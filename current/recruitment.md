@@ -1,11 +1,13 @@
 # Recruiting subject for current experiments
 All current experiments are below.  If the experiment you are running is not listed please [email me][1] and remind me to update it.
 
-### 0170 - Yang mixed frequency kids
+### 0170 - Yang mixed frequency
 - **Who is running:**
 	- Katie
 - **Inclusion criteria:**
-	- Age range: unrestricted (age data collected on turk)
+  - 
+	- Age range: 
+      - children: 5.0 - 8.5 years
 	- Languages: we request monolingual, but technically unrestricted
 	- Vision and hearing: unrestricted
 - **Study info:**
