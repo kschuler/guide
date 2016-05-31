@@ -63,9 +63,7 @@ Now that you have created a server, you can talk to it from the terminal on your
 
 Open a terminal window and enter the following (Be sure to swap my IP address for your server's IP Address)
 ```bash
-
 ssh root@192.241.162.30
-
 ```
 
 If you opted not to use an SSH key, you might see a message like this.  Answer yes to proceed.
