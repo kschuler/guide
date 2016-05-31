@@ -1,5 +1,5 @@
 # Currently recruiting
-All of my currently running experiments are listed below.  If the experiment you are running is not listed please [email me][1] and remind me to update it. Or, if I’ve shown you how and you are feeling resourceful, update it yourself using the [Edit on GitHub][2]  link.
+All current experiments are below.  If the experiment you are running is not listed please [email me][1] and remind me to update it.
 
 ----
 ## (0170) Child Yang mixed frequency
