@@ -1,4 +1,4 @@
-# How to run
+# How to run current experiments
 # Kids
 
 ## (0160) Child Yang mixed frequency
