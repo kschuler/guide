@@ -47,8 +47,16 @@ Macbook Air | 2 GHz Intel Core i7 | 8 GB 1600 MHz DDR3 | 250 GB
 Intel HD Graphics 4000 1024 MB | Serial number: C02JR2P4DRVG
 ## Other hardware
 
-The eytracker
+- eyetracker
+- headphones
+- touchscreen (elo)
+- microphones
+- marantz
 
 ## Software
 ### Required
+
+- audacity
+- 
+
 ### Optional
