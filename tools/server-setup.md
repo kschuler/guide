@@ -1,5 +1,7 @@
 # Setting up a server
 
+UNDER CONSTRUCTION
+
 ## Get a Digital Ocean server
 
 The first step is creating an account on [Digital Ocean](https://www.digitalocean.com/).  Digital Ocean is a cloud service that allows users to create simple cloud servers for a small per month fee. You can download [GitHub's student developer pack](https://education.github.com/pack) to receive a $50 Digital Ocean credit. (And lots of other goodies!)
