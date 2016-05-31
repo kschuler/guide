@@ -13,6 +13,13 @@ I prefer to create sound stimuli by recording actual human voices.  Afterward, I
 
 ## Images
 
+### How to find image stimuli
+
+### How to edit image stimuli
+
 ## Videos
+
+### How to record videos
+### How to edit videos
 
 
