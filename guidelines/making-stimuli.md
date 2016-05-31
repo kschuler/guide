@@ -2,7 +2,7 @@
 
 ## Sounds
 
-I prefer to create sound stimuli by recording actual human voices.  Afterward, I edit them to control for specific features like noise, pitch, and duration.  While speech synthesizers are great these days, I find it difficult to get them to produce nonsense words the way I want them to.  If my studies used natural language words or sentences, I would be fine with synthesizing sounds.
+I prefer to create sound stimuli by recording actual human voices.  Afterward, I edit them to control for specific features like noise, pitch, and duration.  While speech synthesizers are great these days, I find it difficult to get them to produce nonsense words the way I want them to.  If my studies used natural language words or sentences, I would be fine with synthesizing sound stimuli.
 
 ## Images
 
