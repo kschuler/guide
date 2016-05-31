@@ -2,7 +2,7 @@
 
 This is a guide to running my experiments, along with some helpful resources for lab related things.  
 
-##### Last edited 5/21/2016 by Katie
+##### Last edited 5/31/2016 by Katie
 
 
 ## Current experiments
