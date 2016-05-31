@@ -1,3 +1,2 @@
 
-# How to design experiments
-
+# Designing experiments
