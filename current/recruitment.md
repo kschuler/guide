@@ -1,7 +1,7 @@
 # Recruiting subject for current experiments
 All current experiments are below.  If the experiment you are running is not listed please [email me][1] and remind me to update it.
 
-### 0170 - Yang mixed frequency
+### 0170-empiricalYang-9Noun-MFrule
 - **Who is running:**
 	- Katie
 - **Inclusion criteria:**
@@ -14,8 +14,6 @@ All current experiments are below.  If the experiment you are running is not lis
 	- This study investigates how people learn languages.
 	- Computer game than involves learning an alien language.
 	- The experiment last about 15-20 minutes.
-- **exp-id:**
-	- 0170-empiricalYang-9Noun-MFrule
 
 ### (0301) Thompson & Newport SRT
 
