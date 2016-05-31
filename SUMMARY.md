@@ -3,12 +3,12 @@
   * [Recruiting subjects](current/recruitment.md)
   * [How to run](current/how-to-run.md)
 * Guidelines
-  * [Documenting experiments](guidelines/documenting-exps.md)
+  * [Designing experiments](guidelines/designing-exps.md)
   * [Making stimuli](guidelines/making-stimuli.md)
-  * [Creating experiments](guidelines/designing-exps.md)
   * [Running experiments](guidelines/running-exps.md)
   * [Coding and transcribing data](guidelines/coding-and-transcribing.md)
   * [Analyzing data](guidelines/analyzing-data.md) 
+  * [Documenting experiments](guidelines/documenting-exps.md)
 * Tools
   * [Hardware & software](tools/hardware-and-software.md)
   * [Setting up a computer](tools/computer-setup.md)
