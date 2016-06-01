@@ -28,7 +28,10 @@ And install jupyter into that environment
 conda install jupyter
 ```
 
-
+To exit the environment, type
+```
+source deactivate
+```
 
 3. 1. make sure miniconda is installed
 2. get r-essentials
