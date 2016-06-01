@@ -40,10 +40,11 @@ To analyze data with Jupyter, you **must** activate the jupyter conda environmen
 ```
 source activate jupyter
 ```
+When you do this, you should see something like this appear in the terminal.
 
 ![activate jupyter](static/images/source-activate-jupyter.png)
 
-Navigate to the analyses folder. (For research assistants, this is the 'Kschuler-current/analyses' folder in the learninglab Dropbox)
+Once the jupyter environment is active, you can navigate to the analyses folder. (For research assistants, this is the 'Kschuler-current/analyses' folder in the learninglab Dropbox)
 ```
 cd ~/Dropbox/Kschuler-current/analyses
 ```
