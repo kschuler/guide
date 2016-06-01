@@ -20,7 +20,7 @@ All current experiments are below.  If the experiment you are running is not lis
 	- Maddie
 - **Inclusion criteria:**
 	- Age range: 
-      - Children: 5.0 - 8.5 years
+      - Children: 5.0 - 7.0 years
       - Adults: 18 - 26 years
 	- Native English speakers (bilingual is fine)
 	- Normal to corrected-to-normal hearing and vision
