@@ -33,7 +33,7 @@ All current experiments are below.  If the experiment you are running is not lis
 
 #### Adults  
 - **Who is running:**
-	- Maddie
+	- Jessie, Maddie
 - **Inclusion criteria:**
 	- Age range: 18-26 years
 	- Native English speakers (bilingual is fine)
