@@ -40,8 +40,6 @@ All current experiments are below.  If the experiment you are running is not lis
 - **Study info:**
 	- Participants play whack-a-mole on a touch screen.
 	- The experiment lasts about 30 minutes.
-- **exp-id:**
-	- 0301-mechanical-turk-9noun-hfrule
 
 ### 0170-empiricalyang-mturk-load
 - **Who is running:**
@@ -54,8 +52,7 @@ All current experiments are below.  If the experiment you are running is not lis
 	- This study investigates how people learn languages.
 	- Computer game than involves learning an alien language.
 	- The experiment last about 15-20 minutes.
-- **exp-id:**
-	- 0170-empiricalyang-mturk-load
+
 
 ## (0200) Popsicle sticks pilot
 ### [ on hold ] Adults
