@@ -1,4 +1,4 @@
-# Recruiting subject for current experiments
+# Recruiting subjects for current experiments
 All current experiments are below.  If the experiment you are running is not listed please [email me][1] and remind me to update it.
 
 ### 0170-empiricalyang-9noun-mixedfreq
@@ -31,7 +31,6 @@ All current experiments are below.  If the experiment you are running is not lis
 
 ### 0301- Thompson & Newport SRT
 
-#### Adults  
 - **Who is running:**
 	- Jessie, Maddie
 - **Inclusion criteria:**
@@ -44,8 +43,7 @@ All current experiments are below.  If the experiment you are running is not lis
 - **exp-id:**
 	- 0301-mechanical-turk-9noun-hfrule
 
-## (0164) Mturk Yang cognitive load
-### Mechanical Turk
+### 0170-empiricalyang-mturk-load
 - **Who is running:**
 	- Katie
 - **Inclusion criteria:**
