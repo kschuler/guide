@@ -42,7 +42,7 @@ source activate jupyter
 ```
 When you do this, you should see something like this appear in the terminal.
 
-![activate jupyter](static/images/source-activate-jupyter.png)
+![](static/images/source-activate-jupyter.png)
 
 Once the jupyter environment is active, you can navigate to the analyses folder. (For research assistants, this is the 'Kschuler-current/analyses' folder in the learninglab Dropbox)
 ```
