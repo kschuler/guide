@@ -15,6 +15,20 @@ All current experiments are below.  If the experiment you are running is not lis
 	- Computer game than involves learning an alien language.
 	- The experiment last about 15-20 minutes.
 
+### XXXX-condvar-XXX
+- **Who is running:**
+	- Maddie
+- **Inclusion criteria:**
+	- Age range: 
+      - Children: 5.0 - 8.5 years
+      - Adults: 18 - 26 years
+	- Native English speakers (bilingual is fine)
+	- Normal to corrected-to-normal hearing and vision
+- **Study info:**
+	- This study investigates how people learn languages.
+	- Computer game than involves learning an alien language.
+	- The experiment last about 15-20 minutes.
+
 ### 0301- Thompson & Newport SRT
 
 #### Adults  
