@@ -30,7 +30,6 @@ All current experiments are below.  If the experiment you are running is not lis
 	- The experiment last about 15-20 minutes.
 
 ### 0301- Thompson & Newport SRT
-
 - **Who is running:**
 	- Jessie, Maddie
 - **Inclusion criteria:**
@@ -53,21 +52,6 @@ All current experiments are below.  If the experiment you are running is not lis
 	- Computer game than involves learning an alien language.
 	- The experiment last about 15-20 minutes.
 
-
-## (0200) Popsicle sticks pilot
-### [ on hold ] Adults
-- **Who is running:**
-	- Alix, Katie
-- **Inclusion criteria:**
-	- Age range: 18-26 years
-	- Native English speakers (monolingual preferred)
-	- Normal to corrected-to-normal hearing and vision
-- **Study info:**
-	- This study investigates how people remember images and sounds.
-	- Computer game that involves studying images and drawing them afterward.
-	- The experiment lasts about 30 minutes.
-- **exp-id:**
-	- 0160-mechanical-turk-9noun-hfrule
 
 [1]:	mailto:kathryn.schuler@gmail.com
 [2]:	https://github.com/kschuler/lab-docs
