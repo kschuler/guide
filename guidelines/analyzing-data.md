@@ -33,8 +33,23 @@ To exit the environment, type
 source deactivate
 ```
 
-3. 1. make sure miniconda is installed
-2. get r-essentials
+## Analyzing data with Jupyter
+
+To analyze data with Jupyter, you **must** activate the jupyter conda environment you created.
+
+```
+source activate jupyter
+```
+
+![This file](static/images/source-activate-jupyter.png)
+
+Navigate to the analyses folder. (For research assistants, this is the 'Kschuler-current/analyses' folder in the learninglab Dropbox)
+```
+cd ~/Dropbox/Kschuler-current/analyses
+```
+And open the 
+
+
 
 
 
