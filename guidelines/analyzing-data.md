@@ -52,9 +52,12 @@ And then open the jupyter notebook.
 ```
 jupyter notebook
 ```
+The notebook should be available at http://localhost:8889/ (or some other port number).
 
+![jupyter notebook](../static/images/jupyter-notebook.png)
 
+A browser will open with the jupyter notebook. You can click on any of the `.ipynb` files to open that particular notebook.
 
-
+![jupyter browser](../static/images/jupyter-browser.png)
 
 
