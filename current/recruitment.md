@@ -3,7 +3,7 @@ All current experiments are below.  If the experiment you are running is not lis
 
 ### 0170-empiricalyang-9noun-mixedfreq
 - **Who is running:**
-	- Katie
+	- Jessie
 - **Inclusion criteria:**
 	- Age range: 
       - Children: 5.0 - 8.5 years
