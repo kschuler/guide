@@ -48,7 +48,11 @@ Once the jupyter environment is active, you can navigate to the analyses folder.
 ```
 cd ~/Dropbox/Kschuler-current/analyses
 ```
-And open the 
+And then open the jupyter notebook.
+```
+jupyter notebook
+```
+
 
 
 
