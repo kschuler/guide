@@ -29,7 +29,7 @@ All current experiments are below.  If the experiment you are running is not lis
 	- Computer game than involves learning an alien language.
 	- The experiment last about 15-20 minutes.
 
-### 0301- Thompson & Newport SRT
+### 0302-hierarchical-srt-thompsonnewport-nocue
 - **Who is running:**
 	- Jessie, Maddie
 - **Inclusion criteria:**
