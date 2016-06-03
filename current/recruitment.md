@@ -51,5 +51,7 @@ All current experiments are below.  If the experiment you are running is not lis
 - **Study info:**
 	- Participants play whack-a-mole on a touch screen.
 	- The experiment lasts about 30 minutes.
+- **Notes:**
+  - Mackenzie does the recruiting and running of these patients.
 
 [1]:	mailto:kathryn.schuler@gmail.com
