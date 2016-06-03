@@ -89,6 +89,5 @@ Instructions to run all current experiments are below.  If the experiment you ar
 - Read all on-screen instructions to participant
 
 ##### After running
-- Exit my conda environment with `source deactivate`
 - Copy participant data to [0035 raw-data folder]()
 - Fill in final columns of [0035 subject tracking sheet]()
