@@ -23,7 +23,7 @@ All current experiments are below.  If the experiment you are running is not lis
 ### 0400-condvar-exp1-pureincon
 ###### This is a 2 day study!  Must be available for 2 study days, with not more than 2 days between study days (e.g. Day 1 on Friday and Day 2 on Monday is OK).
 - **Who is running:**
-	- Maddie (Katie)
+	- Madison (Katie)
 - **Inclusion criteria:**
 	- Age range: 
       - Children: 5.0 - 6.99 years
@@ -37,7 +37,7 @@ All current experiments are below.  If the experiment you are running is not lis
 
 ### 0302-hierarchical-srt-thompsonnewport-nocue
 - **Who is running:**
-	- Jessie, Maddie (Katie)
+	- Jessie, Madison (Katie)
 - **Inclusion criteria:**
 	- Age range: 18-26 years
 	- Native English speakers (bilingual is fine)
