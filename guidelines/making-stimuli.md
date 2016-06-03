@@ -3,9 +3,9 @@
 These are the general guidelines I follow when making stimuli for one of my experiments. 
 
 - [Sounds](#Sounds)
-  - [How to record sounds](#How-to-record-sounds)
-  - [How to edit sounds](#How-to-edit-sounds)
-  - [How to synthesize sounds](#How-to-synthesize-sounds)
+  - [How to record sounds](#how-to-record-sounds)
+  - [How to edit sounds](#how-to-edit-sounds)
+  - [How to synthesize sounds](#how-to-synthesize-sounds)
 - [Images](#Images)
   - [How to find image stimuli](#How-to-find-image-stimuli)
   - [How to edit image stimuli](#How-to-edit-image-stimuli)
