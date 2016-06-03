@@ -52,5 +52,44 @@ Instructions to run all current experiments are below.  If the experiment you ar
 - Fill in final columns of [0164 subject tracking sheet]()
 
 ### 0302-hierarchical-srt-thompsonnewport-nocue
+##### Before running
+- Open the [0164 subject tracking sheet]()
+  - fill in participant information
+  - get subject id number (SID) and condition
+- Setup the experiment
+  - In terminal, navigate to the experiment `cd ~/Dropbox/Kschuler-current/experiments/0164-empericalyang-9noun-mfrule-tophalf-child-exp`
+  - Enter my conda environment with `source activate kschuler`
+- Start the experiment
+  - Type `pythonw run-exp.py`
+  - Enter requested information 
 
+##### During running
+- Read all on-screen instructions to participant
+- Offer a sticker at each break
+- Record responses on [0164 data sheet]()
+
+##### After running
+- Exit my conda environment with `source deactivate`
+- Copy participant data to [0164 raw-data folder]()
+- Fill in final columns of [0164 subject tracking sheet]()
 ### 0035-babysaffran-srt-patient
+##### Before running
+- Open the [0164 subject tracking sheet]()
+  - fill in participant information
+  - get subject id number (SID) and condition
+- Setup the experiment
+  - In terminal, navigate to the experiment `cd ~/Dropbox/Kschuler-current/experiments/0164-empericalyang-9noun-mfrule-tophalf-child-exp`
+  - Enter my conda environment with `source activate kschuler`
+- Start the experiment
+  - Type `pythonw run-exp.py`
+  - Enter requested information 
+
+##### During running
+- Read all on-screen instructions to participant
+- Offer a sticker at each break
+- Record responses on [0164 data sheet]()
+
+##### After running
+- Exit my conda environment with `source deactivate`
+- Copy participant data to [0164 raw-data folder]()
+- Fill in final columns of [0164 subject tracking sheet]()
