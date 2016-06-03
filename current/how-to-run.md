@@ -20,7 +20,7 @@ Instructions to run all current experiments are below.  If the experiment you ar
   - Enter requested information 
 
 ##### During running
-- Read all instructions to participant
+- Read all on-screen instructions to participant
 - Offer a sticker at each break
 - Record responses on [0164 data sheet]()
 ### 0400-condvar-exp1-pureincon
