@@ -6,6 +6,8 @@ I prefer to create sound stimuli by recording actual human voices.  Afterward, I
 
 ### How to record sounds
 
+In our lab we record sounds using a Marantz 
+
 ### How to edit sounds
 
 ### How to synthesize sounds
