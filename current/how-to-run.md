@@ -25,7 +25,9 @@ Instructions to run all current experiments are below.  If the experiment you ar
 - Record responses on [0164 data sheet]()
 
 ##### After running
-- Copy participant data to raw-data folder
+- Exit my conda environment with `source deactivate`
+- Copy participant data to [0164 raw-data folder]()
+- Fill in final columns of [0164 subject tracking sheet]()
 
 ### 0400-condvar-exp1-pureincon
 
