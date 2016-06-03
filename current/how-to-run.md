@@ -53,7 +53,7 @@ Instructions to run all current experiments are below.  If the experiment you ar
 
 ### 0302-hierarchical-srt-thompsonnewport-nocue
 ##### Before running
-- Open the [0164 subject tracking sheet]()
+- Open the [0302 subject tracking sheet]()
   - fill in participant information
   - get subject id number (SID) and condition
 - Setup the experiment
