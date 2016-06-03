@@ -3,7 +3,7 @@ All current experiments are below.  If the experiment you are running is not lis
 
 ### 0164-empiricalyang-9noun-mfrule-tophalf-child
 - **Who is running:**
-	- Jessie
+	- Jessie (Katie)
 - **Inclusion criteria:**
 	- Age range: 
       - Children: 5.0 - 6.99 years
@@ -17,7 +17,7 @@ All current experiments are below.  If the experiment you are running is not lis
 
 ### 0400-condvar-exp1-pureincon
 - **Who is running:**
-	- Maddie
+	- Maddie (Katie)
 - **Inclusion criteria:**
 	- Age range: 
       - Children: 5.0 - 6.99 years
@@ -31,7 +31,7 @@ All current experiments are below.  If the experiment you are running is not lis
 
 ### 0302-hierarchical-srt-thompsonnewport-nocue
 - **Who is running:**
-	- Jessie, Maddie
+	- Jessie, Maddie (Katie)
 - **Inclusion criteria:**
 	- Age range: 18-26 years
 	- Native English speakers (bilingual is fine)
