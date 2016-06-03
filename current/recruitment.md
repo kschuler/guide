@@ -40,6 +40,16 @@ All current experiments are below.  If the experiment you are running is not lis
 	- Participants play whack-a-mole on a touch screen.
 	- The experiment lasts about 30 minutes.
 
+### 0035-babysaffran-srt-patient
 
+- **Who is running:**
+  - Mackenzie
+- **Inclusion criteria:**
+	- Age range: flexible (~50+)
+	- Patients with aphasia
+	- Participated in 0062 (Saffran Lang)
+- **Study info:**
+	- Participants play whack-a-mole on a touch screen.
+	- The experiment lasts about 30 minutes.
 
 [1]:	mailto:kathryn.schuler@gmail.com
