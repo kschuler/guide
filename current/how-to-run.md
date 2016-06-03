@@ -22,7 +22,7 @@ Instructions to run all current experiments are below.  If the experiment you ar
 ##### During running
 - Read all instructions to participant
 - Offer a sticker at each break
-- 
+- Record responses on [0164 data sheet]()
 ### 0400-condvar-exp1-pureincon
 
 ### 0302-hierarchical-srt-thompsonnewport-nocue
