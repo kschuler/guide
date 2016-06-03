@@ -26,13 +26,13 @@ In our lab we record sounds using a Marantz PMD671 located in BldgD 145-D.  Belo
 
 I use Audacity to edit sound files for my experiments.  There are four ways in which I typically edit my sound files.  I select the best sample of a given stimulus, remove background noise, add or remove silence if necessary, and export as a `.wav` file.
 
-##### Selecting the best sample
+##### Select the best sample
 
-##### Removing background noise
+##### Remove background noise
 
-##### Adding or removing silence
+##### Add or remove silence
 
-##### Exporting edited stimulus
+##### Export final stimulus
 
 ### How to synthesize sounds
 ##### A short list of sounds
