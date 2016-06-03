@@ -16,8 +16,6 @@ All current experiments are below.  If the experiment you are running is not lis
 	- The experiment last about 15-20 minutes.
 
 ### 0400-condvar-animacy
-### 0401-condvar-animacy-speaker
-
 - **Who is running:**
 	- Maddie
 - **Inclusion criteria:**
