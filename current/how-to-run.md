@@ -14,7 +14,13 @@ Instructions to run all current experiments are below.  If the experiment you ar
   - get subject id number (SID)
 - Setup the experiment
   - In terminal, navigate to the experiment `cd ~/Dropbox/Kschuler-current/experiments/0164-empericalyang-9noun-mfrule-tophalf-child-exp`
-  - Enter my environment with `source activate kschuler`
+  - Enter my conda environment with `source activate kschuler`
+- Start the experiment
+  - Type `pythonw run-exp.py`
+
+##### During running
+- Read all instructions 
+- 
 ### 0400-condvar-exp1-pureincon
 
 ### 0302-hierarchical-srt-thompsonnewport-nocue
