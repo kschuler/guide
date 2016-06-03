@@ -37,7 +37,7 @@ All current experiments are below.  If the experiment you are running is not lis
 
 ### 0302-hierarchical-srt-thompsonnewport-nocue
 - **Who is running:**
-	- Jessie, Madison, (Katie)
+	- Jessie, Madison, Katie
 - **Inclusion criteria:**
 	- Age range: 18-26 years
 	- Native English speakers (bilingual is fine)
