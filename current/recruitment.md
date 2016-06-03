@@ -15,7 +15,9 @@ All current experiments are below.  If the experiment you are running is not lis
 	- Computer game than involves learning an alien language.
 	- The experiment last about 15-20 minutes.
 
-### XXXX-condvar-XXX
+### 0400-condvar-animacy
+### 0401-condvar-animacy-speaker
+
 - **Who is running:**
 	- Maddie
 - **Inclusion criteria:**
