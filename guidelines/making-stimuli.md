@@ -17,7 +17,7 @@ I prefer to create sound stimuli by recording actual human voices.  Afterward, I
 
 ### How to edit image stimuli
 
-There are two ways in which I typically edit image stimuli: removing background and re-sizing.
+There are two ways in which I typically edit image stimuli: removing background and re-sizing.  I like to edit images with [Inkscape](https://inkscape.org/en/), an open-source vector graphics editor.
 
 ##### Removing background from images
 
