@@ -19,9 +19,9 @@ I prefer to create sound stimuli by recording actual human voices.  Afterward, I
 
 There are two ways in which I typically edit image stimuli: removing background and re-sizing.
 
-##### Removing background
+##### Removing background from images
 
-
+##### Re-sizing images
 
 
 
