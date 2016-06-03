@@ -2,11 +2,11 @@
 
 These are the general guidelines I follow when making stimuli for one of my experiments.  Below I cover:
 
-- Sounds
-  - How to record sounds
-  - How to edit sounds
-  - How to synthesize sounds
-- Images
+- [Sounds](#Sounds)
+  - [How to record sounds](#How-to-record-sounds)
+  - [How to edit sounds](#How-to-edit-sounds)
+  - [How to synthesize sounds](#How-to-synthesize-sounds)
+- [Images](#Images)
   - How to find image stimuli
   - How to edit image stimuli
 - Movies 
