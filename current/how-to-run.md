@@ -57,7 +57,7 @@ Instructions to run all current experiments are below.  If the experiment you ar
   - fill in participant information
   - get subject id number (SID) and condition
 - Setup the experiment
-  - In terminal, navigate to the experiment `cd ~/Dropbox/Kschuler-current/experiments/0302-hierarchical-srt-thompsonnewport-nocue`
+  - In terminal, navigate to the experiment `cd ~/Dropbox/Kschuler-current/experiments/0302-hierarchical-srt-thompsonnewport-nocue-exp`
   - Enter my conda environment with `source activate kschuler`
 - Start the experiment
   - Type `pythonw run-exp.py`
@@ -78,9 +78,11 @@ Instructions to run all current experiments are below.  If the experiment you ar
   - get subject id number (SID) and condition
 - Setup the experiment
   - In terminal, navigate to the experiment `cd ~/Dropbox/Kschuler-current/experiments/0035-babysaffran-srt-patient-exp`
-  - Enter my conda environment with `source activate kschuler`
-- Start the experiment
-  - Type `pythonw run-exp.py`
+  - Start in terminal (depending on condition)
+    - Lang A Test A: `python 0035_langA_testA.py`
+    - Lang A Test B: `python 0035_langA_testB.py`
+    - Lang B Test A: `python 0035_langB_testA.py`
+    - Lang B Test B: `python 0035_langB_testB.py`
   - Enter requested information 
 
 ##### During running
