@@ -11,15 +11,17 @@ Instructions to run all current experiments are below.  If the experiment you ar
 ##### Before running
 - Open the [0164 subject tracking sheet]()
   - fill in participant information
-  - get subject id number (SID)
+  - get subject id number (SID) and condition
 - Setup the experiment
   - In terminal, navigate to the experiment `cd ~/Dropbox/Kschuler-current/experiments/0164-empericalyang-9noun-mfrule-tophalf-child-exp`
   - Enter my conda environment with `source activate kschuler`
 - Start the experiment
   - Type `pythonw run-exp.py`
+  - Enter requested information 
 
 ##### During running
-- Read all instructions 
+- Read all instructions to participant
+- Offer a sticker at each break
 - 
 ### 0400-condvar-exp1-pureincon
 
