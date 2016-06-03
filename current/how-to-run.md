@@ -39,17 +39,17 @@ Instructions to run all current experiments are below.  If the experiment you ar
   - Enter my conda environment with `source activate kschuler`
 - Start the experiment
   - Type `pythonw run-exp.py`
-  - Enter requested information 
+  - Enter requested information (select correct day 1 or 2)
 
 ##### During running
 - Read all on-screen instructions to participant
 - Offer a sticker at each break
-- Record responses on [0164 data sheet]()
+- Record responses on [0400 data sheet]()
 
 ##### After running
 - Exit my conda environment with `source deactivate`
-- Copy participant data to [0164 raw-data folder]()
-- Fill in final columns of [0164 subject tracking sheet]()
+- Copy participant data to [0400 raw-data folder]()
+- Fill in final columns of [0400 subject tracking sheet]()
 
 ### 0302-hierarchical-srt-thompsonnewport-nocue
 ##### Before running
