@@ -9,7 +9,9 @@ I prefer to create sound stimuli by recording actual human voices.  Afterward, I
 ### How to edit sounds
 
 ### How to synthesize sounds
+##### A short list of sounds
 
+##### A long list of sounds
 
 ## Images
 
