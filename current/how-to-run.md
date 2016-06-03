@@ -9,7 +9,7 @@ Instructions to run all current experiments are below.  If the experiment you ar
 ### 0164-empiricalyang-9noun-mfrule-tophalf-child
 
 ##### Before running
-- Open the [0164 subject tracking sheet]()
+- Open the [0164 subject tracking sheet](https://www.dropbox.com/s/mtp8m18hzwu0k4v/0164-empiricalyang-9noun-mfrule-tophalf-child-track.csv?dl=0)
   - fill in participant information
   - get subject id number (SID) and condition
 - Setup the experiment
@@ -22,7 +22,7 @@ Instructions to run all current experiments are below.  If the experiment you ar
 ##### During running
 - Read all on-screen instructions to participant
 - Offer a sticker at each break
-- Record responses on [0164 data sheet]()
+- Record responses on [0164 data sheet](https://www.dropbox.com/s/rbcvs9ak21dmu15/0164-empericalyang-9noun-mfrule-tophalf-child-data-sheet.docx?dl=0)
 
 ##### After running
 - Exit my conda environment with `source deactivate`
