@@ -6,7 +6,7 @@ I prefer to create sound stimuli by recording actual human voices.  Afterward, I
 
 ### How to record sounds
 
-In our lab we record sounds using a Marantz PMD671 located in BldgD 145-D.  Below are the instructions for typical use of the Marantz PMD671 in our lab. The full manual for the Marantz PMD671 is available here.
+In our lab we record sounds using a Marantz PMD671 located in BldgD 145-D.  Below are the instructions for typical use of the Marantz PMD671 in our lab. The full manual for the Marantz PMD671 is available [here](../static/marantz-pmd671.pdf).
 
 ### How to edit sounds
 
