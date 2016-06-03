@@ -11,8 +11,8 @@ These are the general guidelines I follow when making stimuli for one of my expe
   - [How to edit image stimuli](#How-to-edit-image-stimuli)
 - [Videos](#Videos) 
   - [How to find video stimuli](#How-to-find-video-stimuli)
-  - How to record video stimuli
-  - How to edit video stimuli
+  - [How to record video stimuli](#How-to-record-video-stimuli)
+  - [How to edit video stimuli](#How-to-edit-video-stimuli)
 
 ## Sounds
 
