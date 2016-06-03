@@ -2,17 +2,17 @@
 
 These are the general guidelines I follow when making stimuli for one of my experiments. 
 
-- [Sounds](#Sounds)
+- [Sounds](#sounds)
   - [How to record sounds](#how-to-record-sounds)
   - [How to edit sounds](#how-to-edit-sounds)
   - [How to synthesize sounds](#how-to-synthesize-sounds)
-- [Images](#Images)
-  - [How to find image stimuli](#How-to-find-image-stimuli)
-  - [How to edit image stimuli](#How-to-edit-image-stimuli)
-- [Videos](#Videos) 
-  - [How to find video stimuli](#How-to-find-video-stimuli)
-  - [How to record video stimuli](#How-to-record-video-stimuli)
-  - [How to edit video stimuli](#How-to-edit-video-stimuli)
+- [Images](#images)
+  - [How to find image stimuli](#how-to-find-image-stimuli)
+  - [How to edit image stimuli](#how-to-edit-image-stimuli)
+- [Videos](#videos) 
+  - [How to find video stimuli](#how-to-find-video-stimuli)
+  - [How to record video stimuli](#how-to-record-video-stimuli)
+  - [How to edit video stimuli](#how-to-edit-video-stimuli)
 
 ## Sounds
 
