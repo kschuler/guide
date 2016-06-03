@@ -23,6 +23,10 @@ Instructions to run all current experiments are below.  If the experiment you ar
 - Read all on-screen instructions to participant
 - Offer a sticker at each break
 - Record responses on [0164 data sheet]()
+
+##### After running
+- Copy participant data to raw-data folder
+
 ### 0400-condvar-exp1-pureincon
 
 ### 0302-hierarchical-srt-thompsonnewport-nocue
