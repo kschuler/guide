@@ -40,18 +40,6 @@ All current experiments are below.  If the experiment you are running is not lis
 	- Participants play whack-a-mole on a touch screen.
 	- The experiment lasts about 30 minutes.
 
-### 0170-empiricalyang-mturk-load
-- **Who is running:**
-	- Katie
-- **Inclusion criteria:**
-	- Age range: unrestricted (age data collected on turk)
-	- Languages: we request monolingual, but technically unrestricted
-	- Vision and hearing: unrestricted
-- **Study info:**
-	- This study investigates how people learn languages.
-	- Computer game than involves learning an alien language.
-	- The experiment last about 15-20 minutes.
 
 
 [1]:	mailto:kathryn.schuler@gmail.com
-[2]:	https://github.com/kschuler/lab-docs
