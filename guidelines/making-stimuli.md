@@ -55,6 +55,8 @@ There are two ways in which I typically edit image stimuli: removing background 
 
 ## Videos
 
+### How to find video stimuli
+
 ### How to record video stimuli
 
 ### How to edit video stimuli
