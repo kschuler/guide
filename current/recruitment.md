@@ -47,7 +47,7 @@ All current experiments are below.  If the experiment you are running is not lis
 - **Inclusion criteria:**
 	- Age range: flexible (~50+)
 	- Patients with aphasia
-	- Participated in 0062 (Saffran Lang)
+	- Participated in 0062 (Saffran Lang) preferred
 - **Study info:**
 	- Participants play whack-a-mole on a touch screen.
 	- The experiment lasts about 30 minutes.
