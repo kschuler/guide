@@ -7,7 +7,6 @@
   * [Running experiments](guidelines/running-exps.md)
   * [Coding and transcribing data](guidelines/coding-and-transcribing.md)
   * [Analyzing data](guidelines/analyzing-data.md) 
-  * [Documenting experiments](guidelines/documenting-exps.md)
 * Tools
   * [Hardware & software](tools/hardware-and-software.md)
   * [Setting up a computer](tools/computer-setup.md)
