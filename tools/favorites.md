@@ -9,7 +9,7 @@ These are my favorite tools for common lab-related tasks.  Some links say "lab m
   - [Images](#images)
   - [Videos](#videos)
 - [Creating experiments](#creating-experiments)
-  - with Applications
+  - [with Applications](#with-applications)
   - [with Code](#with-code)
 - [Data analysis and visualization](#data-analysis-and-visualization)
 - [Publishing and presenting](#publishing-and-presenting)
