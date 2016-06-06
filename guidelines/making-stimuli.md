@@ -114,6 +114,8 @@ Select `save`.  You can enter meta-data if you wish to.  I often leave this part
 
 ![](../static/images/sound-metadata.png)
 
+Click "OK" to finish exporting your stimulus.
+
 ### How to synthesize sounds
 
 ##### A short list of sounds
