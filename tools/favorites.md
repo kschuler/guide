@@ -93,8 +93,8 @@ I love python, so my favorite experiment coding resources are all python-based. 
 ## Data analysis & visualization
 * **Analysis**
   *  [Jupyter notebook](http://jupyter-notebook-beginner-guide.readthedocs.io/en/latest/index.html): dynamic report generation (similar concept to [knitr](http://yihui.name/knitr/))
-  * [Pandas](http://pandas.pydata.org/): python library for data structures and analysis
-  * R / ggplot2
+  * [Pandas](http://pandas.pydata.org/): python library for data analysis and data structures
+  * [R-Studio](https://www.rstudio.com/): user-interface for R
 * **Visualization**
   * Seaborn
   * ggplot2
