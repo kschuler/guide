@@ -2,10 +2,10 @@
 
 These are my favorite tools for common lab-related tasks.  Some links say "lab members only". You must request my permission for access to those links.
 
-- Documentation
-- Making stimuli
-  - Artificial languages
-  - Sounds
+- [Documentation](#documentation)
+- [Making stimuli](#making-stimuli)
+  - [Artificial languages](#artificial-languages)
+  - [Sounds](#sounds)
   - Images
   - Videos
 - Creating experiments
