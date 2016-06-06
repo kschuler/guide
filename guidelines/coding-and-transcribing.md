@@ -45,7 +45,7 @@ Here is an example with some of the trials filled in.
 
 ##### How do I "transcribe" the sound files for the `transcription` column?
 
-> Write exatly what the participant said, word-for-word, in quotes.  For example, `"gentif mawg ka. [did I say it right?]"`.  If the participant goes off topic, transcribe that part in brackets `[ ]`.  If the participant goes off topic for a really long time (this happens often with children), just write `[child talking...]` in the brackets, or `[teacher interrupted...]`
+> Write exatly what the participant said, word-for-word, in quotes.  For example, `"gentif mawg ka. [Did I say it right?]"`.  If the participant goes off topic, transcribe that part in brackets `[ ]`.  If the participant goes off topic for a really long time (this happens often with children), just write `[child talking...]` in the brackets, or `[teacher interrupted...]`.  There is no need to write every single word that is said when it is not related to the task.
 
 ##### What if the participant says the same word twice? 
 
