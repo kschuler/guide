@@ -7,12 +7,12 @@
   * [Running experiments](guidelines/running-exps.md)
   * [Coding and transcribing data](guidelines/coding-and-transcribing.md)
   * [Analyzing data](guidelines/analyzing-data.md) 
-* Tools
+* TOOLS
   * [Hardware & software](tools/hardware-and-software.md)
   * [Setting up a computer](tools/computer-setup.md)
   * [Setting up a server](tools/server-setup.md)
   * [Favorite tools for common tasks](tools/favorites.md)
-* Cheat sheets
+* CHEAT SHEETS
   * [git](cheat-sheets/git.md)
   * [R](cheat-sheets/R.md)
   * [pandas](cheat-sheets/pandas.md)
