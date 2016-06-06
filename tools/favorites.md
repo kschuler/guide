@@ -91,10 +91,13 @@ I love python, so my favorite experiment coding resources are all python-based. 
 	* see [my instructions][55] for setting up a server on digital ocean and installing miniconda and psiturk.
 
 ## Data analysis & visualization
-* Jupyter notebook
-* Pandas / python
-* R / ggplot2
-
+* **Analysis**
+  *  [Jupyter notebook](http://jupyter-notebook-beginner-guide.readthedocs.io/en/latest/index.html): dynamic report generation (similar concept to [knitr](http://yihui.name/knitr/))
+  * [Pandas](http://pandas.pydata.org/): python library for data structures and analysis
+  * R / ggplot2
+* **Visualization**
+  * Seaborn
+  * ggplot2
 ## Publishing & presenting
 There are lots and lots of great tools for publishing and presenting your work.  In my opinion, the very best tools are the ones that make it easy for you to work collaboratively with your advisor (and colleagues).  My advisor likes to work in Microsoft Office, so for me, that is the most efficient option. All of my final versions of things are done in Word and Powerpoint.   (And remember, it is really about delivering the content! The tool itself is whatever helps you do that best.)  
 
