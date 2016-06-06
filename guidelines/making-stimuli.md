@@ -1,3 +1,5 @@
+
+
 # Making stimuli
 
 These are the general guidelines I follow when making stimuli for one of my experiments. 
@@ -125,14 +127,39 @@ To synthesize sounds, you can use the `say` command in the terminal.  To synthes
 ```
 say -v Alex -r 250 "say this please" -o ~/Desktop/say-this.wav --data-format=LEF32@32000
 ```
-Here is what each part of this command means:
+Here is what each parameter means:
 
 - `say` is the command for Text-to-speech
 - `-v Alex` use voice (`-v`) Alex 
 - `-r 250` use a rate of 250 ms
-- `"say this please"` is the text you want to sythesize
+- `"say this please"` is the text you want to synthesize
 - `-o ~/Desktop/say-this.wav` is the path and name of the file you want to save
 - `--data-format=LEF32@32000` is the format of the data (required for `WAV` files)
+
+When I want so synthesize a list of words or sentences with the same parameters, I use my [synth-words.py](https://github.com/kschuler/helpers/blob/master/synth-words.py) script.
+
+![](../static/images/script-synth-words.png)
+
+The parameters in the script are:
+
+- `path` is the path where I want to save the sound files
+- `voice` is the voice I want to use
+- `rate` is the speech rate
+- `wordList` is a list of words or sentences that I want to synthesize
+
+
+To run the script, navigate to the script directory.  For example, if you saved `synth-words.py` on your Desktop you would type
+
+```
+cd ~/Desktop
+```
+
+And then run the script using
+```
+python synth-words.py
+```
+
+
 
 ##### A long list of sounds
 
