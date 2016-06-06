@@ -6,14 +6,14 @@ These are the guidelines I follow for coding and transcribing my production stud
 - [FAQs](#faqs)
 
 ### How to code and transcribe
-
+##### What you need
 For each participant, there are three important items that you need to have.
 
 1. The `production` file, found with the participant's `raw-data`.
 2. The `WAV` files, found in a folder with the `raw-data`.
 3. The [data sheet](https://www.dropbox.com/s/26b0jsjogheey0a/0102-inconinput-1day-pluralmorph-6733-data-sheet.docx?dl=0), a hand-written sheet of paper from the experiment
 
-
+##### Setup the `production` file
 Open the participant's `production` data file.
 
 ![](../static/images/transcribe-start.png)
