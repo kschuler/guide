@@ -82,6 +82,17 @@ You can adjust the dB of noise reduction, the sensitivity, and the smoothing.  F
 
 ##### Add or remove silence
 
+To remove silence (or any section of the stimulus), select the portion of want to remove and click `delete`.
+
+![](../static/images/sound-select-silence.png)
+
+To add silence, place the cursor where you want to add the silence.  Here I've chosen the end of the stimulus.
+
+![](../static/images/sound-select-end.png)
+
+Select `Generate > Silence...` from the Audacity menu.  
+
+
 
 
 ##### Export final stimulus
