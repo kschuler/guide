@@ -53,7 +53,7 @@ Here is an example with some of the trials filled in.
 
 ##### What if the data sheet does not match the transcription?
 
-> The data-sheet is considered to be the most accurate record of the trial.  When there is a conflict, go with what is written on the data-sheet.
+> The data-sheet is considered to be the most accurate record of the trial.  When there is a conflict, go with what is written on the data-sheet. Make a note of the conflict in the `notes` column.
 
 ##### What if 
 
