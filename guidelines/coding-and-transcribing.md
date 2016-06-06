@@ -14,7 +14,7 @@ For each participant, there are three important items that you need to have.
 3. The [data sheet](https://www.dropbox.com/s/26b0jsjogheey0a/0102-inconinput-1day-pluralmorph-6733-data-sheet.docx?dl=0), a hand-written sheet of paper from the experiment
 
 ##### Setup the `production` file 
-Open the participant's `production` data file in the `raw-data` folder for the experiment..
+Open the participant's `production` data file in the `raw-data` folder for the experiment.
 
 ![](../static/images/transcribe-start.png)
 
