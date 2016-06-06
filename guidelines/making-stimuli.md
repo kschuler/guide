@@ -227,9 +227,8 @@ There are two ways in which I typically edit image stimuli: removing background 
 
 ##### Removing background from images
 
-![](../static/images/inkscape-import.png)
 
-![](../static/images/inkscape-select-file.png)
+[![]((http://img.youtube.com/vi/7VmYqgosnp0/30.jpg)](https://www.youtube.com/watch?v=7VmYqgosnp0)
 
 ##### Re-sizing images
 
