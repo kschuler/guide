@@ -7,7 +7,7 @@ for sections that say "lab members only", you can request my permission to view 
 
 * [**GitHub / git **][2] : for version control and hosting repositories
 *  [**mkdocs**][3] : python library for writing documentation in markdown
-*  [**gitbooks**](https://www.gitbooks.io) : for writing documentation in markdown (this site was built with it!)
+*  [**gitbooks**](https://www.gitbook.com) : for writing documentation in markdown (this site was built with it!)
 
 ## Making stimuli
 
