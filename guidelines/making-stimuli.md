@@ -206,7 +206,7 @@ cd ~/Desktop
 
 And then run the script using
 ```
-python synth-words.py
+python synth-a-little.py
 ```
 
 ##### Synthesize a long list of sounds
