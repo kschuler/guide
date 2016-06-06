@@ -1,7 +1,8 @@
 
 # Coding and transcribing
 
-These are the guidelines I follow for transcribing my production studies.  For each participant, there are three important items that you need to have.
+### How to code and transcribe
+These are the guidelines I follow for coding and transcribing my production studies.  For each participant, there are three important items that you need to have.
 
 1. The `production` file, found with the participant's `raw-data`.
 2. The `WAV` files, found in a folder with the `raw-data`.
@@ -29,6 +30,10 @@ You will fill in each of these columns with the following for each trial:
 Here is an example with some of the trials filled in.
 
 ![](../static/images/transcribe-filled-out.png)
+
+### FAQs
+
+
 
 
 
