@@ -38,7 +38,7 @@ Next, slide the `REC` button to the right and release to begin recording. The "R
 
 ![](../static/images/marantz-record.jpg)
 
-Push and release the STOP button to stop recording and end the track (close the audio file). The display will show you how much time is available on the CF card for recording.
+Push and release the `STOP` button to stop recording and end the track.  Press `STOP` a second time to close the audio file. The display will show you how much time is available on the CF card for recording.
 
 ![](../static/images/marantz-stop.jpg)
 
