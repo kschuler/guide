@@ -21,7 +21,6 @@ All current experiments are below.  If the experiment you are running is not lis
 	- Computer game that involves learning an alien language.
 	- The experiment last about 15-20 minutes.
 
-
 ### 0164-empiricalyang-9noun-mfrule-tophalf-child
 - **Who is running:**
 	- Jessie, Katie
