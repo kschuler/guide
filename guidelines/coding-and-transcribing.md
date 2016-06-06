@@ -28,7 +28,7 @@ You will fill in each of these columns with the following for each trial:
 - `prod-noun`: did they produce the correct noun? (0 for no, 1 for yes)
 - `prod-det-actual`: what determiner did they produce? (write it exactly)
 - `prod-det-category`: what category does the determiner belong to?
-  - for incon-input the options are `maj`, `min`, `other`
+  - for incon-input the options are `maj`, `min`, `other`, and `null`
 - `notes`: write any notes you feel would help
   - for example: the child produced `ka` as `ko`; transcriptions are missing; etc
 
