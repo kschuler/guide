@@ -1,6 +1,11 @@
 # Setting up a server
 
 These are instructions for how I set up servers with Digital Ocean.  If you already have a server setup and want to install psiTurk, you can skip to that section by clicking [here](#get-miniconda-on-the-sever).
+
+- [Get a Digital Ocean server](#get-a-digital-ocean-server)
+- [Get Miniconda on the server](#get-miniconda-on-the-server)
+- [Get psiTurk](#get-psiturk)
+
 ## Get a Digital Ocean server
 
 The first step is creating an account on [Digital Ocean](https://www.digitalocean.com/).  Digital Ocean is a cloud service that allows users to create simple cloud servers for a small per month fee. You can download [GitHub's student developer pack](https://education.github.com/pack) to receive a $50 Digital Ocean credit. (And lots of other goodies!)
