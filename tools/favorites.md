@@ -8,7 +8,7 @@ These are my favorite tools for common lab-related tasks.  Some links say "lab m
   - [Sounds](#sounds)
   - [Images](#images)
   - [Videos](#videos)
-- Creating experiments
+- [Creating experiments](#creating-experiments)
   - with Applications
   - [with Code](#with-code)
 - [Data analysis and visualization](#data-analysis-and-visualization)
