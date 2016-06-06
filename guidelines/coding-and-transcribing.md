@@ -31,8 +31,8 @@ You will fill in each of these columns with the following for each trial:
 ###### Coding
 - `prod-verb`: did they produce the correct verb? (0 for no, 1 for yes)
 - `prod-noun`: did they produce the correct noun? (0 for no, 1 for yes)
-- `prod-det-actual`: what determiner did they produce? (write it exactly)
-- `prod-det-category`: what category does the determiner belong to?
+- `prod-det-actual`: what marker (determiner) did they produce? (write it exactly)
+- `prod-det-category`: what category does the marker belong to?
   - for inconinput the options are `maj`, `min`, `other`, and `null`
   - for yang the options are `R`, `e`, `other`, and `null`
 - `notes`: write any notes you feel would help
@@ -73,7 +73,7 @@ Here is an example with some of the trials filled in.
 > If both the data sheet and the `WAV` files are missing, make a note on the `subject tracking sheet` and recommed the subject for exclusion.  No further transcription or coding is necessary in this case.
 
 ##### How do I know what to put in `prod-det-category`?
-> Here you will put the category of the determiner that the participant used.  There are typically four options.  For inconinput, the options are:
+> Here you will put the category of the marker that the participant used.  There are typically four options.  For inconinput, the options are:
 > - `maj`: the majority marker (depends on language)
 > - `min`: the minority marker (depends on language)
 > - `other`: some other word (e.g. English +s, any other word)
