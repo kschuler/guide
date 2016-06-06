@@ -26,10 +26,9 @@ In our lab we record sounds using a Marantz PMD671 located in BldgD 145-D.  Belo
 
 ##### To record sound files on the Marantz PMD671
 
-1. Slide the `POWER` switch to the right and release. The display will show you how much time is left on the CF card for recording.
+1. Slide the `POWER` switch to the right and release. The display will show you how much time is available on the CF card for recording.
 
-2. Slide the REC button to the right and release.
-        Recording begins.  The Rec indicator will be lit and steady while recording.
+2. Slide the `REC` button to the right and release. Recording begins.  The Rec indicator will be lit and steady while recording.
         The display will show the recording time (TRACK TIME) of the current track (TRACK)
 
 3. Push and release the STOP button to stop recording and end the track (close the audio file).
