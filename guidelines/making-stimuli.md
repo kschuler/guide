@@ -66,6 +66,15 @@ With your silence already selected and the "noise reduction" dialog box open, cl
 
 ![](../static/images/sound-noise-reduction.png)
 
+Next, go back to the sound stimulus and select the entire audio sample.
+
+![](../static/images/sound-select-all.png)
+
+Select `Effect > Noise Reduction` again to return to the "noise reduction" dialog box.  This time select "OK".
+
+![](../static/images/sound-noise-reduction.png)
+
+You can adjust the dB of noise reduction, the sensitivity, and the smoothing.  For my experiments, the defualt selections are appropriate.
 
 
 ##### Add or remove silence
