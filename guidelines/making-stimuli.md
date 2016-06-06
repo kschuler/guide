@@ -74,7 +74,7 @@ Select `Effect > Noise Reduction` again to return to the "noise reduction" dialo
 
 ![](../static/images/sound-noise-reduction.png)
 
-You can adjust the dB of noise reduction, the sensitivity, and the smoothing.  For my experiments, the default selections are appropriate.
+You can adjust the dB of noise reduction, the sensitivity, and the smoothing.  For my experiments, the default selections are appropriate.  For reference, those default selections are:
 
 - Noise reduction (dB) : 12
 - Sensitivity: 6.00
