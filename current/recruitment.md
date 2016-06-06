@@ -17,7 +17,7 @@ All current experiments are below.  If the experiment you are running is not lis
 	- Normal to corrected-to-normal hearing and vision
 - **Study info:**
 	- This study investigates how people learn languages.
-	- Computer game than involves learning an alien language.
+	- Computer game that involves learning an alien language.
 	- The experiment last about 15-20 minutes.
 
 ### 0400-condvar-exp1-pureincon
@@ -32,7 +32,7 @@ All current experiments are below.  If the experiment you are running is not lis
 	- Normal to corrected-to-normal hearing and vision
 - **Study info:**
 	- This study investigates how people learn languages.
-	- Computer game than involves learning an alien language.
+	- Computer game that involves learning an alien language.
 	- The experiment last about 15-20 minutes each day for 2 days.
 
 ### 0302-hierarchical-srt-thompsonnewport-nocue
