@@ -157,7 +157,7 @@ then use `curl` to download the script.
 curl -o synth-words.py https://raw.githubusercontent.com/kschuler/helpers/master/synth-words.py
 ```
 
-To run the script, first edit [synth-words.py](https://raw.githubusercontent.com/kschuler/helpers/master/synth-words.py) with the parameters you want to use.  Then navigate to the script's directory.  For example, if you saved `synth-words.py` on your Desktop you would navigate to the Desktop
+To run the script, first edit [synth-words.py](https://raw.githubusercontent.com/kschuler/helpers/master/synth-a-little.py) with the parameters you want to use.  Then navigate to the script's directory.  For example, if you saved `synth-words.py` on your Desktop you would navigate to the Desktop
 
 ```
 cd ~/Desktop
@@ -169,6 +169,9 @@ python synth-words.py
 ```
 
 ##### Sythesize a long list of sounds
+
+When I need to synthesize a long list of sounds, or a list of sounds with different parameters, I use my synth-a-lot.py script.  This script reads parameters from a `.csv` file for each individual sound file.
+
 
 
 ## Images
