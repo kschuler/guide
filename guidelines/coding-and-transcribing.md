@@ -78,6 +78,8 @@ Here is an example with some of the trials filled in.
 > - `other`: some other word (e.g. English +s, any other word)
 > - `null`: no determiner used
 
+> If you are uncertain how to code something, just ask Katie in person.
+
 
 
 
