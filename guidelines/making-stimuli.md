@@ -148,7 +148,7 @@ The parameters in the script are:
 - `wordList` is a list of words or sentences that I want to synthesize
 
 
-To run the script, navigate to the script directory.  For example, if you saved `synth-words.py` on your Desktop you would type
+To run the script, first edit [synth-words.py](https://github.com/kschuler/helpers/blob/master/synth-words.py) with the parameters you want to use.  Then navigate to the script's directory.  For example, if you saved `synth-words.py` on your Desktop you would navigate to the Desktop
 
 ```
 cd ~/Desktop
@@ -158,8 +158,6 @@ And then run the script using
 ```
 python synth-words.py
 ```
-
-
 
 ##### A long list of sounds
 
