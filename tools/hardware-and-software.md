@@ -19,8 +19,7 @@ Intel HD Graphics 4000 1024 MB | Serial number: C02JR2P4DRVG
 
 ### Building D Room 145-D
 **Mac Mini (Touch screen lives here)**   
-Mac mini (mid 2011)| 2.5 GHz Intel Core i5 | 8 GB 1333 MHz DDR3
-| 250 GB  
+Mac mini (mid 2011)| 2.5 GHz Intel Core i5 | 8 GB 1333 MHz DDR3 | 250 GB  
 Intel HD Graphics 4000 1024 MB | Serial number: C02JR2P4DRVG  
 
 **Eyetracker laptop**   (eye tracker lives here)
