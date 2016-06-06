@@ -12,10 +12,11 @@ Add 6 columns: transcription, prod-verb, prod-noun, prod-det-actual, prod-det-ca
 
 You will fill in each of these columns with the following:
 - `transcription`: what the participant actually said
-- `prod-verb`: did they produce the verb correctly? (0 for no, 1 for yes)
-- `prod-noun`: did they produce the noun correctly? (0 for no, 1 for yes)
-- `prod-det-actual`: what determiner did they produce
-- `prod-det-category`
+- `prod-verb`: did they produce the correct verb? (0 for no, 1 for yes)
+- `prod-noun`: did they produce the correct noun? (0 for no, 1 for yes)
+- `prod-det-actual`: what determiner did they produce? (write it exactly)
+- `prod-det-category`: what category does the determiner belong to?
+  - for incon-input the options are `maj`, `min`, `other`
 - `notes`
 
 
