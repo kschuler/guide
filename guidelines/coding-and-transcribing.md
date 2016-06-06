@@ -62,7 +62,7 @@ Here is an example with some of the trials filled in.
 > If the production file is missing, check inside the experiment folder on the local computer.  (In the `data` folder.) If you cannot find it anywhere, make a note on the `subject tracking sheet` and recommend the subject for exclusion.  No further transcription or coding is necessary.
 
 > ###### Missing `WAV` files
-> If any or all sound files are missing, make a note on the `production` file.  Use the `data-sheet` to fill in the `transcription` column.
+> If any or all sound files are missing, check inside the experiment folder on the local computer. (In the `data` folder.) If you cannot find them anywhere, make a note on the `production` file.  Use the `data-sheet` to fill in the `transcription` column.
 
 
 > ###### Missing data sheet
