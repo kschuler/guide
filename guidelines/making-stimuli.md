@@ -28,7 +28,7 @@ In our lab we record sounds using a Marantz PMD671 located in BldgD 145-D.  Belo
 
 First slide the `POWER` switch to the right and release to turn on the Marantz.
 
-![Turn on]()
+![Turn on](../static/images/marantz-on.jpg)
 
 The display will show you how much time is available on the CF card for recording.
 
