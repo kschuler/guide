@@ -24,6 +24,7 @@ Add 6 columns: `transcription`, `prod-verb`, `prod-noun`, `prod-det-actual`, `pr
 
 ##### Transcribe and code
 You will fill in each of these columns with the following for each trial:
+
 ###### Transcribing
 - `transcription`: what the participant actually said
 
