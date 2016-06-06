@@ -54,7 +54,7 @@ To remove background noise, we first need to zoom in to our sound stimulus.  Use
 
 ![](../static/images/sound-zoom.png)
 
-Next we need to select a part of the silence to give Audacity a 'noise profile'.  Do this by clicking and dragging around the silence that you want to select.
+Next we need to select a part of the silence to give Audacity a "noise profile".  Do this by clicking and dragging around the silence that you want to select.
 
 ![](../static/images/sound-select-silence.png)
 
