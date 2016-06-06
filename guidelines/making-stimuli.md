@@ -46,7 +46,7 @@ Repeat this process for each sound file you would like to record.  For example, 
 
 ##### To access sound files recorded on the Marantz PMD671
 
-To access your sound files, first slide the `POWER` switch to the right and release the power off. Plug the USB cord into a computer. Then, press and hold the `USB MENU/STORE` button while you slide the `POWER` switch to the right and release.
+To access your sound files, first slide the `POWER` switch to the right and release the power off. Plug the Marantz's USB cord into a computer. Then, press and hold the `USB MENU/STORE` button while you slide the `POWER` switch to the right and release.
 
 ![](../static/images/marantz-usb.jpg)
 
