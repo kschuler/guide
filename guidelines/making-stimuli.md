@@ -102,10 +102,11 @@ Click "OK" to finish generating silence.
 
 ##### Export final stimulus
 
-
-
 ### How to synthesize sounds
+
 ##### A short list of sounds
+
+
 
 ##### A long list of sounds
 
