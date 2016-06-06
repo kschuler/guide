@@ -4,11 +4,10 @@ UNDER CONSTRUCTION
 
 for sections that say "lab members only", you can request my permission to view it (and if you are a lab member, I'll give it to you)
 ## Documentation
-See [the guidelines][1] for the procedures I use to document my experiments and resources.
 
 * [**GitHub / git **][2] : for version control and hosting repositories
 *  [**mkdocs**][3] : python library for writing documentation in markdown
-*  [**gitbooks**](www.gitbooks.io) : for writing documentation in markdown (this site was built with it!)
+*  [**gitbooks**](https://www.gitbooks.io) : for writing documentation in markdown (this site was built with it!)
 
 ## Making stimuli
 
