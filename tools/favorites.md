@@ -14,7 +14,7 @@ See [the guidelines](../guidelines/making-stimuli.md) for how to make stimuli fo
 
 ### Artificial Languages
 * **artificial languages from past experiments**
-	* [ **stimuli/languages** (lab members only)](): repository of design sheets for past used artificial languages.
+	* [ **stimuli/languages** (lab members only)](): repository of past artificial languages.
 * **making artificial languages**
 	* **white board / excel workbook**:  there is really no substitute for doing this by hand.
 	* **a friend (or 3)**: to double check your work!
