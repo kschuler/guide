@@ -127,7 +127,7 @@ To synthesize sounds, you can use the `say` command in the terminal.  For exampl
 ```
 say -v Alex -r 250 "say this please" -o ~/Desktop/say-this.wav --data-format=LEF32@32000
 ```
-Each parameter in this command means:
+Each parameter in this command are:
 
 - `say` is the command for Text-to-speech
 - `-v Alex` use voice (`-v`) Alex 
@@ -136,7 +136,7 @@ Each parameter in this command means:
 - `-o ~/Desktop/say-this.wav` is the path and name of the file you want to save
 - `--data-format=LEF32@32000` is the format of the data (required for `WAV` files)
 
-When I want so synthesize a list of words or sentences with the same parameters, I use my [synth-words.py](https://github.com/kschuler/helpers/blob/master/synth-words.py) script.
+When I want so synthesize a short list of words or sentences with the same parameters, I use my [synth-words.py](https://github.com/kschuler/helpers/blob/master/synth-words.py) script.
 
 ![](../static/images/script-synth-words.png)
 
