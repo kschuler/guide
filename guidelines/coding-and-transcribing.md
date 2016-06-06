@@ -2,6 +2,9 @@
 # Coding and transcribing
 These are the guidelines I follow for coding and transcribing my production studies.  
 
+- [How to code and transcribe](#how-to-code-and-transcribe)
+- [FAQs](#faqs)
+
 ### How to code and transcribe
 
 For each participant, there are three important items that you need to have.
