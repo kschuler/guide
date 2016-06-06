@@ -2,6 +2,17 @@
 
 These are my favorite tools for common lab-related tasks.  Some links say "lab members only". You must request my permission for access to those links.
 
+- Documentation
+- Making stimuli
+  - Artificial languages
+  - Sounds
+  - Images
+  - Videos
+- Creating experiments
+  - with Applications
+  - [with Code](#with-code)
+  - 
+
 ## Documentation
 
 * [**GitHub / git **][2] : for version control and hosting repositories
@@ -58,7 +69,8 @@ See [the guidelines](../guidelines/making-stimuli.md) for how to make stimuli fo
 	* **[HandBrake][33]**: for when you need to convert video formats. [HandBrake wiki][34]
 
 ## Creating experiments
-### with Applications (no code required)
+### with Applications 
+###### no code required
 * **[PsychoPy Standalone App ][35]**
 	* this one is my favorite  - it is actively developed and there is a great community of contributors
 		* **builder tutorials** : [here ][36]is a tutorial for making a stroop task, and [here][37] is one I made for language tasks
@@ -67,7 +79,7 @@ See [the guidelines](../guidelines/making-stimuli.md) for how to make stimuli fo
 	* I haven’t used it, but some people I know really like it.
 		* **tutorials:** [here][40] is the main tutorial and here are [some examples][41].
 
-### with Code \(python)
+### with Code
 I love python, so my favorite experiment coding resources are all python-based.  [Matlab][42] is also very good - if you prefer matlab, be sure to check out the [psychtoolbox][43] for creating experiments.
 
 * ** Learning python**
