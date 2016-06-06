@@ -2,7 +2,7 @@
 
 This is a guide to running my experiments, along with some helpful resources for lab related things.  
 
-[To-do list for research assistants](https://www.dropbox.com/s/0evmj4j9qq3ea7o/RA%20Task%20LIst.xlsx)
+- [To-do list for research assistants](https://www.dropbox.com/s/0evmj4j9qq3ea7o/RA%20Task%20LIst.xlsx)
 
 ## Current experiments
 
