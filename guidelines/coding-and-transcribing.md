@@ -35,6 +35,9 @@ Here is an example with some of the trials filled in.
 
 ### FAQs
 
+##### How do I "transcribe" the sound files for the `transcription` column?
+
+
 
 
 
