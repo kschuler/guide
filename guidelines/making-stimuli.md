@@ -92,6 +92,9 @@ To add silence, place the cursor where you want to add the silence.  Here I've c
 
 Select `Generate > Silence...` from the Audacity menu.  
 
+![](../static/images/sound-generate-silence.png)
+
+
 
 
 
