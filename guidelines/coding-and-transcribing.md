@@ -15,7 +15,7 @@ Open the participant's `production` data file.
 
 ![](../static/images/transcribe-start.png)
 
-Add 6 columns: `transcription`, `prod-verb`, `prod-noun`, `prod-det-actual`, `prod-det-category`, and `notes`.
+Add 6 columns: `transcription`, `prod-verb`, `prod-noun`, `prod-det-actual`, `prod-det-category`, and `notes` in columns L through Q.
 
 ![](../static/images/transcribe-add.png)
 
@@ -36,6 +36,9 @@ Here is an example with some of the trials filled in.
 ### FAQs
 
 ##### How do I "transcribe" the sound files for the `transcription` column?
+
+> You want to do it like this.
+
 
 
 
