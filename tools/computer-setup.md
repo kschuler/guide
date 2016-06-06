@@ -113,6 +113,8 @@ and use pip to install pyglet
 pip install pyglet
 ```
 
+You should be all set to [run my experiments](../current/running-exps.md) on your computer.
+
 
 [1]:	http://www.audacityteam.org/download/mac/
 [2]:	https://www.dropbox.com/
