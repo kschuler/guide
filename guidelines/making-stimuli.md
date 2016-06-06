@@ -61,6 +61,13 @@ Next we need to select a part of the silence to give Audacity a "noise profile".
 Click `Effect > Noise Reduction` to open the "noise reduction" dialog box.
 
 ![](../static/images/sound-select-noise-reduction.png)
+
+With your silence already selected and the "noise reduction" dialog box open, click 
+
+![](..static/images/sound-noise-reduction.png)
+
+
+
 ##### Add or remove silence
 
 ##### Export final stimulus
