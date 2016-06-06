@@ -1,6 +1,12 @@
 
 # Coding and transcribing
 
+These are the guidelines I follow for transcribing my production studies.  For each participant, there are three important items that you need to have.
+
+1. The participant's `production` file, found with the participant's `raw-data`.
+2. The participant's `WAV` files, found in a folder with the `raw-data`.
+3. The participant's data sheet, a hand-written sheet of paper from the experiment
+
 
 Open the participant's `production` data file.
 
