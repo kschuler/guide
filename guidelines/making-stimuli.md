@@ -49,9 +49,9 @@ First, slide the `POWER` switch to the right and release the power off. Plug the
 
 ![](../static/images/marantz-usb.jpg)
 
-The  power is now on and the display will read `USB Online`.
+The  power is now on and the display will read `USB Online`.  The CF card appears as a removable device on your computer called 'Ma
 
-The CF card appears as a removable device on your computer.  
+![](../static/images/marantz-computer.png)
         Your recorded audio files are in a folder named MPGLANG1 as numbered MP3 files 
 
 
