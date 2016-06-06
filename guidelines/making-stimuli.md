@@ -102,6 +102,10 @@ Click "OK" to finish generating silence.
 
 ##### Export final stimulus
 
+To export the final stimulus, select `File > Export Audio...` or `File > Export Selected Audio...` if you have selected a smaller portion of a file to export.
+
+![](../static/images/sound-export.png)
+
 ### How to synthesize sounds
 
 ##### A short list of sounds
