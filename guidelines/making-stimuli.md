@@ -122,12 +122,12 @@ Click `OK` to finish exporting your stimulus.
 
 ##### Synthesize a short list of sounds
 
-To synthesize sounds, you can use the `say` command in the terminal.  To synthesize a single sound, you would type
+To synthesize sounds, you can use the `say` command in the terminal.  For example, to synthesize a single sound, you would type
 
 ```
 say -v Alex -r 250 "say this please" -o ~/Desktop/say-this.wav --data-format=LEF32@32000
 ```
-Here is what each parameter means:
+Each parameter in this command means:
 
 - `say` is the command for Text-to-speech
 - `-v Alex` use voice (`-v`) Alex 
