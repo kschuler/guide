@@ -26,7 +26,7 @@ In our lab we record sounds using a Marantz PMD671 located in BldgD 145-D.  Belo
 
 ##### To record sound files on the Marantz PMD671
 
-First slide the `POWER` switch to the right and release to turn on the Marantz.
+First, slide the `POWER` switch to the right and release to turn on the Marantz.
 
 ![Turn on](../static/images/marantz-on.jpg)
 
