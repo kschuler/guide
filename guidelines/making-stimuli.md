@@ -94,9 +94,13 @@ Select `Generate > Silence...` from the Audacity menu.
 
 ![](../static/images/sound-generate-silence.png)
 
-In the 
+In the "silence" dialog box, enter the amount of silence you want to generate and click "OK".  Here I have entered 30 seconds of silence.
 
 ![](../static/images/sound-silence-dlg.png)
+
+
+
+
 
 
 
