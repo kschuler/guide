@@ -7,34 +7,34 @@ The first step is creating an account on [Digital Ocean](https://www.digitalocea
 
 Once you have an account, log in to Digital Ocean and follow the instructions below to create a server.
 
-### 1. Create a Droplet
+### Create a Droplet
 
 First you want to create a droplet by clicking on the green 'create droplet' button.
 ![step1](../static/images/step1-createdroplet.png)
-### 2. Choose an image
+### Choose an image
 
 Next you will choose an image. You want to click on the "One-click Apps" tab.
 ![step2](../static/images/step2-chooseimage.png)
 
-### 3. Select LEMP on 14.04
+### Select LEMP on 14.04
 
 You want to select the LEMP on 14.04 button.  This will set up a web server with a LEMP stack. LEMP stands for Linux, Nginx, MySQL, and PHP. These are just software that help you serve dynamic content over the web from your sever. The 14.04 part stands for Ubuntu 14.04, which is the type of server you'll have.
 
 ![step3](../static/images/step3-oneclicklemp.png)
 
-### 4. Choose server size
+### Choose server size
 
 I run small experiments (with between 25 to 150 subjects). The smallest size option has been more than enough for my purposes.
 
 ![step4](../static/images/step4-choosesize.png)
 
-### 5. Choose a region
+### Choose a region
 
 You can think of this as where your server is physically located. I like to choose one of the New York regions - it seems nice to choose something nearby.
 
 ![step5](../static/images/step5-chooseregion.png)
 
-### 6. Finish and create server
+### Finish and create server
 
 There are more options, but the one I'd recommend doing is "Choose a hostname".  If you are comfortable using SSH keys, then go ahead (I do), but it isn't necessary.  Just skip it if you find the whole idea overwhelming.
 
@@ -42,7 +42,7 @@ I named this server 'mturk-server'. Once you choose a name, you can click the gr
 
 ![step6](../static/images/step6-finalizeandcreate.png)
 
-### 7. Retrieve server information
+### Retrieve server information
 
 You should see a screen that looks like this once you have created your server.  This means the server is starting up (sometimes digital ocean calls this "spinning up a droplet").
 
@@ -58,7 +58,7 @@ You also need to know your server's root password.  Digital ocean will send you 
 
 ![step9](../static/images/step9-checkemailpassword.png)
 
-### 8. Log in to server and change password
+### Log in to server and change password
 
 Now that you have created a server, you can talk to it from the terminal on your local computer. To do this, you first need to log-in to the server from the terminal.
 
