@@ -42,7 +42,7 @@ Push and release the `STOP` button to stop recording and end the track.  Press `
 
 ![](../static/images/marantz-stop.jpg)
 
-Repeat this process for each sound file you would like to record.  For example, let's say you want to record two sound files: "butterfly" and "doughnut".  You would have one sound file for "butterfly" and a seperate one for "doughnut".  Typically, we like to record at least 3 examples of a stimulus in a given sound file to ensure we get a good one.  For example, you should say "butterfly" at least 3 times into the microphone.  You will later [select the best sample](#select-the-best-sample) of "buttefly".
+Repeat this process for each sound file you would like to record.  For example, let's say you want to record two sound files: "butterfly" and "doughnut".  You would have one sound file for "butterfly" and a separate one for "doughnut".  Typically, we like to record at least 3 examples of a stimulus in a given sound file to ensure we get a good one.  For example, you should say "butterfly" at least 3 times into the microphone while recording the "butterfly" sound file.  You will later [select the best sample](#select-the-best-sample) of "butterfly".
 
 ##### To access sound files recorded on the Marantz PMD671
 
