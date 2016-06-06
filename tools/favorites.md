@@ -13,6 +13,8 @@ These are my favorite tools for common lab-related tasks.  Some links say "lab m
   - [with Code](#with-code)
 - [Data analysis and visualization](#data-analysis-and-visualization)
 - [Publishing and presenting](#publishing-and-presenting)
+
+
 ## Documentation
 
 * [**GitHub / git **][2] : for version control and hosting repositories
