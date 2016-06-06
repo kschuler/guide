@@ -228,7 +228,7 @@ There are two ways in which I typically edit image stimuli: removing background 
 ##### Removing background from images
 
 
-[![]((http://img.youtube.com/vi/7VmYqgosnp0/0.jpg)](https://www.youtube.com/watch?v=7VmYqgosnp0)
+[![](http://img.youtube.com/vi/7VmYqgosnp0/0.jpg)](https://www.youtube.com/watch?v=7VmYqgosnp0)
 
 ##### Re-sizing images
 
