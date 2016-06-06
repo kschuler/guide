@@ -251,7 +251,7 @@ You can further adjust by clicking and dragging the blue circles.  Once you have
 
 In the `Adjust size` dialog box, close the lock icon by clicking on it.  This locks the aspect ratio to make sure the image does not get distorted. With the lock closed, adjust the size of the image.  When the lock is closed, you only need to adjust one dimension (height or width).  The other dimension will automatically adjust to preserve the aspect ratio.
 
-![](preview-adjust-size.png)
+![](../static/images/preview-adjust-size.png)
 
 
 ## Videos
