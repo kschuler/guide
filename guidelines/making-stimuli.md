@@ -42,7 +42,7 @@ Push and release the `STOP` button to stop recording and end the track.  Press `
 
 ![](../static/images/marantz-stop.jpg)
 
-Repeat this process for each sound file you would like to record.  For example, let's say you are asked to record two sound files: "butterfly" and "doughnut".  
+Repeat this process for each sound file you would like to record.  For example, let's say you want to record two sound files: "butterfly" and "doughnut".  
 
 ##### To access sound files recorded on the Marantz PMD671
 
