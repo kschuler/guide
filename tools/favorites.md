@@ -92,12 +92,12 @@ I love python, so my favorite experiment coding resources are all python-based. 
 
 ## Data analysis & visualization
 * **Analysis**
-  *  [Jupyter notebook](http://jupyter-notebook-beginner-guide.readthedocs.io/en/latest/index.html): dynamic report generation (similar concept to [knitr](http://yihui.name/knitr/))
+  *  [Jupyter notebook](http://jupyter-notebook-beginner-guide.readthedocs.io/en/latest/index.html): dynamic report generation (similar concept to [knitr](http://yihui.name/knitr/) R package)
   * [Pandas](http://pandas.pydata.org/): python library for data analysis and data structures
-  * [R-Studio](https://www.rstudio.com/): user-interface for R
+  * [R-Studio](https://www.rstudio.com/): user-interface for R 
 * **Visualization**
-  * Seaborn
-  * ggplot2
+  * [Seaborn](https://web.stanford.edu/~mwaskom/software/seaborn/): data visualization library for python
+  * [ggplot2](http://ggplot2.org/): data visualization packages for R
 ## Publishing & presenting
 There are lots and lots of great tools for publishing and presenting your work.  In my opinion, the very best tools are the ones that make it easy for you to work collaboratively with your advisor (and colleagues).  My advisor likes to work in Microsoft Office, so for me, that is the most efficient option. All of my final versions of things are done in Word and Powerpoint.   (And remember, it is really about delivering the content! The tool itself is whatever helps you do that best.)  
 
