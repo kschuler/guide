@@ -254,8 +254,6 @@ In the `Adjust size` dialog box, close the lock icon by clicking on it.  This lo
 ![](preview-adjust-size.png)
 
 
-
-
 ## Videos
 
 ### How to find video stimuli
