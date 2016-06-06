@@ -110,7 +110,7 @@ Enter a file name and select `WAV` format.
 
 ![](../static/images/sound-save.png)
 
-Select `save`.  You can enter meta-data if you wish to.  I often leave this part blank.
+Select `Save`.  You can enter meta-data if you wish to.  I often leave this part blank.
 
 ![](../static/images/sound-metadata.png)
 
@@ -119,6 +119,7 @@ Click `OK` to finish exporting your stimulus.
 ### How to synthesize sounds
 
 ##### A short list of sounds
+
 
 
 
