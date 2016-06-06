@@ -62,9 +62,9 @@ Click `Effect > Noise Reduction` to open the "noise reduction" dialog box.
 
 ![](../static/images/sound-select-noise-reduction.png)
 
-With your silence already selected and the "noise reduction" dialog box open, click 
+With your silence already selected and the "noise reduction" dialog box open, click the `Get Noise Profile` button.
 
-![](..static/images/sound-noise-reduction.png)
+![](../static/images/sound-noise-reduction.png)
 
 
 
