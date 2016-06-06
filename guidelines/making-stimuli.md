@@ -34,7 +34,10 @@ The display will show you how much time is available on the CF card for recordin
 
 ![](../static/images/marantz-display.jpg)
 
-Slide the `REC` button to the right and release. Recording begins.  The "Rec indicator will be lit and steady while recording.  The display will show the recording time (TRACK TIME) of the current track (TRACK)
+Next, slide the `REC` button to the right and release to begin recording. 
+
+
+The "Rec indicator will be lit and steady while recording.  The display will show the recording time (`TRACK TIME`) of the current track (`TRACK`).
 
 Push and release the STOP button to stop recording and end the track (close the audio file).
         The display will show you how much time is left on the CF card for recording.
