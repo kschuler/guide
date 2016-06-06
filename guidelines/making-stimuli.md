@@ -182,7 +182,7 @@ When I need to synthesize a long list of sounds, or a list of sounds with differ
 
 There are two ways in which I typically edit image stimuli: removing background and re-sizing.  I like to edit images with [Inkscape](https://inkscape.org/en/), an open-source vector graphics editor.  To show how to remove background and re-size images in [Inkscape](https://inkscape.org/en/), we will edit this picture of donuts.
 
-![](../static/images/donuts.jpg)
+![](../static/images/doughnut.jpg)
 
 ##### Removing background from images
 
