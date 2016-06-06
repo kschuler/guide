@@ -120,8 +120,19 @@ Click `OK` to finish exporting your stimulus.
 
 ##### A short list of sounds
 
+To synthesize sounds, you can use the `say` command in the terminal.  To synthesize a single sound, you would type
 
+```
+say -v Alex -r 250 "say this please" -o ~/Desktop/say-this.wav --data-format=LEF32@32000
+```
+Here is what each part of this command means:
 
+- `say` is the command for Text-to-speech
+- `-v Alex` use voice (`-v`) Alex 
+- `-r 250` use a rate of 250 ms
+- `"say this please"` is the text you want to sythesize
+- `-o ~/Desktop/say-this.wav` is the path and name of the file you want to save
+- `--data-format=LEF32@32000` is the format of the data (required for `WAV` files)
 
 ##### A long list of sounds
 
