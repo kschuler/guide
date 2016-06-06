@@ -168,7 +168,7 @@ And then run the script using
 python synth-words.py
 ```
 
-##### Sythesize a long list of sounds
+##### Synthesize a long list of sounds
 
 When I need to synthesize a long list of sounds, or a list of sounds with different parameters, I use my synth-a-lot.py script.  This script reads parameters from a `.csv` file for each individual sound file.
 
@@ -180,7 +180,9 @@ When I need to synthesize a long list of sounds, or a list of sounds with differ
 
 ### How to edit image stimuli
 
-There are two ways in which I typically edit image stimuli: removing background and re-sizing.  I like to edit images with [Inkscape](https://inkscape.org/en/), an open-source vector graphics editor.
+There are two ways in which I typically edit image stimuli: removing background and re-sizing.  I like to edit images with [Inkscape](https://inkscape.org/en/), an open-source vector graphics editor.  To demonstrate how to remove background and resize images in Inkscape, we will use this picture of donuts.
+
+![](../static/images/donuts.jpg)
 
 ##### Removing background from images
 
