@@ -3,7 +3,6 @@
   * [Recruiting subjects](current/recruitment.md)
   * [How to run](current/how-to-run.md)
 * Guidelines
-  * [Designing experiments](guidelines/designing-exps.md)
   * [Making stimuli](guidelines/making-stimuli.md)
   * [Running experiments](guidelines/running-exps.md)
   * [Coding and transcribing data](guidelines/coding-and-transcribing.md)
