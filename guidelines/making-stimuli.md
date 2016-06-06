@@ -36,7 +36,19 @@ Right click to open the sound file you want to work on with Audacity.
 
 ![](../static/images/sound-open.png)
 
+With the sound file open, listen to each of the recorded examples of the sound and select the one that sounds best to you.
 
+![](../static/images/sound-select.png)
+
+To select in Audacity you just click and drag around the sound that you want.  In this example, I've selected the first one.  Make sure that you get at least a little bit of the silence around the sound.  You will need it to remove background noise later.
+
+![](../static/images/sound-select-best.png)
+
+With the best sound selected, hit `cmd + c` to copy it to the clipboard.
+
+Open a new audacity file by hitting `cmd + n`.  Then paste the selected sound file into the new audacity file with `cmd + v`.
+
+![](../static/images/sound-paste.png)
 
 
 ##### Remove background noise
