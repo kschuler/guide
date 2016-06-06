@@ -49,7 +49,7 @@ Here is an example with some of the trials filled in.
 
 ##### What if the participant says the same word twice? 
 
-> If the participant says the same word twice, such as `gentif gentif mawg ka`, there are two things you can do.  First, check the participant's data-sheet to see how the experimenter recorded the trial.  Second, use your best judgement during the transcription.  For example, the participant may have just stuttered as in `gentif, um, gentif mawg ka`.  
+> If the participant says the same word twice, such as `gentif gentif mawg ka`, there are two things you can do.  First, check the participant's data-sheet to see how the experimenter recorded the trial. The data-sheet is considered to be the most accurate record of the trial. Second, use your best judgement during the transcription.  For example, the participant may have just stuttered as in `gentif, um, gentif mawg ka`.  
 
 ##### What if the data sheet does not match the transcription?
 
