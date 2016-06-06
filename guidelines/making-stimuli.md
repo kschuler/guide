@@ -24,6 +24,43 @@ I prefer to create sound stimuli by recording actual human voices.  Afterward, I
 
 In our lab we record sounds using a Marantz PMD671 located in BldgD 145-D.  Below are the instructions for typical use of the Marantz PMD671 in our lab. The full manual for the Marantz PMD671 is available [here](../static/marantz-pmd671.pdf).
 
+##### To record sound files on the Marantz PMD671
+
+1. Slide the POWER switch to the right and release.
+        The display will show you how much time is left on the CF card for recording.
+
+2. Slide the REC button to the right and release.
+        Recording begins.  The Rec indicator will be lit and steady while recording.
+        The display will show the recording time (TRACK TIME) of the current track (TRACK)
+
+3. Push and release the STOP button to stop recording and end the track (close the audio file).
+        The display will show you how much time is left on the CF card for recording.
+
+
+How do I access my sound files on the computer?
+
+1. Slide the POWER switch to the right and release the power off.
+
+2. Press and hold the USB MENU/STORE button while you slide the POWER switch to the right and release.
+        The  power is on.  The display will read "USB Online".
+
+3. The CF card appears as a removable device on your computer.  
+        Your recorded audio files are in a folder named MPGLANG1 as numbered MP3 files 
+
+
+CAUTION - IMPORTANT
+
+4. Move ONLY the audio files (tracks) to other volumes.  DO NOT modify or deleted the EDL file.  
+        The Marantz will be unable to recognize recorded tracks if the EDL file is missing or damaged.
+
+5. At the close of your session, make sure that the MPGLANG1 folder is empty of your recorded tracks.
+        This ensures that the CF card will have enough space for other lab members recording sessions.
+        Otherwise, the next user will have to listen to your recordings to decipher when hers begin.
+
+
+For editing convenience, Audacity has been installed on both the OSX and Windows sides of the Booth A computer.
+        If you prefer to edit elsewhere, simply move your recorded audio files to your personal removable device.
+
 ### How to edit sounds
 
 I use Audacity to edit sound files for my experiments.  There are four ways in which I typically edit my sound files.  I select the best sample of a given stimulus, remove background noise, add or remove silence if necessary, and export as a `.wav` file.
