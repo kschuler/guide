@@ -22,9 +22,9 @@ Intel HD Graphics 4000 1024 MB | Serial number: C02JR2P4DRVG
 Mac mini (mid 2011)| 2.5 GHz Intel Core i5 | 8 GB 1333 MHz DDR3 | 500 GB  
 AMD Radeon HD 6630M 256 MB | Serial number: C07JD0J9DJD3  
 
-**Eyetracker laptop**   (eye tracker lives here)
+**RED 500**   (eye tracker lives here)
 Dell Latitude E6530 | 3 GHz Intel Core i7 | 4 GB RAM | 300 GB  
-NVIDIA NVS 5200M | Serial number: C02JR2P4DRVG
+NVIDIA NVS 5200M | Serial number: BYSQNX1
 
 **Dell Precision**   
 Dell Precision T7610 | 2 x 2.60 GHz Intel Xeon | 16 GB RAM | 1 TB  
