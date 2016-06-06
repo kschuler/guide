@@ -70,7 +70,7 @@ Next, go back to the sound stimulus and select the entire audio sample.
 
 ![](../static/images/sound-select-all.png)
 
-Select `Effect > Noise Reduction` again to return to the "noise reduction" dialog box.  This time select "OK".
+Select `Effect > Noise Reduction` again to return to the "noise reduction" dialog box.  This time select `OK`.
 
 ![](../static/images/sound-noise-reduction.png)
 
@@ -98,7 +98,7 @@ In the "silence" dialog box, enter the amount of silence you want to generate.  
 
 ![](../static/images/sound-silence-dlg.png)
 
-Click "OK" to finish generating silence.
+Click `OK` to finish generating silence.
 
 ##### Export final stimulus
 
