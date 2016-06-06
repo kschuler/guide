@@ -17,7 +17,7 @@ See [the guidelines][4] for how to make stimuli for one of my experiments.
 * **artificial languages from past experiments**
 	* [ **stimuli/languages** (lab members only)](): repository of design sheets for past used artificial languages.
 * **making artificial languages**
-	* **white board / pen and paper**: the moral here is that there is really no substitute for doing this by hand.
+	* **white board / excel workbook**:  there is really no substitute for doing this by hand.
 	* **a friend (or 3)**: to double check your work!
 
 ### Sounds
