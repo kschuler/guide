@@ -1,8 +1,8 @@
 # Table of content
-* Current Experiments
+* CURRENT EXPERIMENTS
   * [Recruiting subjects](current/recruitment.md)
   * [How to run](current/how-to-run.md)
-* Guidelines
+* GUIDELINES
   * [Making stimuli](guidelines/making-stimuli.md)
   * [Running experiments](guidelines/running-exps.md)
   * [Coding and transcribing data](guidelines/coding-and-transcribing.md)
