@@ -91,4 +91,8 @@ The next time you log in, you'll enter the NEW password you selected.
 
 ## Get Miniconda on the server
 
+UNDER CONSTRUCTION
+
 ## Get psiTurk
+
+UNDER CONSTRUCTION
