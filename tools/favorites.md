@@ -1,8 +1,7 @@
 # Favorite tools for common tasks
 
-UNDER CONSTRUCTION
+These are my favorite tools for common lab-related tasks.  Some links say "lab members only". You must request my permission for access to those links.
 
-for sections that say "lab members only", you can request my permission to view it (and if you are a lab member, I'll give it to you)
 ## Documentation
 
 * [**GitHub / git **][2] : for version control and hosting repositories
@@ -24,11 +23,11 @@ See [the guidelines](../guidelines/making-stimuli.md) for how to make stimuli fo
 * **sound files from past experiments**
 	* [**stimuli/sounds** (lab members only)]: repository of sound files used in my experiments.
 * **recording sound files**
-	* **Marantz PMD671** (professional quality): ours is located in BldgD 145-D. [manual](../static/manuals/marantz-pmd671.pdf) | [lab instructions](../guidelines/making-stimuli.md#how-to-record-sounds)
+	* **Marantz PMD671** (professional quality): located in BldgD 145-D. [manual](../static/manuals/marantz-pmd671.pdf) | [lab instructions](../guidelines/making-stimuli.md#how-to-record-sounds)
 	* **USB microphone** (in a pinch): we have a few of [these](http://www.amazon.com/dp/B0012AUHXW/ref=pd_lpo_sbs_dp_ss_1/182-9815211-7619413?pf_rd_m=ATVPDKIKX0DER&pf_rd_s=lpo-top-stripe-1&pf_rd_r=12J1B313G5HCXKNAAGGQ&pf_rd_t=201&pf_rd_p=1944687542&pf_rd_i=B001R76D42) and they are actually not terrible.  
 * **synthesizing sound files: **
 	* **Mac Text-to-Speech**: using the terminal command `say`
-		* with [**Acapela**][9]: natural sounding child and adult voices in many languages (package for OS X)
+		* [**Acapela**][9]: natural sounding child and adult voices in many languages
 		* borrow my synthesizing scripts: [synth-a-little.py](https://raw.githubusercontent.com/kschuler/helpers/master/synth-a-little.py) | [synth-a-lot.py]()
 *  **editing sound files**
 	* [**Audacity**][12]: works well for the editing I need. [Here is the manual.][13]
@@ -91,12 +90,14 @@ I love python, so my favorite experiment coding resources are all python-based. 
 
 ## Data analysis & visualization
 * **Analysis**
-  *  [Jupyter notebook](http://jupyter-notebook-beginner-guide.readthedocs.io/en/latest/index.html): dynamic report generation (similar concept to [knitr](http://yihui.name/knitr/) R package)
-  * [Pandas](http://pandas.pydata.org/): python library for data analysis and data structures
-  * [R-Studio](https://www.rstudio.com/): user-interface for R 
+  *  [**Jupyter notebook**](http://jupyter-notebook-beginner-guide.readthedocs.io/en/latest/index.html): dynamic report generation (similar concept to [knitr](http://yihui.name/knitr/) R package)
+  * [**Pandas**](http://pandas.pydata.org/): python library for data analysis and data structures
+  * [**R-Studio**](https://www.rstudio.com/): user-interface for R 
 * **Visualization**
-  * [Seaborn](https://web.stanford.edu/~mwaskom/software/seaborn/): data visualization library for python
-  * [ggplot2](http://ggplot2.org/): data visualization package for R
+  * [**Seaborn**](https://web.stanford.edu/~mwaskom/software/seaborn/): data visualization library for python
+  * [**ggplot2**](http://ggplot2.org/): data visualization package for R
+
+
 ## Publishing & presenting
 There are lots and lots of great tools for publishing and presenting your work.  In my opinion, the very best tools are the ones that make it easy for you to work collaboratively with your advisor (and colleagues).  My advisor likes to work in Microsoft Office, so for me, that is the most efficient option. All of my final versions of things are done in Word and Powerpoint.   (And remember, it is really about delivering the content! The tool itself is whatever helps you do that best.)  
 
