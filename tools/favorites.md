@@ -35,7 +35,7 @@ See [the guidelines](../guidelines/making-stimuli.md) for how to make stimuli fo
 
 ### Images
 * **image files from past experiments**
-	* [**stimuli/images** (lab members only)]: repository of image files used in my experiments. (lab members only)
+	* [**stimuli/images** (lab members only)](): repository of image files used in my experiments
 * **finding image stimuli** (open-source)
 	* **[freepik][17]**: free photos and vector graphics, searchable by category
 	* **[Vecteezy][18]**: free vector graphics, searchable by category
@@ -48,9 +48,9 @@ See [the guidelines](../guidelines/making-stimuli.md) for how to make stimuli fo
 
 ### Videos
 * **video files from past experiments**
-	* [**stimuli/videos** (lab members only) ][26]: repository of image files used in my experiments.
+	* [**stimuli/videos** (lab members only) ](): repository of image files used in my experiments.
 * **making video stimuli**
-	* I haven’t done this in years, but whenever people do, they usually use the resources in [Ted’s lab][27].  (ask Lissa)
+	* I haven’t done this in years, but whenever people do, they usually use the resources in [Ted’s lab][27].  (ask Lissa if you are interested in doing this)
 	* **[Cog-sci stimuli sets][28] **: mostly images, but a few standardized video stimuli sets (by Sebastian Mathôt)
 * **editing videos**
 	* **[Quicktime][29]**: for very quick and simple edits. [manuals for older Quicktime versions][30]
