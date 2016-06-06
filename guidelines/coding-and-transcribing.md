@@ -55,7 +55,8 @@ Here is an example with some of the trials filled in.
 
 > The data-sheet is considered to be the most accurate record of the trial.  When there is a conflict, go with what is written on the data-sheet. Make a note of the conflict in the `notes` column.
 
-##### What if 
+##### What if one of the three important items are missing?
+
 
 
 
