@@ -58,10 +58,10 @@ Navigate to `MARANTZ`.  You will see your recorded audio files in a folder named
 
 ![](../static/images/marantz-select.png)
 
-CAUTION - IMPORTANT
+**CAUTION - IMPORTANT
+**
 
-Move ONLY the audio files (tracks) to other volumes.  DO NOT modify or deleted the EDL file.  
-        The Marantz will be unable to recognize recorded tracks if the EDL file is missing or damaged.
+Be sure that you move ONLY the audio files (`TRACKS`) to other volumes.  **DO NOT modify or deleted the `EDL` file. ** The Marantz will be unable to recognize recorded tracks if the `EDL` file is missing or damaged.
 
 At the close of your session, make sure that the MPGLANG1 folder is empty of your recorded tracks.
         This ensures that the CF card will have enough space for other lab members recording sessions.
