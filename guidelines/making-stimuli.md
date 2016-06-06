@@ -227,11 +227,32 @@ There are two ways in which I typically edit image stimuli: removing background 
 
 ##### Removing background from images
 
-To remove background images, I like to outline the part of the image that I want and use the `clip` tool.  I created a short Youtube tutorial to show you how to do this.
+To remove background images, I like to outline the part of the image that I want and use the `clip` tool.  I created a short YouTube tutorial to show you how to do this. Click the image below to watch it.
 
 [![](http://img.youtube.com/vi/7VmYqgosnp0/0.jpg)](https://www.youtube.com/watch?v=7VmYqgosnp0)
 
 ##### Re-sizing images
+
+###### Using Inkscape
+
+To re-size images with Inkscape, you can create a background of your desired size and export it with your image.  A YouTube tutorial for how to do this is available by clicking the image below.
+
+[![](http://img.youtube.com/vi/LYQxfBeBTf0/0.jpg)](https://www.youtube.com/watch?v=LYQxfBeBTf0)
+
+###### Using Preview
+
+It is also reasonably simple to edit images using `Preview` on a Mac.  To begin, open the file you want to edit with `Preview`.  Click and drag around the image to select the area you want.  
+
+![](../static/images/preview-adjust-crop.png)
+
+You can further adjust by clicking and dragging the blue circles.  Once you have the selection square the size you want, drag the square to adjust the position.  Then you can hit `cmd + k` to crop the image.  Once the image is cropped, hit `Tools > Adjust size...`.
+
+![](../static/images/preview-tools.png)
+
+In the `Adjust size` dialog box, close the lock icon by clicking on it.  This locks the aspect ratio to make sure the image does not get distorted. With the lock closed, adjust the size of the image.  When the lock is closed, you only need to adjust one dimension (height or width).  The other dimension will automatically adjust to preserve the aspect ratio.
+
+![](preview-adjust-size.png)
+
 
 
 
