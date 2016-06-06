@@ -120,7 +120,7 @@ Click `OK` to finish exporting your stimulus.
 
 ### How to synthesize sounds
 
-##### A short list of sounds
+##### Synthesize a short list of sounds
 
 To synthesize sounds, you can use the `say` command in the terminal.  To synthesize a single sound, you would type
 
@@ -159,7 +159,8 @@ And then run the script using
 python synth-words.py
 ```
 
-##### A long list of sounds
+##### Sythesize a long list of sounds
+
 
 ## Images
 
