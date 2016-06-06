@@ -45,7 +45,7 @@ Here is an example with some of the trials filled in.
 
 ##### How do I "transcribe" the sound files for the `transcription` column?
 
-> You want to do it like this.
+> Write exatly what the participant said, word-for-word, in quotes.  For example, `"gentif mawg ka. [did I say it right?]"`.  If the participant goes off topic, transcribe that part in brackets `[ ]`.
 
 ##### What if the participant says the same word twice? 
 
