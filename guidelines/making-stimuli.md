@@ -50,8 +50,9 @@ Open a new audacity file by hitting `cmd + n`.  Then paste the selected sound fi
 
 ![](../static/images/sound-paste.png)
 
-
 ##### Remove background noise
+
+
 
 ##### Add or remove silence
 
