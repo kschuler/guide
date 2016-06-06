@@ -66,7 +66,8 @@ Here is an example with some of the trials filled in.
 
 ###### Missing data sheet
 > If the data sheet is missing, make a note on the `production` file.  Use the `WAV` files to fill in the `transcription` column.  
-> 
+
+
 ###### Missing both `WAV` files and data sheet
 > If both the data sheet and the `WAV` files are missing, make a note on the `subject tracking sheet` and recommed the subject for exclusion.  No further transcription or coding is necessary in this case.
 
