@@ -110,6 +110,8 @@ Enter a file name and select `WAV` format.
 
 ![](../static/images/sound-save.png)
 
+Select `save`.  You can enter meta-data if you wish to.  I often leave this part blank.
+
 ![](../static/images/sound-metadata.png)
 
 ### How to synthesize sounds
