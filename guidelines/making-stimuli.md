@@ -136,7 +136,7 @@ Each parameter in this command are:
 - `-o ~/Desktop/say-this.wav` is the path and name of the file you want to save
 - `--data-format=LEF32@32000` is the format of the data (required for `WAV` files)
 
-When I want so synthesize a short list of words or sentences with the same parameters, I use my [synth-a-little.py](https://raw.githubusercontent.com/kschuler/helpers/master/synth-a-little.py) python script.
+When I want so synthesize a short list of words or sentences with exactly the same parameters, I use my [synth-a-little.py](https://raw.githubusercontent.com/kschuler/helpers/master/synth-a-little.py) python script.
 
 ![](../static/images/script-synth-words.png)
 
