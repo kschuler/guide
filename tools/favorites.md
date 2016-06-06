@@ -6,8 +6,8 @@ These are my favorite tools for common lab-related tasks.  Some links say "lab m
 - [Making stimuli](#making-stimuli)
   - [Artificial languages](#artificial-languages)
   - [Sounds](#sounds)
-  - Images
-  - Videos
+  - [Images](#images)
+  - [Videos](#videos)
 - Creating experiments
   - with Applications
   - [with Code](#with-code)
