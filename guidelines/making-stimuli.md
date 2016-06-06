@@ -44,9 +44,7 @@ To select in Audacity you just click and drag around the sound that you want.  I
 
 ![](../static/images/sound-select-best.png)
 
-With the best sound selected, hit `cmd + c` to copy it to the clipboard.
-
-Open a new audacity file by hitting `cmd + n`.  Then paste the selected sound file into the new audacity file with `cmd + v`.
+With the best sound selected, hit `cmd + c` to copy it to the clipboard. Open a new audacity file by hitting `cmd + n`.  Then paste the selected sound file into the new audacity file with `cmd + v`.
 
 ![](../static/images/sound-paste.png)
 
