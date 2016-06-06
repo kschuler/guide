@@ -198,7 +198,7 @@ then use `curl` to download the script.
 curl -o synth-words.py https://raw.githubusercontent.com/kschuler/helpers/master/synth-a-little.py
 ```
 
-To run the script, first edit [synth-a-little.py](https://raw.githubusercontent.com/kschuler/helpers/master/synth-a-little.py) with the parameters you want to use.  Then navigate to the script's directory.  For example, if you saved `synth-words.py` on your Desktop you would navigate to the Desktop
+To run the script, first edit [synth-a-little.py](https://raw.githubusercontent.com/kschuler/helpers/master/synth-a-little.py) with the parameters you want to use.  Then navigate to the script's directory.  For example, if you saved `synth-a-little.py` on your Desktop you would navigate to the Desktop
 
 ```
 cd ~/Desktop
