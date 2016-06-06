@@ -55,6 +55,9 @@ Intel HD Graphics 4000 1024 MB | Serial number: C02JR2P4DRVG
 ##### Eyetrackers
 - RED500 : Binocular 500 Hz eye-tracker
 - RED-m : Binocular 120 Hz portable eye-tracker
+
+##### Headphones
+- 
 - headphones
 - touchscreen (elo)
 - microphones
