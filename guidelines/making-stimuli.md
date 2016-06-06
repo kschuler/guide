@@ -106,6 +106,12 @@ To export the final stimulus, select `File > Export Audio...` or `File > Export 
 
 ![](../static/images/sound-export.png)
 
+Enter a file name and select `WAV` format.
+
+![](../static/images/sound-save.png)
+
+![](../static/images/sound-metadata.png)
+
 ### How to synthesize sounds
 
 ##### A short list of sounds
