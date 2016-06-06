@@ -20,10 +20,10 @@ Add 6 columns: `transcription`, `prod-verb`, `prod-noun`, `prod-det-actual`, `pr
 ![](../static/images/transcribe-add.png)
 
 You will fill in each of these columns with the following for each trial:
-###### Transcribe
+###### Transcribing
 - `transcription`: what the participant actually said
 
-###### Code
+###### Coding
 - `prod-verb`: did they produce the correct verb? (0 for no, 1 for yes)
 - `prod-noun`: did they produce the correct noun? (0 for no, 1 for yes)
 - `prod-det-actual`: what determiner did they produce? (write it exactly)
