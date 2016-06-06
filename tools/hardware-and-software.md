@@ -2,6 +2,8 @@
 - [Computers](#computers)
 - [Other hardware](#other-hardware)
 - [Software](#software)
+
+
 ## Computers
 This is a list of the computers that are involved in my experiments in some way.
 
