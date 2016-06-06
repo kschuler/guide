@@ -5,7 +5,7 @@ These are the guidelines I follow for transcribing my production studies.  For e
 
 1. The `production` file, found with the participant's `raw-data`.
 2. The `WAV` files, found in a folder with the `raw-data`.
-3. The data sheet, a hand-written sheet of paper from the experiment
+3. The [data sheet](https://www.dropbox.com/s/26b0jsjogheey0a/0102-inconinput-1day-pluralmorph-6733-data-sheet.docx?dl=0), a hand-written sheet of paper from the experiment
 
 
 Open the participant's `production` data file.
@@ -26,7 +26,9 @@ You will fill in each of these columns with the following for each trial:
 - `notes`: write any notes you feel would help
   - for example: the child produced `ka` as `ko`; transcriptions are missing; etc
 
+Here is an example with some of the trials filled in.
 
+![](../static/images/transcribe-filled-out.png)
 
 
 
