@@ -73,11 +73,17 @@ Here is an example with some of the trials filled in.
 > If both the data sheet and the `WAV` files are missing, make a note on the `subject tracking sheet` and recommed the subject for exclusion.  No further transcription or coding is necessary in this case.
 
 ##### How do I know what to put in `prod-det-category`?
-> Here you will put the category of the determiner that the participant used.  There are typically four options: 
+> Here you will put the category of the determiner that the participant used.  There are typically four options.  For inconinput, the options are:
 > - `maj`: the majority determiner (depends on language)
 > - `min`: the minority determiner (depends on language)
 > - `other`: some other word (e.g. English +s, any other word)
 > - `null`: no determiner used
+
+> For yang, the options are:
+> - `R`: the regular form (`ka`)
+> - `e`: any exceptional form (depends on language)
+> - `other`: some other word (e.g. English +s, any other word)
+> - `null`: no marker used
 
 > If you are uncertain how to code something, just ask Katie in person.
 
