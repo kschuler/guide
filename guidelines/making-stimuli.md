@@ -136,7 +136,7 @@ Each parameter in this command are:
 - `-o ~/Desktop/say-this.wav` is the path and name of the file you want to save
 - `--data-format=LEF32@32000` is the format of the data (required for `WAV` files)
 
-When I want so synthesize a short list of words or sentences with the same parameters, I use my [synth-words.py](https://raw.githubusercontent.com/kschuler/helpers/master/synth-words.py) script.
+When I want so synthesize a short list of words or sentences with the same parameters, I use my [synth-a-little.py](https://raw.githubusercontent.com/kschuler/helpers/master/synth-a-little.py) python script.
 
 ![](../static/images/script-synth-words.png)
 
@@ -157,7 +157,7 @@ then use `curl` to download the script.
 curl -o synth-words.py https://raw.githubusercontent.com/kschuler/helpers/master/synth-words.py
 ```
 
-To run the script, first edit [synth-words.py](https://raw.githubusercontent.com/kschuler/helpers/master/synth-a-little.py) with the parameters you want to use.  Then navigate to the script's directory.  For example, if you saved `synth-words.py` on your Desktop you would navigate to the Desktop
+To run the script, first edit [synth-a-little.py](https://raw.githubusercontent.com/kschuler/helpers/master/synth-a-little.py) with the parameters you want to use.  Then navigate to the script's directory.  For example, if you saved `synth-words.py` on your Desktop you would navigate to the Desktop
 
 ```
 cd ~/Desktop
