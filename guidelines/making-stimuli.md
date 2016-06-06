@@ -94,6 +94,11 @@ Select `Generate > Silence...` from the Audacity menu.
 
 ![](../static/images/sound-generate-silence.png)
 
+In the 
+
+![](../static/images/sound-silence-dlg.png)
+
+
 
 
 
