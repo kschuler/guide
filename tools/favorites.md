@@ -22,9 +22,9 @@ See [the guidelines][4] for how to make stimuli for one of my experiments.
 
 ### Sounds
 * **sound files from past experiments**
-	* [**stimuli/sounds** (lab members only) ][6]: repository of sound files used in my experiments.
+	* [**stimuli/sounds** (lab members only)]: repository of sound files used in my experiments.
 * **recording sound files**
-	* **Marantz PMD671** (professional quality): ours is located in BldgD 145-D. [manual][7] | [lab instructions]()
+	* **Marantz PMD671** (professional quality): ours is located in BldgD 145-D. [manual][7] | [lab instructions](../guidelines/making-stimuli.md#how-to-record-sounds)
 	* **USB microphone** (in a pinch): we have a few of these and they are actually not terrible.  
 * **synthesizing sound files: **
 	* **Mac Text-to-Speech**: using the terminal command `say`
