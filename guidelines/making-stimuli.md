@@ -28,6 +28,15 @@ I use Audacity to edit sound files for my experiments.  There are four ways in w
 
 ##### Select the best sample
 
+First, select the file that you want to work on.  If you recorded files with the marantz, these files will be numbered `.mp3` files.
+
+![Open sound file](../static/images/sound-file.png)
+
+Right click to open the sound file you want to work on with Audacity.
+
+![](../static/images/sound-open.png)
+
+
 
 
 ##### Remove background noise
