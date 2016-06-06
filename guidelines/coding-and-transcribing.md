@@ -64,13 +64,11 @@ Here is an example with some of the trials filled in.
 > ###### Missing `WAV` files
 > If any or all sound files are missing, check inside the experiment folder on the local computer. (In the `data` folder.) If you cannot find them anywhere, make a note on the `production` file.  Use the `data-sheet` to fill in the `transcription` column.
 
-
 > ###### Missing data sheet
 > If the data sheet is missing, make a note on the `production` file.  Use the `WAV` files to fill in the `transcription` column.  
 
-
 > ###### Missing both `WAV` files and data sheet
-> If both the data sheet and the `WAV` files are missing, make a note on the `subject tracking sheet` and recommed the subject for exclusion.  No further transcription or coding is necessary in this case.
+> If both the data sheet and the `WAV` files are missing, make a note on the `subject tracking sheet` and recommend the subject for exclusion.  No further transcription or coding is necessary in this case.
 
 ##### How do I know what to put in `prod-det-category`?
 > Here you will put the category of the marker that the participant used.  There are typically four options.  For inconinput, the options are:
@@ -85,7 +83,7 @@ Here is an example with some of the trials filled in.
 > - `other`: some other word (e.g. English +s, any other word)
 > - `null`: no marker used
 
-> If you are uncertain how to code something, just ask Katie in person.
+> If you are uncertain how to code something, just ask me in person.
 
 
 
