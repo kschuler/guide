@@ -1,9 +1,9 @@
 
 # Setting up a computer
 
-UNDER CONSTRUCTION
-
 These instructions are for setting up a lab computer (OS X) to run one of my experiments.  To set up a computer to run one of my experiments, start at the top with [install required software](#install-required-software).  To adapt one of my experiments for your own use, skip install required software and start with [get Miniconda](#get-miniconda).
+
+- [Install required software](#install-required-software)
 
 ## Install required software
 Check to make sure the computer you are using has (at least) Audacity and Dropbox. Make sure Dropbox has been configured with the lab login information (ask Sarah for this information if you need it).  If the computer is missing either of these programs, please download them.
