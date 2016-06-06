@@ -11,7 +11,7 @@ for sections that say "lab members only", you can request my permission to view 
 
 ## Making stimuli
 
-See [the guidelines][4] for how to make stimuli for one of my experiments.
+See [the guidelines][(../guidelines/making-stimuli.md) for how to make stimuli for one of my experiments.
 
 ### Artificial Languages
 * **artificial languages from past experiments**
