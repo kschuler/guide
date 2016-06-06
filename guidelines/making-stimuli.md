@@ -45,11 +45,11 @@ Push and release the STOP button to stop recording and end the track (close the 
 
 ##### To access sound files recorded on the Marantz PMD671
 
-First, slide the `POWER` switch to the right and release the power off.  Then, press and hold the USB MENU/STORE button while you slide the POWER switch to the right and release.
+First, slide the `POWER` switch to the right and release the power off. Plug the USB cord into a computer. Then, press and hold the `USB MENU/STORE` button while you slide the `POWER` switch to the right and release.
 
 ![](../static/images/marantz-usb.jpg)
 
-        The  power is on.  The display will read "USB Online".
+The  power is now on and the display will read `USB Online`.
 
 The CF card appears as a removable device on your computer.  
         Your recorded audio files are in a folder named MPGLANG1 as numbered MP3 files 
