@@ -45,6 +45,16 @@ Here is an example with some of the trials filled in.
 
 > You want to do it like this.
 
+##### What if the participant says the same word twice? 
+
+> You want to do it like this.
+
+##### What if the data sheet does not match the transcription?
+
+> You want to do it like this?
+
+
+
 
 
 
