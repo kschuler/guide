@@ -36,7 +36,7 @@ See [the guidelines][4] for how to make stimuli for one of my experiments.
 
 ### Images
 * **image files from past experiments**
-	* [**stimuli/images** (lab members only) ][16]: repository of image files used in my experiments. (lab members only)
+	* [**stimuli/images** (lab members only)]: repository of image files used in my experiments. (lab members only)
 * **finding image stimuli** (open-source)
 	* **[freepik][17]**: free photos and vector graphics, searchable by category
 	* **[Vecteezy][18]**: free vector graphics, searchable by category
