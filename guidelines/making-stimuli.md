@@ -50,7 +50,11 @@ With the best sound selected, hit `cmd + c` to copy it to the clipboard. Open a 
 
 ##### Remove background noise
 
+To remove background noise, we first need to zoom in to our sound stimulus.  Use `cmd + 1` to zoom in.  (Note that `cmd +3` zooms out and `cmd + 2` returns the sound stimulus to its original size.)
 
+![](../static/images/sound-zoom.png)
+
+Next 
 
 ##### Add or remove silence
 
