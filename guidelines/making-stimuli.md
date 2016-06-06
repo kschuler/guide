@@ -142,7 +142,7 @@ When I want so synthesize a short list of words or sentences with the same param
 
 The parameters in the script are:
 
-- `path` is the path where I want to save the sound files
+- `path` is the name of a folder I want to create in the current directory to save my sound files in
 - `voice` is the voice I want to use
 - `rate` is the speech rate
 - `wordList` is a list of words or sentences that I want to synthesize
