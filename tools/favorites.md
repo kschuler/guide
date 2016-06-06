@@ -25,11 +25,11 @@ See [the guidelines][4] for how to make stimuli for one of my experiments.
 	* [**stimuli/sounds** (lab members only)]: repository of sound files used in my experiments.
 * **recording sound files**
 	* **Marantz PMD671** (professional quality): ours is located in BldgD 145-D. [manual][7] | [lab instructions](../guidelines/making-stimuli.md#how-to-record-sounds)
-	* **USB microphone** (in a pinch): we have a few of these and they are actually not terrible.  
+	* **USB microphone** (in a pinch): we have a few of [these](http://www.amazon.com/dp/B0012AUHXW/ref=pd_lpo_sbs_dp_ss_1/182-9815211-7619413?pf_rd_m=ATVPDKIKX0DER&pf_rd_s=lpo-top-stripe-1&pf_rd_r=12J1B313G5HCXKNAAGGQ&pf_rd_t=201&pf_rd_p=1944687542&pf_rd_i=B001R76D42) and they are actually not terrible.  
 * **synthesizing sound files: **
 	* **Mac Text-to-Speech**: using the terminal command `say`
 		* with [**Acapela**][9]: natural sounding child and adult voices in many languages (package for OS X)
-		* borrow my synthesizing scripts: [synthesize-alittle.py][10] | [synthesize-alot.py][11]
+		* borrow my synthesizing scripts: [synth-a-little.py](https://raw.githubusercontent.com/kschuler/helpers/master/synth-a-little.py) | [synth-a-lot.py]()
 *  **editing sound files**
 	* [**Audacity**][12]: works well for the editing I need. [Here is the manual.][13]
 	* [**Praat**][14]: people who do phonetics and phonology stuff like Praat. [Here is a nice tutorial.][15]
