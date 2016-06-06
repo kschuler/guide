@@ -53,7 +53,7 @@ The  power is now on and the display will read `USB Online`.  The CF card appear
 
 ![](../static/images/marantz-computer.png)
 
-Your recorded audio files are in a folder named MPGLANG1 as numbered MP3 files 
+Your recorded audio files are in a folder named `MPGLANG1` as numbered `MP3` files 
 
 
 CAUTION - IMPORTANT
