@@ -40,7 +40,7 @@ With the sound file open, listen to each of the recorded examples of the sound a
 
 ![](../static/images/sound-select.png)
 
-To select in Audacity you just click and drag around the sound that you want.  In this example, I've selected the first one.  Make sure that you get at least a little bit of the silence around the sound.  You will need it to remove background noise later.
+To select in Audacity you just click and drag around the sound that you want.  In this example, I've selected the first one.  Make sure that you get at least a little bit of the silence around the sound.  You will need it to [remove background noise](#remove-background-noise) later.
 
 ![](../static/images/sound-select-best.png)
 
