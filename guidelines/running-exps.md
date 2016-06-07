@@ -1,5 +1,11 @@
 # Running Experiments
 
+- [Kids in the lab](#kids-in-the-lab)
+- [Kids at school](#kids-at-school)
+- [Adults in the lab](#adults-in-the-lab)
+- [Adults on mechanical turk](#adults-on-mechanical-turk)
+- [Patients](#patients)
+
 ## Kids in the lab
 - **The day before**
   - Send the family a reminder email
