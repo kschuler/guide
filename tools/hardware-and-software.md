@@ -69,7 +69,13 @@ UNDER CONSTRUCTIONS
 ## Software
 ### Required
 
-- audacity
-- 
+- Audacity
+- Dropbox
+- Inkscape
+- Ulysses
+- Gitbooks
+- Atom
+- Dayone
+- BibDesk
 
 ### Optional
