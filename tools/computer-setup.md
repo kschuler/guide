@@ -67,13 +67,16 @@ For more information on how to use conda, refer to the official conda documentat
 
 ### PsychoPy
 
-Now that you have miniconda, you can use it to get psychopy and its dependencies.  You can get the version of psychopy that works for my experiments by using my conda recipe.
-
+Now that you have miniconda, you can use it to get psychopy and its dependencies.  You can get the version of psychopy that works for my experiments by using my conda recipe.  My recipe depends on a number of other packages from the anaconda channel `http://conda.anaconda.org/erik`.  First add this channel to your conda configuration.
+```
+conda config --add channels http://conda.anaconda.org/erik
+```
+Next you can install psychopy and its dependencies from my recipe.
 ```
 conda install -c kschuler psychopy=1.82.01
 ```
 
-This will install almost all the packages required by psychopy (and my experiments).  Answer yes to all the questions and press Enter when required.
+This will install almost all the packages required by psychopy (and my experiments).  Answer yes to all the questions and press Enter when required.  It will take a long time.
 
 ### Pygame
 In order for my experiments to play sound, you need to install Pygame and the packages it requires.  To do this, we first want to get the packages pygame requires.
