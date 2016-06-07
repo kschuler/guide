@@ -219,6 +219,8 @@ When I need to synthesize a long list of sounds, or a list of sounds with differ
 
 ### How to find image stimuli
 
+When you are looking for images to use as stimuli, generally any open-source image search tool works well.  You can see some sources I recommend on my [favorite tools](../tools/favorites.md) page, including past stimuli used in the lab.
+
 ### How to edit image stimuli
 
 There are two ways in which I typically edit image stimuli: removing background and re-sizing.  I like to edit images with [Inkscape](https://inkscape.org/en/), an open-source vector graphics editor.  To show how to remove background and re-size images in [Inkscape](https://inkscape.org/en/), we will edit this picture of doughnuts.
