@@ -8,7 +8,11 @@
 * [Git cheat sheet #1](../static/cheat-sheets/github-git-cheat-sheet.pdf)
 * [Git cheat sheet #2](../static/cheat-sheets/tower-git-cheatsheet.pdf)
 * [Git cheat sheet #3](../static/cheat-sheets/cheatsheets.org-git-cheatsheet.pdf)
+
+
 ## Create a repository
+
+Coming soon...
 
 ## Ignore certain files and folders
 See [gitignore](https://git-scm.com/docs/gitignore) for more help.
@@ -66,3 +70,5 @@ git push -u origin master
 
 
 ## Create a branch
+
+Coming soon...
