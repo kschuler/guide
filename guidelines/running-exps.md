@@ -55,10 +55,10 @@
         - Setup the table and chair in the hallway (table cloth in David's office)
         - Check our list against the WIS list to see where kids are located
     - @Arlington YMCA
-- **When you arrive**
-    - Mark the consent form with the study ID number
-    - Update the study's subject tracking sheet (dropbox)
-    - Upload the data to the study's raw-data folder (dropbox)
+      - Coming soon...
+    - @Silverspring YMCA
+      - Coming soon...
+
 ## Adults in the lab
 ## Adults on mechanical turk
 
