@@ -34,6 +34,8 @@ NVIDIA Quadro K4000| Serial number: 47JDX12
 
 The traveling computers run experiments at schools, camps, and daycares). There are four Macbook Airs, one Microsoft surface and one Elo touchscreen tablet.  The Airs are typically used to run my language experiments.  The surface and the Elo touchscreen to run the kid (or patient) SRT experiments.
 
+UNDER CONSTRUCTION
+
 **Snoopy**   
 Macbook Air | 2 GHz Intel Core i7 | 8 GB 1600 MHz DDR3 | 250 GB  
 Intel HD Graphics 4000 1024 MB | Serial number: C02JR2P4DRVG
@@ -51,6 +53,7 @@ Intel HD Graphics 4000 1024 MB | Serial number: C02JR2P4DRVG
 Macbook Air | 2 GHz Intel Core i7 | 8 GB 1600 MHz DDR3 | 250 GB  
 Intel HD Graphics 4000 1024 MB | Serial number: C02JR2P4DRVG
 ## Other hardware
+UNDER CONSTRUCTIONS
 
 ##### Eyetrackers
 - RED500 : Binocular 500 Hz eye-tracker
