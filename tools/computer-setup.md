@@ -79,9 +79,13 @@ conda install -c kschuler psychopy=1.82.01
 This will install almost all the packages required by psychopy (and my experiments).  Answer yes to all the questions and press Enter when required.  It will take a long time.
 
 ### Pygame
-In order for my experiments to play sound, you need to install Pygame and the packages it requires.  To do this, we first want to get the packages pygame requires.
+In order for my experiments to play sound, you need to install Pygame and the packages it requires.  To do this, we first want to get the packages pygame requires.  Install homebrew to get these packages ([why?](https://groups.google.com/forum/#!topic/psychopy-dev/dratQzqNJ-k)).
 
-Install homebrew to get these packages ([why?](https://groups.google.com/forum/#!topic/psychopy-dev/dratQzqNJ-k))
+Make sure you have xcode-select installed
+```
+xcode-select –install
+```
+Then install homebrew
 ```bash
 ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
 ```
