@@ -22,7 +22,7 @@ Instructions to run all current experiments are below.  If the experiment you ar
 ##### During running
 - Read all on-screen instructions to participant
 - Offer a sticker at each break
-- Record responses on [0164 data sheet](https://www.dropbox.com/s/rbcvs9ak21dmu15/0164-empericalyang-9noun-mfrule-tophalf-child-data-sheet.docx?dl=0)
+- Record responses on [0104 data sheet](https://www.dropbox.com/s/rbcvs9ak21dmu15/0164-empericalyang-9noun-mfrule-tophalf-child-data-sheet.docx?dl=0)
 
 ##### After running
 - Exit my conda environment with `source deactivate`
