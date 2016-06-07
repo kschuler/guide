@@ -67,13 +67,13 @@ For more information on how to use conda, refer to the official conda documentat
 
 ### PsychoPy
 
-Now that you have miniconda, you can use it to get psychopy and its dependencies.  You can get the version of psychopy that works for my experiments by using my [environment file](https://raw.githubusercontent.com/kschuler/helpers/master/kschuler-env.txt).  My recipe depends on a number of other packages from the anaconda channel `http://conda.anaconda.org/erik`.  First add this channel to your conda configuration.
+Now that you have miniconda, you can use it to get psychopy and its dependencies.  You can get the version of psychopy that works for my experiments by using my [environment file](https://raw.githubusercontent.com/kschuler/helpers/master/kschuler-env.txt).  Download the file.
 ```
-conda config --add channels http://conda.anaconda.org/erik
+curl -O https://raw.githubusercontent.com/kschuler/helpers/master/kschuler-env.txt
 ```
-Next you can install psychopy and its dependencies from my recipe.
+And use it to create a conda environment for my experiments
 ```
-conda install -c kschuler psychopy=1.82.01
+conda install --name kschuler --file kschuler-env.txt
 ```
 
 This will install almost all the packages required by psychopy (and my experiments).  Answer yes to all the questions and press Enter when required.  It will take a long time.
