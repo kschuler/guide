@@ -26,8 +26,8 @@ Instructions to run all current experiments are below.  If the experiment you ar
 
 ##### After running
 - Exit my conda environment with `source deactivate`
-- Copy participant data to [0164 raw-data folder](https://www.dropbox.com/sh/ne3y6a280gwqvqb/AABVJX9J-izvHfLeF13FXZLGa?dl=0)
-- Fill in final columns of [0164 subject tracking sheet](https://www.dropbox.com/s/mtp8m18hzwu0k4v/0164-empiricalyang-9noun-mfrule-tophalf-child-track.csv?dl=0)
+- Copy participant data to [0104 raw-data folder](https://www.dropbox.com/sh/tcji2vfs64bp5pg/AAAHdrlhoIuujxG1aYWrq3c5a?dl=0)
+- Fill in final columns of [0104 subject tracking sheet](https://www.dropbox.com/s/twajhafd1wr8r64/0104-inconinput-1day-pluralmorph-6733-training-track.csv?dl=0)
 
 
 ### 0164-empiricalyang-9noun-mfrule-tophalf-child
