@@ -9,7 +9,7 @@ Instructions to run all current experiments are below.  If the experiment you ar
 
 ### 0104-inconinput-1day-pluralmorph-6733-training
 ##### Before running
-- Open the [0104 subject tracking sheet](https://www.dropbox.com/s/twajhafd1wr8r64/0104-inconinput-1day-pluralmorph-6733-training-track.csv?dl=0)
+- Open the [0104 subject tracking sheet](https://www.dropbox.com/s/jdwwu7qh79skru6/0104-inconinput-1day-pluralmorph-6733-training-track.xlsx?dl=0)
   - fill in participant information
   - get subject id number (SID) and condition
 - Setup the experiment
@@ -22,12 +22,12 @@ Instructions to run all current experiments are below.  If the experiment you ar
 ##### During running
 - Read all on-screen instructions to participant
 - Offer a sticker at each break
-- Record responses on [0104 data sheet](https://www.dropbox.com/s/hoq4k2wb9e6zw7l/0104-inconinput-1day-pluralmorph-6733-training-data-sheet.docx?dl=0)
+- Record responses on 0104 data sheet
 
 ##### After running
 - Exit my conda environment with `source deactivate`
 - Copy participant data to [0104 raw-data folder](https://www.dropbox.com/sh/tcji2vfs64bp5pg/AAAHdrlhoIuujxG1aYWrq3c5a?dl=0)
-- Fill in final columns of [0104 subject tracking sheet](https://www.dropbox.com/s/twajhafd1wr8r64/0104-inconinput-1day-pluralmorph-6733-training-track.csv?dl=0)
+- Fill in final columns of [0104 subject tracking sheet](https://www.dropbox.com/s/jdwwu7qh79skru6/0104-inconinput-1day-pluralmorph-6733-training-track.xlsx?dl=0)
 
 
 ### 0164-empiricalyang-9noun-mfrule-tophalf-child
