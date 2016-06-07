@@ -61,7 +61,7 @@
 
 ## Adults in the lab
 - **The day before**
-  - Send the participant a reminder email
+  - Send the participant a [reminder email](https://www.dropbox.com/s/zpf6kmx675wa7d9/Samplerecruitmentemails.docx?dl=0)
 - **Before they arrive** 
   - Gather necessary paperwork
     - Consent forms 
