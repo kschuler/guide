@@ -16,7 +16,7 @@
     - Pens
     - Gift bags
   - Setup the computer
-    - Make sure the [computer is setup](how-to-run.md) to begin the experiment
+    - Make sure the [computer is setup](../current/how-to-run.md) to begin the experiment
 - **10 minutes before**
   - Wait outside for the family
     - Bring parking pass, phone, and umbrella if needed
@@ -25,7 +25,7 @@
   - Point out the bathrooms on your way in
   - Let them get settled in the lab
   - Consent the parent and answer questions
-- **[Run the experiment](how-to-run.md)**
+- **[Run the experiment](../current/how-to-run.md)**
   - Let the parent know how to see the child on camera
 - **After running**
   - Child receives toy bag and can select a t-shirt
@@ -72,20 +72,16 @@
     - Stickers (if control for child study)
     - Pens
   - Setup the computer
-    - Make sure the [computer is setup](how-to-run.md) to begin the experiment
+    - Make sure the [computer is setup](../current/how-to-run.md) to begin the experiment
 - **When they arrive**
   - Consent them and answer questions
   - Ask them to fill out the Subject Information Form
-- **[Run the experiment](how-to-run.md)**
-  - Let the parent know how to see the child on camera
+- **[Run the experiment](../current/how-to-run.md)**
 - **After running**
-  - Child receives toy bag and can select a t-shirt
-    - We usually give sibling toy bag's for patient siblings.
-  - Parent receives $10 on behalf of the child and must sign reciept
-  - Walk them out to the parking lot
+  - Participant receives $10 and must sign reciept
 
 ## Adults on mechanical turk
-I all adults on mechanical turk myself.  Instructions for how I do that are coming soon...
+I run all adults on mechanical turk myself.  Instructions for how I do that are coming soon...
 
 ## Patients
 For my studies, we do not run patients ourselves.  Mackenzie Fama runs patients for us because she is qualified to do so.  
