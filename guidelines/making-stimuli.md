@@ -220,7 +220,7 @@ More coming soon...
 
 ### How to find image stimuli
 
-When you are looking for images to use as stimuli, generally any open-source image search tool works well.  You can see some sources I recommend on my [favorite tools](../tools/favorites.md) page, including past stimuli used in the lab.
+When you are looking for images to use as stimuli, generally any open-source image search tool works well.  You can see some sources I recommend on my [favorite tools](../tools/favorites.md#images) page, including past stimuli used in the lab.
 
 ### How to edit image stimuli
 
