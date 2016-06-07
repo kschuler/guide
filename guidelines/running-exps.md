@@ -8,6 +8,7 @@
     - Consent forms 
     - Data collection sheets 
   - Gather necessary equipment
+    - Camera (for parent viewing)
     - Computer and charger
     - Headphones
     - Tiny mouse
@@ -19,17 +20,18 @@
 - **10 minutes before**
   - Wait outside for the family
     - Bring parking pass, phone, and umbrella if needed
-
 - **When they arrive**
   - Give them the parking pass and bring them into the lab
   - Point out the bathrooms on your way in
   - Let them get settled in the lab
   - Consent the parent and answer questions
-    - @WIS
-        - Introduce yourself to the guard, get an ID badge
-        - Setup the table and chair in the hallway (table cloth in David's office)
-        - Check our list against the WIS list to see where kids are located
-    - @Arlington YMCA
+- **[Run the experiment](how-to-run.md)**
+  - Let the parent know how to see the child on camera
+- **After running**
+  - Child receives toy bag and can select a t-shirt
+    - We usually give sibling toy bag's for patient siblings.
+  - Parent receives $10 on behalf of the child and must sign reciept
+  - Walk them out to the parking lot
 
 ## Kids at school
 - **What to bring**
