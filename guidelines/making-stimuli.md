@@ -213,6 +213,7 @@ python synth-a-little.py
 
 When I need to synthesize a long list of sounds, or a list of sounds with different parameters, I use my synth-a-lot.py script.  This script reads parameters from a `.csv` file for each individual sound file.
 
+More coming soon...
 
 
 ## Images
