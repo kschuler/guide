@@ -67,7 +67,7 @@ For more information on how to use conda, refer to the official conda documentat
 
 ### PsychoPy
 
-Now that you have miniconda, you can use it to get psychopy and its dependencies.  You can get the version of psychopy that works for my experiments by using my conda recipe.  My recipe depends on a number of other packages from the anaconda channel `http://conda.anaconda.org/erik`.  First add this channel to your conda configuration.
+Now that you have miniconda, you can use it to get psychopy and its dependencies.  You can get the version of psychopy that works for my experiments by using my [environment file](https://raw.githubusercontent.com/kschuler/helpers/master/kschuler-env.txt).  My recipe depends on a number of other packages from the anaconda channel `http://conda.anaconda.org/erik`.  First add this channel to your conda configuration.
 ```
 conda config --add channels http://conda.anaconda.org/erik
 ```
