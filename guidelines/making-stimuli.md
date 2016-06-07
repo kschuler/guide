@@ -258,6 +258,8 @@ In the `Adjust size` dialog box, close the lock icon by clicking on it.  This lo
 
 ## Videos
 
+Coming soon...
+
 ### How to find video stimuli
 
 ### How to record video stimuli
