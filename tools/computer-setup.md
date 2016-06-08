@@ -8,7 +8,7 @@ These instructions are for setting up a lab computer (OS X) to run one of my exp
 - [Get PsychoPy and required packages](#get-psychopy-and-required-packages)
 
 ## Install required software
-Check to make sure the computer you are using has (at least) Audacity and Dropbox. Make sure Dropbox has been configured with the lab login information (ask Sarah for this information if you need it).  If the computer is missing either of these programs, please download them.
+Check to make sure the computer you are using has (at least) Audacity and Dropbox. Make sure Dropbox has been configured with the lab login information (ask Jaclyn for this information if you need it).  If the computer is missing either of these programs, please download them.
 
 *  **[Audacity][1]**  - download and install
 *  **[Dropbox][2]** - download and install (and configure with lab login)
