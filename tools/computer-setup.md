@@ -65,21 +65,8 @@ For more information on how to use conda, refer to the official conda documentat
 
 ## Get PsychoPy and required packages
 
-### PsychoPy
-
-Now that you have miniconda, you can use it to get psychopy and its dependencies.  You can get the version of psychopy that works for my experiments by using my [environment file](https://raw.githubusercontent.com/kschuler/helpers/master/kschuler-env.txt).  Download the file.
-```
-curl -O https://raw.githubusercontent.com/kschuler/helpers/master/kschuler-env.txt
-```
-And use it to create a conda environment for my experiments
-```
-conda install --name kschuler --file kschuler-env.txt
-```
-
-This will install almost all the packages required by psychopy (and my experiments).  Answer yes to all the questions and press Enter when required.  It will take a long time.
-
-### Pygame
-In order for my experiments to play sound, you need to install Pygame and the packages it requires.  To do this, we first want to get the packages pygame requires.  Install homebrew to get these packages ([why?](https://groups.google.com/forum/#!topic/psychopy-dev/dratQzqNJ-k)).
+### Get dependencies first
+In order for my experiments to play sound, you need to install **pygame** and the packages it requires.  To do this, we first want to get the packages pygame requires.  Install homebrew to get these packages (because it does a nice job of getting the right versions of everything).
 
 Make sure you have xcode-select installed
 ```
@@ -95,26 +82,27 @@ and install the pygame dependencies with it
 brew install sdl sdl_ttf sdl_image sdl_mixer portmidi
 ```
 
-Now you can install the OSX-friendly version of pygame.  Make sure you do this part exactly - other conda recipes for pygame my not build properly on OSX.
-```bash
-conda install anaconda-client
+
+### PsychoPy
+
+Now that you have miniconda and the pygame dependencies, you can create a conda environment for psychopy.  You can get exact conda environment that I use for my experiments by using my [environment file](https://raw.githubusercontent.com/kschuler/helpers/master/kschuler-env.txt).  Please note this will only work with 64-bit OSX. 
+
+Download the file
 ```
-```bash
-conda install -c https://conda.binstar.org/quasiben pygame
+curl -O https://raw.githubusercontent.com/kschuler/helpers/master/kschuler-env.txt
 ```
+And use it to create a conda environment for my experiments
+```
+conda install --name kschuler --file kschuler-env.txt
+```
+
+This will install almost all the packages required by psychopy (and my experiments).  Answer yes to all the questions and press `enter` when required.  It will take a long time.
 
 ### Pyglet
-The last package to install is pyglet (used for presenting visual stimuli).  To make sure we get the right version, we want to create our conda environment first, and then install the package into it.
-Create a conda envirnoment called kschuler with pyschopy and pygame.
+The last package to install is pyglet (used for presenting visual stimuli).  To make sure we get the right version, we want to do this after we have created our conda environment for pyglet. Navigate into the environment you created above.
 ```bash
-conda create -n kschuler psychopy pygame
+source activate kschuler
 ```
-
-Then you can navigate into this environment with conda
-```bash
-source activate psychopyenv
-```
-
 and use pip to install pyglet
 ```bash
 pip install pyglet
