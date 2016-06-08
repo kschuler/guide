@@ -42,7 +42,7 @@ UNDER CONSTRUCTION
 
 **Snoopy**   
 Macbook Air | 2 GHz Intel Core i7 | 8 GB 1600 MHz DDR3 | 250 GB  
-Intel HD Graphics 4000 1024 MB | Serial number: C02JR2P4DRVG
+Intel HD Graphics 4000 1024 MB | Serial number: ??
 
 **Juice**   
 Macbook Air | 2 GHz Intel Core i7 | 8 GB 1600 MHz DDR3 | 250 GB  
@@ -72,15 +72,22 @@ Coming soon...
 ##### Recording equipment
 Coming soon...
 ## Software
-### Required
+This is a complete list of software that I have installed on my computer and server.  In the case of my computer, this software is what I have installed on top of whatever the University installed (e.g. Microsoft Office).
 
-- Audacity
-- Dropbox
-- Inkscape
-- Ulysses
-- Gitbooks
-- Atom
-- Dayone
-- BibDesk
+### On my computer
+##### Dropbox
+##### iTerm2
+##### Atom
+##### GitBook Editor
+##### Miniconda
+##### PsychoPy
+##### Ulysses
+##### BibDesk
+##### Audacity
+##### 
 
-### Optional
+### On my server
+##### LEMP stack
+##### Miniconda
+##### psiTurk
+
