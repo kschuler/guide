@@ -13,28 +13,28 @@ This is a list of the computers that are involved in my experiments in some way.
 *via Digital Ocean*
 
 ### My personal laptops
-**kathrynschuler (current)**
+##### kathrynschuler (current)
 Macbook Air (early 2015)| 2.2 GHz Intel Core i7 | 8 GB 1600 MHz DDR3  | 500 GB  
 Intel HD Graphics 6000 1536 MB | Serial number: C1MRR58JH3QK 
 
-**kathrynschuler (old)**   
+##### kathrynschuler (old)
 Macbook Air (mid 2011)| 2 GHz Intel Core i7 | 8 GB 1600 MHz DDR3  | 250 GB  
 Intel HD Graphics 4000 1024 MB | Serial number: C02JR2P4DRVG  
 
 ### Building D Room 145-D
-**Mac Mini (Touch screen lives here)**   
+##### Mac Mini (touch screen lives here) 
 Mac mini (mid 2011)| 2.5 GHz Intel Core i5 | 8 GB 1333 MHz DDR3 | 500 GB  
 AMD Radeon HD 6630M 256 MB | Serial number: C07JD0J9DJD3  
 
-**RED 500**   (eye tracker lives here)
+##### RED 500   (eye tracker lives here)
 Dell Latitude E6530 | 3 GHz Intel Core i7 | 4 GB RAM | 300 GB  
 NVIDIA NVS 5200M | Serial number: BYSQNX1
 
-**Dell Precision**   
+##### Dell Precision 
 Dell Precision T7610 | 2 x 2.60 GHz Intel Xeon | 16 GB RAM | 1 TB  
 NVIDIA Quadro K4000| Serial number: 47JDX12
 
-### Traveling computers (Bldg D locked cabinet)
+### Traveling computers
 
 The traveling computers run experiments at schools, camps, and daycares). There are four Macbook Airs, one Microsoft surface and one Elo touchscreen tablet.  The Airs are typically used to run my language experiments.  The surface and the Elo touchscreen to run the kid (or patient) SRT experiments.
 
@@ -46,16 +46,16 @@ Intel HD Graphics 4000 1024 MB | Serial number: C02JR2P4DRVG
 
 **Juice**   
 Macbook Air | 2 GHz Intel Core i7 | 8 GB 1600 MHz DDR3 | 250 GB  
-Intel HD Graphics 4000 1024 MB | Serial number: C02JR2P4DRVG
+Intel HD Graphics 4000 1024 MB | Serial number: ??
 
 **Puppies**   
 Macbook Air | 2 GHz Intel Core i7 | 8 GB 1600 MHz DDR3 | 250 GB  
-Intel HD Graphics 4000 1024 MB | Serial number: C02JR2P4DRVG
+Intel HD Graphics 4000 1024 MB | Serial number: ??
 
 **Pooh**   
 
 Macbook Air | 2 GHz Intel Core i7 | 8 GB 1600 MHz DDR3 | 250 GB  
-Intel HD Graphics 4000 1024 MB | Serial number: C02JR2P4DRVG
+Intel HD Graphics 4000 1024 MB | Serial number: ??
 ## Other hardware
 UNDER CONSTRUCTION
 
