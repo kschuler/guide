@@ -5,9 +5,9 @@ This is a guide to running my experiments, along with some helpful resources for
 
 ## Start here
 - [To-do list for research assistants](https://www.dropbox.com/s/0evmj4j9qq3ea7o/RA%20Task%20LIst.xlsx)
-- [Research summer 2016 lab notebook](https://mammothhq.com/boards/156861) 
+- [Research summer 2016 lab notebook](https://mammothhq.com/b/156861/emtezw/44027) 
 - [Conditioned variation lab notebook - Madi](https://mammothhq.com/boards/156831-conditioned-variation)
-- [Empirical yang lab notebook - Jessie](https://mammothhq.com/boards/156832-empirical-yang)
+- [Empirical yang lab notebook - Jessie](https://mammothhq.com/b/156832/afkbpa/44027)
 
 ## Current experiments
 
