@@ -108,7 +108,7 @@ and use pip to install pyglet
 pip install pyglet
 ```
 
-You should be all set to [run my experiments](../current/how-to-run.md) on your computer. To see the complete list of added software that I install on my personal computer, go to my [software list](hardware-and-software.md#software).
+You should be all set to [run my experiments](../current/how-to-run.md) on your computer. If you would like to analyze data on the computer you are setting up, go to [analyzing data](analyzing-data.md) guide for necessary software. To see the complete list of added software that I install on my personal computer, go to my [software list](hardware-and-software.md#software). 
 
 
 [1]:	http://www.audacityteam.org/download/mac/
