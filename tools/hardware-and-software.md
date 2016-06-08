@@ -12,8 +12,12 @@ This is a list of the computers that are involved in my experiments in some way.
 512 MB Memory / 20 GB Disk / NYC3 / Ubuntu 14.04   
 *via Digital Ocean*
 
-### My personal laptop
-**kathrynschuler (primary)**   
+### My personal laptops
+**kathrynschuler (current)**
+Macbook Air (early 2015)| 2.2 GHz Intel Core i7 | 8 GB 1600 MHz DDR3  | 500 GB  
+Intel HD Graphics 6000 1536 MB | Serial number: C1MRR58JH3QK 
+
+**kathrynschuler (old)**   
 Macbook Air (mid 2011)| 2 GHz Intel Core i7 | 8 GB 1600 MHz DDR3  | 250 GB  
 Intel HD Graphics 4000 1024 MB | Serial number: C02JR2P4DRVG  
 
