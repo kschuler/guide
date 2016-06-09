@@ -54,9 +54,9 @@ See [the guidelines](../guidelines/making-stimuli.md) for how to make stimuli fo
 	* **[Vecteezy][18]**: free vector graphics, searchable by category
 	* [**Glitch the game**][19]: art from a game that was released for public use.
 	* [**Open Game Art**][20]: a very large collection of open source game art  
-	* [**Cog-sci stimuli sets**][21]: a nice list of standardized stimuli others have used (by Sebastian Mathôt)  
+	* [**Cog-sci stimuli sets**][21]: a nice list of standardized stimuli others have used (by Sebastian Mathôt) 
+	*  [**More Cog-sci stimuli sets**](http://wiki.cnbc.cmu.edu/Novel_Objects) 
 *  **editing images**
-*  [**More Cog-sci stimuli sets**](http://wiki.cnbc.cmu.edu/Novel_Objects)
 	* **[Inkscape][22]**: a free, open-source version of Adobe Illustrator.  [Inkscape tutorials][23]
 	* **[Gimp][24]**: an free, open-source version of Photoshop. [Gimp tutorials][25]
 
