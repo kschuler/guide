@@ -56,6 +56,7 @@ See [the guidelines](../guidelines/making-stimuli.md) for how to make stimuli fo
 	* [**Open Game Art**][20]: a very large collection of open source game art  
 	* [**Cog-sci stimuli sets**][21]: a nice list of standardized stimuli others have used (by Sebastian Mathôt)  
 *  **editing images**
+*  [**More Cog-sci stimuli sets**](http://wiki.cnbc.cmu.edu/Novel_Objects)
 	* **[Inkscape][22]**: a free, open-source version of Adobe Illustrator.  [Inkscape tutorials][23]
 	* **[Gimp][24]**: an free, open-source version of Photoshop. [Gimp tutorials][25]
 
