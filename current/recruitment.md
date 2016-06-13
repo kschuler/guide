@@ -48,7 +48,7 @@ All current experiments are below.  If the experiment you are running is not lis
 - **Study info:**
 	- This study investigates how people learn languages.
 	- Computer game that involves learning an alien language.
-	- The experiment last about 15-20 minutes each day for 2 days.
+	- The experiment last about 15-20 minutes each day for 1 days.
 
 ### 0035-babysaffran-srt-patient
 
