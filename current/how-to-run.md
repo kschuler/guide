@@ -12,17 +12,17 @@ The preferred method for running most experiments is to use the psychopy package
 But see these instructions for running 0035 (Mackenzie)
 - [0035-babysaffran-srt-patient](#0035-babysaffran-srt-patient)
 
-#### Follow these steps
+### Follow these steps
 In general, follow these steps when running an experiment:
-###### Before the subject arrives:
+##### Before the subject arrives:
 1. Get subject and condition information from subject tracking sheet.
 2. Setup the experiment with [Atom](https://atom.io/packages/psychopy). (video instructions below)
 
-###### While you are running the subject:
+##### While you are running the subject:
 3. Read all instructions to participant and offer a sticker at all breaks
 4. Make sure you record participant responses on the written data sheet
 
-###### After the subject leaves:
+##### After the subject leaves:
 5. Copy participant to raw-data folder and update subject-tracking sheet
 
 [![Running experiments with atom](http://img.youtube.com/vi/tSyBMPg3bsQ/0.jpg)](https://www.youtube.com/watch?v=tSyBMPg3bsQ)
