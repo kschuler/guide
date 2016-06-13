@@ -35,8 +35,8 @@ All current experiments are below.  If the experiment you are running is not lis
 	- Computer game that involves learning an alien language.
 	- The experiment last about 15-20 minutes.
 
-### 0400-condvar-exp1-pureincon
-###### This is a 2 day study!  Must be available for 2 study days, with not more than 2 days between study days (e.g. Day 1 on Friday and Day 2 on Monday is OK).
+### 0400-condvar-exp1-purevcond
+
 - **Who is running:**
 	- Madison, Katie
 - **Inclusion criteria:**
@@ -49,7 +49,6 @@ All current experiments are below.  If the experiment you are running is not lis
 	- This study investigates how people learn languages.
 	- Computer game that involves learning an alien language.
 	- The experiment last about 15-20 minutes each day for 2 days.
-
 
 ### 0035-babysaffran-srt-patient
 
