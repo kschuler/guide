@@ -13,9 +13,9 @@ But see these instructions for running 0035 (Mackenzie)
 - [0035-babysaffran-srt-patient](#0035-babysaffran-srt-patient)
 
 ### Follow these steps
-In general, follow these steps when running an experiment.  These steps are auxillary to the lab's subject running checklists.
-- subject running checklist for kids
-- subject running checklist for adults
+In general, follow these steps when running an experiment.  These steps are auxillary to the lab's subject running checklists linked here.
+- [subject running checklist for kids](https://www.dropbox.com/s/j8w62vo4umn8yrr/LDL%20Checklist%20-%20Running%20Kids.docx?dl=0)
+- [subject running checklist for adults](https://www.dropbox.com/s/lokr1wa93d069h8/LDL%20Checklist%20-%20Running%20Adults.docx?dl=0)
 
 ##### Before the subject arrives:
 1. Get subject and condition information from subject tracking sheet.
