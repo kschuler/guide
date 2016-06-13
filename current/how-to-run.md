@@ -13,7 +13,10 @@ But see these instructions for running 0035 (Mackenzie)
 - [0035-babysaffran-srt-patient](#0035-babysaffran-srt-patient)
 
 ### Follow these steps
-In general, follow these steps when running an experiment:
+In general, follow these steps when running an experiment.  These steps are auxillary to the lab's subject running checklists.
+- subject running checklist for kids
+- subject running checklist for adults
+
 ##### Before the subject arrives:
 1. Get subject and condition information from subject tracking sheet.
 2. Setup the experiment with [Atom](https://atom.io/packages/psychopy). (video instructions below)
