@@ -5,8 +5,8 @@ I analyze my data with an R kernel in [Jupyter notebooks](http://jupyter-noteboo
 
 - [Setup Jupyter notebook](#setup-jupyter-notebook)
 - [Opening the Jupyter notebook](#opening-the-jupyter-notebook)
-- My favorite R packages
-- Data Day resources! (for Research Assistants)
+- [My favorite R packages](#my-favorite-r-packages)
+- [Data Day resources! (for Research Assistants)](#data-day-resources)
 
 ## Setup Jupyter notebook
 
