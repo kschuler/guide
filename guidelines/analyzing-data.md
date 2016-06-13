@@ -65,4 +65,8 @@ A browser will open with the jupyter notebook. You can click on any of the `.ipy
 
 ![jupyter browser](../static/images/jupyter-browser.png)
 
+## My favorite R packages
+## Data Day resources
+> For research assistants
 
+- [Data Day 1](https://www.dropbox.com/s/jr6r96h2e1jl8d5/data-day-number-1.html?dl=0) 
