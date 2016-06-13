@@ -7,34 +7,22 @@ Instructions to run all current experiments are below.  If the experiment you ar
 - [0035-babysaffran-srt-patient](#0035-babysaffran-srt-patient)
 
 ## For most experiments
-The preferred method for running most experiments is to use the psychopy package from within atom.  Each of the experiments listed below can be run in this way.
-###### 0104-inconinput-1day-pluralmorph-6733-training
-###### 0164-empiricalyang-9noun-mfrule-tophalf-child
-###### 0400-condvar-exp1-purevcond
+The preferred method for running most experiments is to use the psychopy package from within atom.  The following experiments can be run using this method.
+#### 0104-inconinput-1day-pluralmorph-6733-training
+#### 0164-empiricalyang-9noun-mfrule-tophalf-child
+#### 0400-condvar-exp1-purevcond
 
-##### Before running
-- Open the [0104 subject tracking sheet](https://www.dropbox.com/s/jdwwu7qh79skru6/0104-inconinput-1day-pluralmorph-6733-training-track.xlsx?dl=0)
-  - fill in participant information
-  - get subject id number (SID) and condition
-- Setup the experiment
-  - In terminal, navigate to the experiment `cd ~/Dropbox/Kschuler-current/experiments/0104-inconinput-1day-pluralmorph-6733-training-exp`
-  - Enter my conda environment with `source activate kschuler`
-- Start the experiment
-  - Type `pythonw run-exp.py`
-  - Enter requested information 
+In general, follow these steps when running an experiment:
+###### Before the subject arrives:
+1. Get subject and condition information from subject tracking sheet.
+2. Setup the experiment with [Atom](https://atom.io/packages/psychopy). (video instructions below)
 
-##### During running
-- Read all on-screen instructions to participant
-- Offer a sticker at each break
-- Record responses on 0104 data sheet
+###### While you are running the subject:
+3. Read all instructions to participant and offer a sticker at all breaks
+4. Make sure you record participant responses on the written data sheet
 
-##### After running
-- Exit my conda environment with `source deactivate`
-- Copy participant data to [0104 raw-data folder](https://www.dropbox.com/sh/tcji2vfs64bp5pg/AAAHdrlhoIuujxG1aYWrq3c5a?dl=0)
-- Fill in final columns of [0104 subject tracking sheet](https://www.dropbox.com/s/jdwwu7qh79skru6/0104-inconinput-1day-pluralmorph-6733-training-track.xlsx?dl=0)
-
-
-
+###### After the subject leaves:
+5. Copy participant to raw-data folder and update subject-tracking sheet
 
 ### 0035-babysaffran-srt-patient
 ##### Before running
