@@ -66,6 +66,9 @@ A browser will open with the jupyter notebook. You can click on any of the `.ipy
 ![jupyter browser](../static/images/jupyter-browser.png)
 
 ## My favorite R packages
+- `%>%`
+- `dplyr`
+- `ggplot2`
 ## Data Day resources
 > For research assistants
 
