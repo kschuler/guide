@@ -69,7 +69,8 @@ A browser will open with the jupyter notebook. You can click on any of the `.ipy
 - `%>%`
 - `dplyr`
 - `ggplot2`
+
 ## Data Day resources
-> For research assistants
+###### For research assistants
 
 - [Data Day 1](https://www.dropbox.com/s/jr6r96h2e1jl8d5/data-day-number-1.html?dl=0) 
