@@ -33,7 +33,7 @@ All current experiments are below.  If the experiment you are running is not lis
 - **Study info:**
 	- This study investigates how people learn languages.
 	- Computer game that involves learning an alien language.
-	- The experiment last about 15-20 minutes.
+	- The experiment last about 15-20 minutes (1 day).
 
 ### 0400-condvar-exp1-purevcond
 
@@ -48,7 +48,7 @@ All current experiments are below.  If the experiment you are running is not lis
 - **Study info:**
 	- This study investigates how people learn languages.
 	- Computer game that involves learning an alien language.
-	- The experiment last about 15-20 minutes each day for 1 days.
+	- The experiment last about 15-20 minutes (1 day).
 
 ### 0035-babysaffran-srt-patient
 
