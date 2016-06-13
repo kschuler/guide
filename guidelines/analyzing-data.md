@@ -73,4 +73,4 @@ A browser will open with the jupyter notebook. You can click on any of the `.ipy
 ## Data Day resources
 ###### For research assistants
 
-- [Data Day 1](https://www.dropbox.com/s/jr6r96h2e1jl8d5/data-day-number-1.html?dl=0) 
+- [Data Day 1](../static/html/data-day-number1.html)
