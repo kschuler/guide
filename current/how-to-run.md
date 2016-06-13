@@ -1,16 +1,16 @@
 # How to run current experiments
 Instructions to run all current experiments are below.  If the experiment you are running is not listed please [email me](mailto:kathryn.schuler@gmail.com) and remind me to update it.
 
-- [0104-inconinput-1day-pluralmorph-6733-training](#0104-inconinput-1day-pluralmorph-6733-training)
-- [0164-empiricalyang-9noun-mfrule-tophalf-child](#0164-empiricalyang-9noun-mfrule-tophalf-child)
-- [0400-condvar-exp1-purevcond](#0400-condvar-exp1-purevcond)
-- [0035-babysaffran-srt-patient](#0035-babysaffran-srt-patient)
+
 
 ## For most experiments
 The preferred method for running most experiments is to use the psychopy package from within atom.  The following experiments can be run using this method.
-#### 0104-inconinput-1day-pluralmorph-6733-training
-#### 0164-empiricalyang-9noun-mfrule-tophalf-child
-#### 0400-condvar-exp1-purevcond
+- [0104-inconinput-1day-pluralmorph-6733-training](#0104-inconinput-1day-pluralmorph-6733-training)
+- [0164-empiricalyang-9noun-mfrule-tophalf-child](https://www.dropbox.com/sh/8es4zzff09f245q/AADTMm_qAixYBfUHes61yTraa?dl=0)
+- [0400-condvar-exp1-purevcond](#0400-condvar-exp1-purevcond)
+
+But see these instructions for running 0035 (Mackenzie)
+- [0035-babysaffran-srt-patient](#0035-babysaffran-srt-patient)
 
 In general, follow these steps when running an experiment:
 ###### Before the subject arrives:
