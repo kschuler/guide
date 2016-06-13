@@ -4,7 +4,7 @@ Instructions to run all current experiments are below.  If the experiment you ar
 
 
 ## For most experiments
-The preferred method for running most experiments is to use the psychopy package from within atom.  The following experiments can be run using this method.
+The preferred method for running most experiments is to use the psychopy package from within [Atom](https://atom.io/packages/psychopy).  The following experiments can be run using this method.
 - [0104-inconinput-1day-pluralmorph-6733-training](https://www.dropbox.com/sh/shsocn1wmsurzc7/AAAkqM7ausOZJVn4b7C4iBaZa?dl=0)
 - [0164-empiricalyang-9noun-mfrule-tophalf-child](https://www.dropbox.com/sh/8es4zzff09f245q/AADTMm_qAixYBfUHes61yTraa?dl=0)
 - [0400-condvar-exp1-purevcond](https://www.dropbox.com/sh/8jlpkr4chowqjj8/AAB8wzYZvBg-eIOjVIYEaBiNa?dl=0)
@@ -19,7 +19,7 @@ In general, follow these steps when running an experiment.  These steps are auxi
 
 ##### Before the subject arrives:
 1. Get subject and condition information from subject tracking sheet.
-2. Setup the experiment with [Atom](https://atom.io/packages/psychopy). ([video instructions below](#how-to-setup-the-experiment-with-Atom))
+2. Setup the experiment with [Atom](https://atom.io/packages/psychopy). ([video instructions below](#how-to-setup-the-experiment-with-atom))
 
 ##### While you are running the subject:
 3. Read all instructions to participant and offer a sticker at all breaks
