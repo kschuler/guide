@@ -12,6 +12,7 @@ The preferred method for running most experiments is to use the psychopy package
 But see these instructions for running 0035 (Mackenzie)
 - [0035-babysaffran-srt-patient](#0035-babysaffran-srt-patient)
 
+#### Follow these steps
 In general, follow these steps when running an experiment:
 ###### Before the subject arrives:
 1. Get subject and condition information from subject tracking sheet.
