@@ -24,7 +24,7 @@ In general, follow these steps when running an experiment:
 ###### After the subject leaves:
 5. Copy participant to raw-data folder and update subject-tracking sheet
 
-
+[![Running experiments with atom](http://img.youtube.com/vi/v=tSyBMPg3bsQ/0.jpg)](https://www.youtube.com/watch?v=tSyBMPg3bsQ)
 
 ---
 
