@@ -38,7 +38,7 @@ To exit the environment, type
 source deactivate
 ```
 
-## Analyzing data with Jupyter
+## Opening the Jupyter notebook
 
 To analyze data with Jupyter, you **must** activate the jupyter conda environment you created.
 
