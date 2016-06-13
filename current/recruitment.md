@@ -50,16 +50,7 @@ All current experiments are below.  If the experiment you are running is not lis
 	- Computer game that involves learning an alien language.
 	- The experiment last about 15-20 minutes each day for 2 days.
 
-### 0302-hierarchical-srt-thompsonnewport-nocue
-- **Who is running:**
-	- Jessie, Madison, Katie
-- **Inclusion criteria:**
-	- Age range: 18-26 years
-	- Native English speakers (bilingual is fine)
-	- Normal to corrected-to-normal hearing and vision
-- **Study info:**
-	- Participants play whack-a-mole on a touch screen.
-	- The experiment lasts about 30 minutes.
+
 
 ### 0035-babysaffran-srt-patient
 
