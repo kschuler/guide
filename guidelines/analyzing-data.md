@@ -73,6 +73,6 @@ A browser will open with the jupyter notebook. You can click on any of the `.ipy
 ## Data Day resources
 For research assistants attending the summer data analysis meeting (Mondays at 10:30!)
 
-#### Data Day 1
+#### Data Day 1 - June 13, 2016
   - [Intro to jupyter and style guidelines](https://www.dropbox.com/s/jr6r96h2e1jl8d5/data-day-number-1.html?dl=0)
   - [Production & rating experiment template](https://www.dropbox.com/s/1ghgbl62t2hnm0p/0104-inconinput-1day-pluralmorph-6733-training-summary.html?dl=0)
