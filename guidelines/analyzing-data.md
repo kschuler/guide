@@ -3,6 +3,11 @@
 
 I analyze my data with an R kernel in [Jupyter notebooks](http://jupyter-notebook-beginner-guide.readthedocs.io/en/latest/what_is_jupyter.html).  A Jupyter notebooks is a document that contains executable code along with text and figures. [Here](https://www.dropbox.com/home/Research/summaries?preview=0010-srt-pilot.html) is an example of one of my analysis notebooks.
 
+- [Setup Jupyter notebook](#setup-jupyter-notebook)
+- [Opening the Jupyter notebook](#opening-the-jupyter-notebook)
+- My favorite R packages
+- Data Day resources! (for Research Assistants)
+
 ## Setup Jupyter notebook
 
 Before you can analyze data, you must install the jupyter notebook. You can do this with `conda`. The computer you are using should already be setup with miniconda. You can check whether the computer has miniconda by going to the terminal and typing the following:
@@ -52,7 +57,7 @@ And then open the jupyter notebook.
 ```
 jupyter notebook
 ```
-The notebook should be available at http://localhost:8889/ (or some other port number).
+The notebook should be available at http://localhost:8888/ (or some other port number).
 
 ![jupyter notebook](../static/images/jupyter-notebook.png)
 
