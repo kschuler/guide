@@ -71,7 +71,7 @@ A browser will open with the jupyter notebook. You can click on any of the `.ipy
 - `ggplot2`
 
 ## Data Day resources
-###### For research assistants
+For research assistants attending the summer data analysis meeting (Mondays at 10:30!)
 
 #### Data Day 1
   - [Intro to jupyter and style guidelines](https://www.dropbox.com/s/jr6r96h2e1jl8d5/data-day-number-1.html?dl=0)
