@@ -100,4 +100,8 @@ Coming soon...
 
 ## Get psiTurk
 
-Coming soon...
+Once you have anaconda, use this to get psiturk.
+
+```
+conda install -c auto psiturk=1.0.3
+```
