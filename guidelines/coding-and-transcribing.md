@@ -13,6 +13,14 @@ For each participant, there are three important items that you need to have.
 2. The `WAV` files, found in a folder with the `raw-data`.
 3. The [data sheet](https://www.dropbox.com/s/26b0jsjogheey0a/0102-inconinput-1day-pluralmorph-6733-data-sheet.docx?dl=0), a hand-written sheet of paper from the experiment
 
+##### Make copies of the `production` and `rating` `raw-data`
+1. Make a copy of the participant's `production` file and put it int the `processed-data/production` folder. 
+2. Make a copy of the participant's `rating` file and put it in the `processed-data/rating` folder.
+
+Here is an example of what the processed data folder should look like.  This is the processed data folder for the `0104-inconinput-1day-pluralmorph-6733-training` experiment.
+
+![](../static/images/processed-data-folder.png)
+
 ##### Setup the `production` file 
 Open the participant's `production` data file in the `raw-data` folder for the experiment.
 
