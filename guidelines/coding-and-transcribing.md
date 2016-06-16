@@ -29,10 +29,10 @@ You will fill in each of these columns with the following for each trial:
 - `transcription`: what the participant actually said
 
 ###### Coding
-- `prod-verb`: did they produce the correct verb? (0 for no, 1 for yes)
-- `prod-noun`: did they produce the correct noun? (0 for no, 1 for yes)
-- `prod-det-actual`: what marker (determiner) did they produce? (write it exactly)
-- `prod-det-category`: what category does the marker belong to?
+- `corrVerb`: did they produce the correct verb? (0 for no, 1 for yes)
+- `corrNoun`: did they produce the correct noun? (0 for no, 1 for yes)
+- `actualDet`: what marker (determiner) did they produce? (write it exactly)
+- `categoryDet`: what category does the marker belong to?
   - for inconinput the options are `maj`, `min`, `other`, and `null`
   - for yang the options are `R`, `e`, `other`, and `null`
 - `notes`: write any notes you feel would help
