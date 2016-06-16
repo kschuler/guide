@@ -4,7 +4,6 @@ All current experiments are below.  If the experiment you are running is not lis
 - [0104-inconinput-1day-pluralmorph-6733-training](#0104-inconinput-1day-pluralmorph-6733-training)
 - [0164-empiricalyang-9noun-mfrule-tophalf-child](#0164-empiricalyang-9noun-mfrule-tophalf-child)
 - [0400-condvar-exp1-pureincon](#0400-condvar-exp1-pureincon)
-- [0302-hierarchical-srt-thompsonnewport-nocue](#0302-hierarchical-srt-thompsonnewport-nocue)
 - [0035-babysaffran-srt-patient](#0035-babysaffran-srt-patient)
 
 ### 0104-inconinput-1day-pluralmorph-6733-training
