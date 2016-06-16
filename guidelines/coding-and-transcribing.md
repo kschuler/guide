@@ -20,7 +20,7 @@ Open the participant's `production` data file in the `raw-data` folder for the e
 
 Add 6 columns: `transcription`, `prod-verb`, `prod-noun`, `prod-det-actual`, `prod-det-category`, and `notes`.
 
-![](https://www.dropbox.com/s/w4hweb3q18og2b8/Screenshot%202016-06-16%2009.18.27.png?dl=0)
+![](../static/images/transcribe-add.png)
 
 ##### Transcribe and code
 You will fill in each of these columns with the following for each trial:
