@@ -48,7 +48,7 @@ You will fill in each of these columns with the following for each trial:
 
 Here is an example with some of the trials filled in.
 
-![](../static/images/transcribe-filled-out.png)
+![](../static/images/transcribe-filled-in.png)
 
 ### FAQs
 
