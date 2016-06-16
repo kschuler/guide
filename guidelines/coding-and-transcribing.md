@@ -22,7 +22,7 @@ Here is an example of what the processed data folder should look like.  This is 
 ![](../static/images/processed-data-folder.png)
 
 ##### Setup the `production` file 
-Open the participant's `production` data file in the `raw-data` folder for the experiment.
+Open the COPY you just made of the `production` data file in the `processed-data` folder for the experiment.
 
 ![](../static/images/transcribe-start.png)
 
