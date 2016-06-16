@@ -18,7 +18,7 @@ Open the participant's `production` data file in the `raw-data` folder for the e
 
 ![](../static/images/transcribe-start.png)
 
-Add 6 columns: `transcription`, `prod-verb`, `prod-noun`, `prod-det-actual`, `prod-det-category`, and `notes`.
+Add 6 columns: `transcription`, `corrVerb`, `corrNoun`, `actualDet`, `categoryDet`, and `notes`.
 
 ![](../static/images/transcribe-add.png)
 
