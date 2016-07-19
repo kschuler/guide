@@ -4,6 +4,7 @@
   * [How to run](current/how-to-run.md)
 * GUIDELINES
   * [Making stimuli](guidelines/making-stimuli.md)
+  * [Running subjects](guidelines/running-subjects.md)
   * [Coding and transcribing data](guidelines/coding-and-transcribing.md)
   * [Analyzing data](guidelines/analyzing-data.md) 
 * TOOLS
