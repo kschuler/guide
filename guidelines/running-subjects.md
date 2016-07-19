@@ -1,13 +1,23 @@
-# Running experiments
+# Running subjects
 
-## Kids in the lab
-When bringing kids to the lab
+- Running kids
+- Running adults
+- Running on mechanical turk
+- Running patients
 
-## Kids at school or camp
-## Adults in the lab
+## Running kids
 
-## Adults on mechanical turk
-I run all adults on mechanical turk myself.  Instructions for how I do that are coming soon...
+1. Building rapport
+2. Giving instructions
+3. Giving praise and feedback
+
+
+
+## Running adults
+
+## Running on mechanical turk
 
 ## Patients
 For my studies, we do not run patients ourselves.  Mackenzie Fama runs patients for us because she is qualified to do so.  
+
+
