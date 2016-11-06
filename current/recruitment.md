@@ -27,6 +27,7 @@ All current experiments are below.  If the experiment you are running is not lis
   * Normal to correct-to-normal hearing and vision
 
 
+
 * **Study info:**
 
   * This study investigates how people learn languages.
@@ -38,7 +39,7 @@ All current experiments are below.  If the experiment you are running is not lis
 
 * **Who is running:**
 
-  * Jessie, Madi
+  * All research assistants are trained on this experiment
 
 * **Inclusion criteria:**
 
@@ -50,6 +51,7 @@ All current experiments are below.  If the experiment you are running is not lis
   * Native English speakers \(bilingual is fine\)
 
   * Normal to corrected-to-normal hearing and vision
+
 
 
 * **Study info:**
@@ -77,6 +79,7 @@ All current experiments are below.  If the experiment you are running is not lis
   * Normal to corrected-to-normal hearing and vision
 
 
+
 * **Study info:**
 
   * This study investigates how people learn languages.
@@ -100,6 +103,7 @@ All current experiments are below.  If the experiment you are running is not lis
   * Native English speakers \(bilingual is fine\)
 
   * Normal to corrected-to-normal hearing and vision
+
 
 
 * **Study info:**
