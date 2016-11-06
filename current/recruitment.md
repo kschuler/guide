@@ -2,7 +2,7 @@
 
 All current experiments are below.  If the experiment you are running is not listed please [email me](mailto:kathryn.schuler@gmail.com) and remind me to update it.
 
-* \[0500-inconinput-empiricalyang-33scatter\]\(\#0500-inconinput-empiricalyang-33scatter\)
+* [0500-inconinput-empiricalyang-33scatter](#0500-inconinput-empiricalyang-33scatter)
 * [0104-inconinput-1day-pluralmorph-6733-training](#0104-inconinput-1day-pluralmorph-6733-training)
 * [0164-empiricalyang-9noun-mfrule-tophalf-child](#0164-empiricalyang-9noun-mfrule-tophalf-child)
 * [0400-condvar-exp1-pureincon](#0400-condvar-exp1-pureincon)
@@ -25,6 +25,7 @@ All current experiments are below.  If the experiment you are running is not lis
   * Native English speakers \(billingual is fine\)
 
   * Normal to correct-to-normal hearing and vision
+
 
 * **Study info:**
 
@@ -50,6 +51,7 @@ All current experiments are below.  If the experiment you are running is not lis
 
   * Normal to corrected-to-normal hearing and vision
 
+
 * **Study info:**
 
   * This study investigates how people learn languages.
@@ -74,6 +76,7 @@ All current experiments are below.  If the experiment you are running is not lis
 
   * Normal to corrected-to-normal hearing and vision
 
+
 * **Study info:**
 
   * This study investigates how people learn languages.
@@ -97,6 +100,7 @@ All current experiments are below.  If the experiment you are running is not lis
   * Native English speakers \(bilingual is fine\)
 
   * Normal to corrected-to-normal hearing and vision
+
 
 * **Study info:**
 
