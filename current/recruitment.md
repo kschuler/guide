@@ -7,35 +7,6 @@ All current experiments are below.  If the experiment you are running is not lis
 * [0164-empiricalyang-9noun-mfrule-tophalf-child](#0164-empiricalyang-9noun-mfrule-tophalf-child)
 * [0035-babysaffran-srt-patient](#0035-babysaffran-srt-patient)
 
-
-
-### 0-inconinput-empiricalyang-33scatter:
-
-* **Who is running:**
-
-  * Rebecca, Jaclyn, Katie
-
-
-* **Inclusion criteria:**
-
-  * Age range:
-
-    * Children \(young\): 5.0 - 6.99 years
-    * Adults: 18 - 26 years
-
-  * Native English speakers \(billingual is fine\)
-
-  * Normal to correct-to-normal hearing and vision
-
-
-
-* **Study info:**
-
-  * This study investigates how people learn languages.
-  * Computer game that involves learning an alien language.
-  * The experiment last about 25-30 minutes.
-
-
 ### 0500-inconinput-empiricalyang-33scatter:
 
 * **Who is running:**
