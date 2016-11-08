@@ -7,9 +7,12 @@
 
 ## Running kids
 
-1. Building rapport
-2. Giving instructions
-3. Giving praise and feedback
+1. ### Building rapport
+
+2. ### Giving instructions
+
+3. ### Giving praise and feedback
+
 
 ## Running adults
 
