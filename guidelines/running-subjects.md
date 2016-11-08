@@ -1,9 +1,9 @@
 # Running subjects
 
-- Running kids
-- Running adults
-- Running on mechanical turk
-- Running patients
+* [Running kids](#running-kids)
+* Running adults
+* Running on mechanical turk
+* Running patients
 
 ## Running kids
 
@@ -11,13 +11,11 @@
 2. Giving instructions
 3. Giving praise and feedback
 
-
-
 ## Running adults
 
 ## Running on mechanical turk
 
 ## Patients
-For my studies, we do not run patients ourselves.  Mackenzie Fama runs patients for us because she is qualified to do so.  
 
+For my studies, we do not run patients ourselves.  Mackenzie Fama runs patients for us because she is qualified to do so. She is a good person to ask about best practices for running patients.  Heidi Getz also has experience running patient studies.
 
