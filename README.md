@@ -43,5 +43,5 @@ This section provides common commands for each the tools I use most often: git, 
 This section contains archival information on previous ways we have done things or experiments that we are no longer running.
 
 * [Old way of analyzing data - iPython](archives/analyzing-data-archive-2012-2016.md)
-* [Recruiting details for archived experiments](archives/recruitment-archive.md)
+* [Recruiting procedures for archived experiments](archives/recruitment-archive.md)
 
