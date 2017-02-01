@@ -11,12 +11,13 @@ This section describes how to recruit and run subjects in my current experiments
 
 ## Guidelines
 
-This section provides guidelines for how I create my experiments, from design to analysis.
+This section provides guidelines for how I create, design, analyze, and document my experiments.
 
 * [Making stimuli](guidelines/making-stimuli.md)
 * [Running subjects](guidelines/running-subjects.md)
 * [Coding and transcribing data](guidelines/coding-and-transcribing.md)
 * [Analyzing data](guidelines/analyzing-data.md)
+* [Experiment documentation](guidelines/documentation.md)
 
 ## Tools
 
