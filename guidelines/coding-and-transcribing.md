@@ -74,8 +74,7 @@ You will fill in each of these columns with the following for each trial:
 - **0167-empiricalyang-9noun-hfrule-adults-fastproduction**
   - `finished.verb`: did the participant finish saying the verb before the beep? (0 for no, 1 for yes)
   - `finished.noun`: did the participant finish saying the noun before the beep? (0 for no, 1 for yes)
-
-  - `finished.det`: did the participant finish saying the determiner before the beep? (0 for no, 1 for yes)
+  - `finished.det`: did the participant finish saying the determiner before the beep?(0 for no, 1 for yes)
 
 
 
