@@ -24,6 +24,7 @@ In general, follow these steps when running an experiment.  These steps are auxi
 
 ##### After the subject leaves:
 5. Copy participant to raw-data folder and update subject-tracking sheet
+6. Scan any physical data sheets and include them in the raw-data folder 
 
 ##### How to setup the experiment with Atom
 
