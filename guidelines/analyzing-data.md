@@ -7,11 +7,17 @@ I analyze my data in an [R markdown notebook]() [Jupyter notebooks](http://jupyt
 ## Getting started
 
 - Read 10 simple rules
+
+If you are absolutely new to the idea of R and/or markdown, start here:
+
 - Do the markdown course
 - Do the basic R tutorial
 
+If you know the basics but want to learn some intermediate analysis stuff:
+
 - For more advanced stuff learn dplyr and ggplot on Datacamp (ask Katie for lab login)
 
+Finally when you are ready to get started:
 - Install R Studio
 
 ## Analysis notebook conventions
