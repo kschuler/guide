@@ -9,6 +9,7 @@
     * [Running subjects](guidelines/running-subjects.md)
     * [Coding and transcribing data](guidelines/coding-and-transcribing.md)
     * [Analyzing data](guidelines/analyzing-data.md)
+    * [Experiment documentation](guidelines/documentation.md)
 * TOOLS
     * [Hardware & software](tools/hardware-and-software.md)
     * [Setting up a computer](tools/computer-setup.md)
