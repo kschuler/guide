@@ -23,7 +23,8 @@ Information for archived experiments can be found [here]().
   * This study investigates how people learn languages.
   * Computer game that involves learning an alien language.
   * The experiment last about 15-20 minutes \(1 day\).
-  * Note that pay is $10.00 with up to $5.00 addition in bonus pay.
+* **Notes**
+  * Pay is $10.00 with up to $5.00 more in bonus pay.
 
 
 
