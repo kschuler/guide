@@ -27,7 +27,7 @@ In general, follow these steps when running an experiment.  These steps are auxi
 
 ##### How to setup the experiment with Atom
 
-[![Running experiments with atom](http://img.youtube.com/vi/tSyBMPg3bsQ/0.jpg)](https://www.youtube.com/watch?v=tSyBMPg3bsQ)
+[![Running experiments with atom (silent video demo)](http://img.youtube.com/vi/tSyBMPg3bsQ/0.jpg)](https://www.youtube.com/watch?v=tSyBMPg3bsQ)
 
 ---
 ## Special exceptions
