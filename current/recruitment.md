@@ -30,51 +30,29 @@ Information for archived experiments can be found [here]().
 ### 0500-inconinput-empiricalyang-33scatter:
 
 * **Who is running:**
-
   * Rebecca, Jaclyn, Katie
-
-
 * **Inclusion criteria:**
-
   * Age range:
-
     * Children \(young\): 5.0 - 6.99 years
     * Adults: 18 - 26 years
-
   * Native English speakers \(billingual is fine\)
-
   * Normal to correct-to-normal hearing and vision
-
-
-
 * **Study info:**
-
   * This study investigates how people learn languages.
   * Computer game that involves learning an alien language.
   * The experiment last about 25-30 minutes.
 
 
 ### 0104-inconinput-1day-pluralmorph-6733-training
-
 * **Who is running:**
-
   * All research assistants are trained on this experiment
-
 * **Inclusion criteria:**
-
   * Age range:
-
     * Children: 5.0 - 6.99 years
     * Adults: 18 - 26 years
-
   * Native English speakers \(bilingual is fine\)
-
   * Normal to corrected-to-normal hearing and vision
-
-
-
 * **Study info:**
-
   * This study investigates how people learn languages.
   * Computer game that involves learning an alien language.
   * The experiment last about 15-20 minutes.
@@ -83,48 +61,30 @@ Information for archived experiments can be found [here]().
 ### \[ON HOLD\] 0164-empiricalyang-9noun-mfrule-tophalf-child
 
 * **Who is running:**
-
   * Jessie, Katie
-
 * **Inclusion criteria:**
-
   * Age range:
-
     * Children: 5.0 - 6.99 years
     * Adults: 18 - 26 years
-
   * Native English speakers \(bilingual is fine\)
-
   * Normal to corrected-to-normal hearing and vision
-
-
-
 * **Study info:**
-
   * This study investigates how people learn languages.
   * Computer game that involves learning an alien language.
   * The experiment last about 15-20 minutes \(1 day\).
 
-
 ### 0035-babysaffran-srt-patient
 
 * **Who is running:**
-
   * Mackenzie
-
 * **Inclusion criteria:**
-
   * Age range: flexible \(~50+\)
   * Patients with aphasia
   * Participated in 0062 \(Saffran Lang\) preferred
-
 * **Study info:**
-
   * Participants play whack-a-mole on a touch screen.
   * The experiment lasts about 30 minutes.
-
 * **Notes:**
-
   * Mackenzie does the recruiting and running of these patients.  We do not have access to the patients information
 
 
