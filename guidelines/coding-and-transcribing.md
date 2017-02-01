@@ -30,11 +30,15 @@ This ensure that the raw data itself is never touched.  There is no need to make
 
 Open the COPY you just made of the `production` data file in the `processed-data` folder for the experiment.
 
-**Updated 2016-11-08**
+*Updated 2016-11-08*
 
 Add 10 columns: `transcription`, `corrVerb`, `corrNoun`, `actualDet`, `categoryDet`, `notes`, `exp.feedback`, `exp.prompt.verb`, `exp.prompt.noun`, and `exp.prompt.det`.
 
 ![](/assets/Screenshot 2016-11-08 13.06.02.png)
+
+##### Study specific additions
+- 0167-empiricalyang-9noun-hfrule-adults-fastproduction
+  
 
 ##### Transcribe and code
 
