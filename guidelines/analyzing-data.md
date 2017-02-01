@@ -7,4 +7,3 @@ I analyze my data in an [R markdown notebook]() [Jupyter notebooks](http://jupyt
 - [Setup Jupyter notebook](#setup-jupyter-notebook)
 - [Opening the Jupyter notebook](#opening-the-jupyter-notebook)
 - [My favorite R packages](#my-favorite-r-packages)
-- [Data Day resources! (for Research Assistants)](#data-day-resources)
