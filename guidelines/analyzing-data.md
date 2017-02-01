@@ -12,7 +12,7 @@ I analyze my data using an [R Notebook](http://rmarkdown.rstudio.com/). An R Not
 
 ## Getting started
 
-A good place to start to get yourself in the right mindset is reading this nice paper about how to do good data analysis. 
+A good place to start is reading this nice paper about how to do good things with your data and analyses. I follow this rules in my own research, and it is a nice way of understanding why we do things the way we do them.
 
 - [Read **Ten Simple Rules for Effective Statistical Practice**](https://www.dropbox.com/s/v1u7r3ul0e6ur2b/2016-ten-simple-rules-stats.pdf?dl=0)
 
@@ -31,6 +31,7 @@ If you already know the basics of R but want to learn some intermediate skills, 
 6. [Reporting with R Markdown](https://www.datacamp.com/courses/reporting-with-r-markdown)
 
 Finally, when you are ready to get started you can install R studio. (Lab computers should already have this installed, but you may need to updated to version 1.0 or higher to use R notebooks).
+
 - [Install R Studio](https://www.rstudio.com/products/rstudio/download/)
 
 ## Analysis notebook boilerplate and conventions
