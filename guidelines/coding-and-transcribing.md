@@ -69,6 +69,9 @@ You will fill in each of these columns with the following for each trial:
 * `exp.prompt.det` : did the experimenter prompt the participant for the determiner? \(0 for no, 1 for yes\)
   * for example: "do you want to add one of the endings you learned?"
 
+###### Study specific coding
+
+- 0167-empiricalyang-9noun-hfrule-adults-fastproduction
 
 Here is an example with some of the trials filled in.
 
