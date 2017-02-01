@@ -28,6 +28,9 @@ Finally when you are ready to get started:
 
 ## Analysis notebook conventions
 
+All analysis notebooks follow the same basic format.
+
+
 
 
 
