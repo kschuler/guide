@@ -15,12 +15,12 @@
 
 2. ### Giving instructions
 
-  * Memorize the instructions; try not to deviate from the instructions too much.  It is ok to interact with the child beyond the instructions, but make sure you make an effort to give each child very similiar overall instructions.
+  * Memorize the instructions; try not to deviate from the instructions too much.  It is ok to interact with the child beyond the instructions, but make sure you make an effort to give each child very similar overall instructions.
 
 3. ### Giving praise and feedback
 
   * Praise for trying is most important.  This makes children feel that they can do well because all we are asking them to do is try their best.  It also encourages them to continue to try their hardest, because that is the dimension we are praising them on.
-  * Feedback is very tricky in most studies.  It is impossible not to provide a child with feedback.  In these cases, it is fine to say "great job" or especially to emphasize trying.  But do attempt to keep your praise similiar for each child, for any type of response.  \(e.g. don't only praise them when they do one thing or another\)
+  * Feedback is very tricky in most studies.  It is impossible not to provide a child with feedback.  In these cases, it is fine to say "great job" or especially to emphasize trying.  But do attempt to keep your praise similar for each child, for any type of response.  \(e.g. don't only praise them when they do one thing or another\)
 
 4. ### Production test best practices
 
