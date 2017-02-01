@@ -38,3 +38,8 @@ This section provides common commands for each the tools I use most often: git, 
 * [pandas](cheat-sheets/pandas.md)
 * [bash](cheat-sheets/bash.md)
 
+## Archives
+
+* [Old way of analyzing data](archives/analyzing-data-archive-2012-2016.md)
+* [Recruiting details for archived experiments](archives/recruitment-archive.md)
+
