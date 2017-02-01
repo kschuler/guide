@@ -21,6 +21,8 @@ Finally when you are ready to get started:
 - Install R Studio
 
 ## Analysis notebook conventions
+
+
 ## Default exclusion criteria
 ## Default analysis strategies
 
