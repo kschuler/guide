@@ -17,7 +17,7 @@ Information for archived experiments can be found [here]().
   * Emily, Jaclyn, Katie
 * **Inclusion criteria:**
   * Age range:
-    * Children: 5 - 8 years
+    * Children: 5.0 - 6.99 years
     * Adults: 18 - 26 years
   * Native English speakers \(bilingual is fine\)
   * Normal to corrected-to-normal hearing and vision
