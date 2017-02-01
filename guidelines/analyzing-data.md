@@ -10,7 +10,7 @@ I analyze my data in an [R markdown notebook]() [Jupyter notebooks](http://jupyt
     - production data
     - rating data
     - reaction time data
-- [Guidelines for analysis]()
+- [Common analysis]()
     - production data
     - rating data
     - reaction time data
