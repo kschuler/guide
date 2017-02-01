@@ -1,7 +1,7 @@
 
 # Analyzing data (OLD METHOD)
 
-Note that this is the method used to analyze data from July 2012 through July 2016.  Updated data analysis procedures are found [here](guidelines/analyzing-data.md).
+Note that this is the method used to analyze data from July 2012 through July 2016.  Updated data analysis procedures are found [here](..guidelines/analyzing-data.md).
 
 I analyze my data with an R kernel in [Jupyter notebooks](http://jupyter-notebook-beginner-guide.readthedocs.io/en/latest/what_is_jupyter.html).  A Jupyter notebooks is a document that contains executable code along with text and figures. [Here](https://www.dropbox.com/home/Research/summaries?preview=0010-srt-pilot.html) is an example of one of my analysis notebooks.
 
