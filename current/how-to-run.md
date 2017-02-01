@@ -23,9 +23,11 @@ In general, follow these steps when running an experiment.  These steps are auxi
 
 ##### After the subject leaves:
 -  Copy participant to raw-data folder and update subject-tracking sheet
-- Export the Audacity recording as .wav and save in the raw-data folder as **STUDYID-SUBJECTID-audio.wav**
+- Export the Audacity recording as .wav and save in the raw-data folder as:
+  - **STUDYID-SUBJECTID-audio.wav**
   - e.g. subject with ID number S24 who participated in 0164:  0164-S24-audio.wav.
--  Scan any physical data sheets and save to raw-data folder as **STUDYID-SUBJECTID-data-sheet.pdf**
+-  Scan any physical data sheets and save to raw-data folder as:
+  - **STUDYID-SUBJECTID-data-sheet.pdf**
   - e.g. subject with ID number S24 who participated in 0164:  0164-S24-data-sheet.pdf
 
 ##### How to setup the experiment with Atom
