@@ -17,6 +17,7 @@ In general, follow these steps when running an experiment.  These steps are auxi
 ##### Before the subject arrives:
 - Get subject and condition information from subject tracking sheet.
 -  Setup the experiment with [Atom](https://atom.io/packages/psychopy). ([silent video demonstration below](#how-to-setup-the-experiment-with-atom))
+- Make sure you are ready to record the complete study with Audacity
 
 ##### While you are running the subject:
 - Read all instructions to participant and offer a sticker at all breaks
@@ -24,8 +25,10 @@ In general, follow these steps when running an experiment.  These steps are auxi
 
 ##### After the subject leaves:
 -  Copy participant to raw-data folder and update subject-tracking sheet
--  Scan any physical data sheets and include them in the raw-data folder as STUDYID-SUBJECTID-audio.wav
-  - So for an adult subject with ID number S24 who participated in 0164, you would save their sound file as:  0164-S24-audio.wav.
+- Export the Audacity recording as a .wav and save in the raw-data folder as **STUDYID-SUBJECTID-audio.wav**
+  - e.g. subject with ID number S24 who participated in 0164:  0164-S24-audio.wav.
+-  Scan any physical data sheets and save to raw-data folder as STUDYID-SUBJECTID-data-sheet.pdf
+  - e.g. subject with ID number S24 who participated in 0164:  0164-S24-data-sheet.pdf
 
 ##### How to setup the experiment with Atom
 
