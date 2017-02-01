@@ -7,7 +7,7 @@ I analyze my data in an [R markdown notebook]() [Jupyter notebooks](http://jupyt
 - [Getting started](#getting-started)
 - [Analysis notebook conventions](#analysis-notebook-conventions)
 - [Default data cleaning and exclusion criteria](#default-data-cleaning-and-exclusion-criteria)
-- [Default analysis strategies]()
+- [Default analysis strategies](#default-analysis-strategies)
 
 
 ## Getting started
