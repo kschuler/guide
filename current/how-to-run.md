@@ -6,7 +6,7 @@ Instructions to run all current experiments are below.  If the experiment you ar
 ## For most experiments
 The preferred method for running most experiments is to use the psychopy package from within [Atom](https://atom.io/packages/psychopy).  Unless otherwise specified, all lab experiments can be run using this method.
 
-But see these instructions for running 0035 (Mackenzie)
+The following studies require special methods (click to view these methods):
 - [0035-babysaffran-srt-patient](#0035-babysaffran-srt-patient)
 
 ### Follow these steps
