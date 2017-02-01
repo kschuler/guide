@@ -10,7 +10,7 @@ I analyze my data in an [R markdown notebook]() [Jupyter notebooks](http://jupyt
 - Do the markdown course
 - Do the basic R tutorial
 
-- For more advanced stuff learn dplyr and ggplot
+- For more advanced stuff learn dplyr and ggplot on Datacamp (ask Katie for lab login)
 
 - Install R Studio
 
