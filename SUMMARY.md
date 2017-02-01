@@ -22,7 +22,7 @@
   * [anaconda](cheat-sheets/anaconda.md)
   * [bash](cheat-sheets/bash.md)
 * ARCHIVE
-  *  [Old way of analyzing data](archives/analyzing-data-archive-2012-2016.md)
-  *  [Recruiting details for archived experiments](archives/recruitment-archive.md)
+  *  [Analyzing data (old)](archives/analyzing-data-archive-2012-2016.md)
+  *  [Recruiting subjects (old)](archives/recruitment-archive.md)
 
 
