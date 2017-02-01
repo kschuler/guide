@@ -21,12 +21,17 @@ If you are absolutely new to the idea of R and/or Markdown, start here:
 - [Complete this Markdown tutorial (~ 10 minutes)](http://www.markdowntutorial.com)
 - [Complete this basic R tutorial (~ 20-30 minutes)](http://tryr.codeschool.com)
 
-If you know basics of R but want to learn some intermediate skills, :
-- Reporting with R Markdown (https://www.datacamp.com/courses/reporting-with-r-markdown)
-- For more advanced stuff learn dplyr and ggplot on Datacamp (ask Katie for lab login)
+If you already know the basics of R but want to learn some intermediate skills, the following courses from DataCamp would provide you with enough information to do basic data manipulation and visualization.  Ask Katie for the lab login for DataCamp if you are interested.  I'd recommend doing them in this order:
 
-Finally when you are ready to get started:
-- Install R Studio
+1. [Cleaning data in R (with tidyr package)](https://www.datacamp.com/courses/cleaning-data-in-r)
+2. [Data manipulation in R with dplyr](https://www.datacamp.com/courses/dplyr-data-manipulation-r-tutorial)
+3. [Joining data in R with dplyr](https://www.datacamp.com/courses/joining-data-in-r-with-dplyr)
+4. [Data visualization with ggplot2 (part 1)](https://www.datacamp.com/courses/data-visualization-with-ggplot2-1)
+5. [Data visualization with ggplot2 (part 2)](https://www.datacamp.com/courses/data-visualization-with-ggplot2-2)
+6. [Reporting with R Markdown](https://www.datacamp.com/courses/reporting-with-r-markdown)
+
+Finally, when you are ready to get started you can install R studio. (Lab computers should already have this installed, but you may need to updated to version 1.0 or higher to use R notebooks).
+- [Install R Studio](https://www.rstudio.com/products/rstudio/download/)
 
 ## Analysis notebook boilerplate and conventions
 
