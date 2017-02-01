@@ -50,23 +50,16 @@ You will fill in each of these columns with the following for each trial:
 * `corrNoun`: did they produce the correct noun? \(0 for no, 1 for yes\)
 * `actualDet`: what marker \(determiner\) did they produce? \(write it exactly\)
 * `categoryDet`: what category does the marker belong to?
-
   * for inconinput the options are `maj`, `min`, `other`, and `null`
   * for yang the options are `R`, `e`, `other`, and `null`
-
 * `notes`: write any notes you feel would help
-
   * for example: the child produced `ka` as `ko`; transcriptions are missing; etc
-
 * `exp.feedback` : did the experimenter provide any feedback on the trial?  \(0 for no, 1 for yes\)
   * for example: "great job!".  Count any feedback no matter how small.
-
 * `exp.prompt.verb` : did the experimenter prompt the participant for the verb?  \(0 for no, 1 for yes\)
   * for example: "it starts gentif..."
-
 * `exp.prompt.noun` : did the experimenter prompt the participant for the noun? \(0 for no, 1 for yes\)
   * for example: "it was gentif mawg"
-
 * `exp.prompt.det` : did the experimenter prompt the participant for the determiner? \(0 for no, 1 for yes\)
   * for example: "do you want to add one of the endings you learned?"
 
