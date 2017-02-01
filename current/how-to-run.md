@@ -16,7 +16,7 @@ In general, follow these steps when running an experiment.  These steps are auxi
 
 ##### Before the subject arrives:
 1. Get subject and condition information from subject tracking sheet.
-2. Setup the experiment with [Atom](https://atom.io/packages/psychopy). ([video instructions below](#how-to-setup-the-experiment-with-atom))
+2. Setup the experiment with [Atom](https://atom.io/packages/psychopy). ([silent video instructions below](#how-to-setup-the-experiment-with-atom))
 
 ##### While you are running the subject:
 3. Read all instructions to participant and offer a sticker at all breaks
