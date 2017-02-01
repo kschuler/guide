@@ -12,11 +12,11 @@ I analyze my data using an [R markdown notebook](http://rmarkdown.rstudio.com/).
 
 ## Getting started
 
-- [Read Ten Simple Rules for Effective Statistical Practice](https://www.dropbox.com/s/v1u7r3ul0e6ur2b/2016-ten-simple-rules-stats.pdf?dl=0)
+- [Read **Ten Simple Rules for Effective Statistical Practice**](https://www.dropbox.com/s/v1u7r3ul0e6ur2b/2016-ten-simple-rules-stats.pdf?dl=0)
 
 If you are absolutely new to the idea of R and/or markdown, start here:
 
-- [Do the markdown course](www.markdowntutorial.com)
+- [Do the markdown course](http://www.markdowntutorial.com)
 - [Do the basic R tutorial](tryr.codeschool.com)
 
 If you know the basics but want to learn some intermediate analysis stuff:
