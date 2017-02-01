@@ -7,6 +7,8 @@ All current experiments are below.  If the experiment you are running is not lis
 * [0164-empiricalyang-9noun-mfrule-tophalf-child](#0164-empiricalyang-9noun-mfrule-tophalf-child)
 * [0035-babysaffran-srt-patient](#0035-babysaffran-srt-patient)
 
+Information for archived experiments can be found [here]().
+
 ### 0500-inconinput-empiricalyang-33scatter:
 
 * **Who is running:**
