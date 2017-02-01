@@ -11,6 +11,9 @@ I analyze my data in an [R markdown notebook]() [Jupyter notebooks](http://jupyt
     - rating data
     - reaction time data
 - [Guidelines for analysis strategies]()
+    - production data
+    - rating data
+    - reaction time data
 
 ## Getting started
 
