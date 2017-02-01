@@ -132,3 +132,6 @@ Here is an example with some of the trials filled in.
 > 
 > If you are uncertain how to code something, just ask me in person.
 
+##### What if the participant started saying something but didn't finish before the beep?
+
+> The participant must be finished with the entire word for it to count in the `finished.verb`, `finished.noun`, or `finished.det` categories.
