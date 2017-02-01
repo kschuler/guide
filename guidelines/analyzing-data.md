@@ -6,8 +6,8 @@ I analyze my data in an [R markdown notebook]() [Jupyter notebooks](http://jupyt
 
 - [Getting started](#getting-started)
 - [Analysis notebook conventions]()
-- [Commonly applied exclusion criteria]()
-- [Common analysis strategies]()
+- [Default data cleaning and exclusion criteria]()
+- [Default analysis strategies]()
 
 
 ## Getting started
