@@ -7,14 +7,8 @@ I analyze my data in an [R markdown notebook]() [Jupyter notebooks](http://jupyt
 - [Getting started](#getting-started)
 - [Analysis notebook conventions]()
 - [Commonly applied exclusion criteria]()
-    - general
-    - production data
-    - rating data
-    - reaction time data
 - [Common analysis strategies]()
-    - production data
-    - rating data
-    - reaction time data
+
 
 ## Getting started
 
