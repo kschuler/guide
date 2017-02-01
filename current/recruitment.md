@@ -11,7 +11,7 @@ All current experiments are below.  If the experiment you are running is not lis
 ### 0165-empiricalyang-16noun-maj-or-tp-child
 
 * **Who is running:**
-  * Emily, Jaclyn, Katie
+  * **Emily**, Jaclyn, Katie
 * **Inclusion criteria:**
   * Age range:
     * Children: 5.0 - 6.99 years
@@ -26,7 +26,7 @@ All current experiments are below.  If the experiment you are running is not lis
 ### 0167-empiricalyang-9noun-hfrule-adults-fastproduction
 
 * **Who is running:**
-  * Gaby, Jaclyn, Katie
+  * **Gaby**, Jaclyn, Katie
 * **Inclusion criteria:**
   * Age range:
     * Adults: 18 - 26 years
@@ -44,7 +44,7 @@ All current experiments are below.  If the experiment you are running is not lis
 ### 0500-inconinput-empiricalyang-33scatter:
 
 * **Who is running:**
-  * Rebecca, Jaclyn, Katie
+  * **Rebecca**, Jaclyn, Katie
 * **Inclusion criteria:**
   * Age range:
     * Children \(young\): 5.0 - 6.99 years
@@ -75,7 +75,7 @@ All current experiments are below.  If the experiment you are running is not lis
 ### 0035-babysaffran-srt-patient
 
 * **Who is running:**
-  * Mackenzie
+  * **Mackenzie**
 * **Inclusion criteria:**
   * Age range: flexible \(~50+\)
   * Patients with aphasia
