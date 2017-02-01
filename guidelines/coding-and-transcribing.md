@@ -37,7 +37,9 @@ Add 10 columns: `transcription`, `corrVerb`, `corrNoun`, `actualDet`, `categoryD
 ![](/assets/Screenshot 2016-11-08 13.06.02.png)
 
 ##### Study specific additions
-- 0167-empiricalyang-9noun-hfrule-adults-fastproduction
+- **0167-empiricalyang-9noun-hfrule-adults-fastproduction**
+  - add 3 additional columns: `finished.verb`, `finished.noun`, `finished.det`
+
   
 
 ##### Transcribe and code
