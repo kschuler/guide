@@ -6,11 +6,11 @@ I analyze my data in an [R markdown notebook]() [Jupyter notebooks](http://jupyt
 
 - [Getting started](#getting-started)
 - [Analysis notebook conventions]()
-- [Guidelines for exclusion criteria]()
+- [Commonly applied exclusion criteria]()
     - production data
     - rating data
     - reaction time data
-- [Guidelines for analysis strategies]()
+- [Guidelines for analysis]()
     - production data
     - rating data
     - reaction time data
