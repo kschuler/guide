@@ -17,7 +17,7 @@ This section provides guidelines for how I create, design, analyze, and document
 * [Running subjects](guidelines/running-subjects.md)
 * [Coding and transcribing data](guidelines/coding-and-transcribing.md)
 * [Analyzing data](guidelines/analyzing-data.md)
-* [Experiment documentation](guidelines/documentation.md)
+* [Experiment documentation](guidelines/documenting-exps.md)
 
 ## Tools
 
