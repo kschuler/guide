@@ -114,10 +114,24 @@ Collections of experiments can be identified by the first name in the experiment
 
 ##### `subject-tracking`
 - contains a single `.csv` with the `EXPID-collection-descriptive-title` appended with `-track.csv`
-- For example: `0160-empiricalyang-9noun-hfrule-child-track.csv`
+    - For example: `0160-empiricalyang-9noun-hfrule-child-track.csv`
+
 ##### `stimuli`
-- contains 
+- contains a single folder for each experiment with the `EXPID-collection-descriptive-title` appended with `-stims`
+    - For example: `0160-empiricalyang-9noun-hfrule-child-stims/`
+- Inside contains all the stimuli for the experiment arranged in sub-folders labeled with the file type (e.g. `conditions`, `sounds`, `images`, `movies`)
+- may also contain a Word document `instructions-text.docx` which are the instructions provided to the participant during the experiment.
+
 ##### `raw-data`
+- contains a single folder for each experiment with the `EXPID-collection-descriptive-title` appended with `-raw-data`
+    - For example: `0160-empiricalyang-9noun-hfrule-child-raw-data/`
+- contains all of the raw data for the experiment, which may be single file or folder per participant.  
+- subject data folders are named: `SID-YEAR-MONTH-DAY-HHMMSS`
+    - For example: `C01-2016-06-17-100307`
+- subject data files are named: `SID-YEAR-MONTH-DAY-HHMMSS-datatype.csv`
+    - For example: `C01-2016-06-17-100307-exposure.csv`
+
+
 ##### `processed-data`
 ##### `experiments`
 ##### `docs`
