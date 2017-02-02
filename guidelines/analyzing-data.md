@@ -68,6 +68,7 @@ output:
     toc_float: FALSE
     toc_depth: 2
 ```
+
 ```
 {r setup, include=FALSE}
 knitr::opts_chunk$set(echo = FALSE, warning = FALSE)
