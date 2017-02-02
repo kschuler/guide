@@ -4,7 +4,6 @@
     - [Why we use Asana](#why-we-use-asana)
     - [How we use Asana](#how-we-use-asana)
         - [Experiments board](#experiments-board)
-            - [Experiment task and sub-task conventions](#experiment-task-and-sub-task-conventions)
         - [Writing & publishing board](#writing-&-publishing-board)
         - [Indexing experiments](#indexing-experiments)
 - [File organization system](#file-organization-system)
