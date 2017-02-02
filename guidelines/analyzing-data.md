@@ -36,7 +36,7 @@ Finally, when you are ready to get started you can install R studio. (Lab comput
 
 ## Analysis notebook boilerplate and conventions
 
-All analysis notebooks follow the same basic format, with each section containing the same information. This information allows the notebook to stand alone as a full summary of the experiment.  The final notebook will be published in my [lab notebook](http://kathrynschuler.com/labnotebook) when the experiment is archived for easy sharing with collaborators. Click on each link below to see details about each section.
+All analysis notebooks follow the same basic format, with each section containing the same information. This information allows the notebook to stand alone as a full summary of the experiment and ensure that all experiments contain all of the important information.  The final experiment notebook will be published in my [lab notebook](http://kathrynschuler.com/labnotebook) repository. Click on each link below to see details about each section.
 
 - Header content
 - Introduction
