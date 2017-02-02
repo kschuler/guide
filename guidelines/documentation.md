@@ -162,8 +162,8 @@ Collections of experiments can be identified by the first name in the experiment
 - contains a single folder for each experiment with the `EXPID-collection-descriptive-title` appended with `-docs`
 - includes any auxilliary documents that do not belong anywhere in the remaining folder architecture but I want to keep.
 - Often these are things like:
-    - Data sheets templates for when we record things by hand
-    - The call for participants
+    - Data sheet templates for when we record things by hand 
+    - The call for participants / recruitment procedures 
     - [Asana notes](#project-management)
 
 ##### `design-sheets`
