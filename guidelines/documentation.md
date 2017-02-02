@@ -65,11 +65,11 @@ When an experiment is complete, it is moved to the **"Complete"** column.  These
 
 By clicking on the card, you open the experiment and can view all of its chats and sub-tasks.  Each experiment has description and a standard set of task sections:
 
-1. Background
+**1. Background
 2. Designing the experiment
 3. Running the experiment
 4. Transcribing and coding the experiment
-5. Analyzing the data
+5. Analyzing the data**
 
 As of February, 2017, we also try to keep all comments on the main experiment thread (and not on sub-tasks), because this allows for easier printing and archiving.
 
@@ -102,6 +102,8 @@ My research folder is organized by file type. Over the years I have found this t
 ![research-folder-contents](/assets/research-folder-contents.png)
 
 ### Naming conventions
+
+Within each of these folders, there is a single file or sub-folder for each individual experiment. All files and folders begin with the experiment id, the collection that experiment belongs to, followed by a descriptive title in all lower-case with `-` as the separator: **EXPID-collection-descriptive-title**. and  Collections of experiments can be identified by the first name in the experiment title, and sub-collections can be identified by the experiment id number (EXPID). 
 ### Location of currently running experiments
 ### Location of archived experiments
 ### Location of files shared with colleagues
