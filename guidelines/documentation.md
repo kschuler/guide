@@ -1,5 +1,8 @@
 # Documentation Guidelines
 
+These are the general guidelines I follow for documenting and managing my experiments.
+
+
 - [Project management with Asana](#project-management-with-asana)
     - [Why we use Asana](#why-we-use-asana)
     - [How we use Asana](#how-we-use-asana)
