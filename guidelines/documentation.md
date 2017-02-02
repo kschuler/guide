@@ -116,6 +116,7 @@ Collections of experiments can be identified by the first name in the experiment
 - contains a single `.csv` with the `EXPID-collection-descriptive-title` appended with `-track.csv`
 - For example: `0160-empiricalyang-9noun-hfrule-child-track.csv`
 ##### `stimuli`
+- contains 
 ##### `raw-data`
 ##### `processed-data`
 ##### `experiments`
