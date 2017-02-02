@@ -68,10 +68,10 @@ output:
     toc_float: FALSE
     toc_depth: 2
 ```
-
-
+---
 {r setup, include=FALSE}
 knitr::opts_chunk$set(echo = FALSE, warning = FALSE)
+---
 
 Next I include a little bit of background information about the logistics of the study.  This includes collaborators, research assistants, and lab managers involved; when the data was collected; and where the experiment is reported (or planned to be reported).  Here is an example:
 
