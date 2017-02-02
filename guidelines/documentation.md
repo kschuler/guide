@@ -1,8 +1,8 @@
 # Documentation Guidelines
 
 - [Project management with Asana](#project-management-with-asana)
-    - [Why I use Asana](#why-I-use-asana)
-    - [How we use Asana](#how-I-use-asana)
+    - [Why we use Asana](#why-we-use-asana)
+    - [How we use Asana](#how-we-use-asana)
 - [File organization system](#file-organization-system)
     - Naming conventions
     - Location of currently running experiments
@@ -19,7 +19,7 @@
 
 I manage all of my research and academic related projects via [Asana](https://asana.com/guide).  Asana is a web-based project management application that allows teams to work together toward accomplishing projects.  This allows me to monitor the status of projects and interact with research assistants and our lab manager by assigning tasks or having conversations.
 
-### Why I use Asana
+### Why we use Asana
 
 From the Asana website:
 > Between status meetings, scheduling conflicts and never-ending email chains, a lot of your time at work isn’t focused on work. Asana lets you know who is doing what, by when. Communication is focused and actionable and you’ll always know the status of work happening across your team. Spend less time talking about work, and more time actually getting it done.
@@ -31,7 +31,7 @@ Before Asana, I found it difficult to keep track of all of the projects I had go
 Importantly, when an experiment is complete, I can export the notes and tasks associated with a project as a .pdf file to save with that experiments auxiliary documents.
 
 
-### How I use Asana
+### How we use Asana
 
 Asana allows you to organize tasks into boards (kind of like [Trello](https://trello.com/)) or as lists like any standard to do list application. Further you can cross list a task so that it appears in more than one project.  We make use of the boards feature for a high level overview of currently running experiments and writing projects.  Each experiment or publication is then cross-listed to an Index page for a collection of experiments so that we can see all of the experiments that have been done within a given genre, and all of the publications that have been written in that genre.
 
