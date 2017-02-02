@@ -1,4 +1,4 @@
-# Analyzing data 
+``# Analyzing data 
 
 Note that this is the current method used to analyze data (from July 2016 onward).
 
@@ -55,8 +55,9 @@ All analysis notebooks follow the same basic format, with each section containin
 
 #### Header content
 
-```{yaml}
----
+All R notebook files are `.Rmd` format and have a header of `.yaml` information that is used to format the notebook, including the title, author, and date.  The title should always be the experiment name - `EXPID-collection-descriptive-experiment-title` - and the author and the data should be formatted as follows.  The date should be updated each time you make changes to the notebook.
+
+```yaml
 title: "0167-empiricalyang-9noun-hfrule-adults-fastproduction"
 author: "Kathryn Schuler"
 date: "last updated 2017-02-01"
@@ -66,8 +67,18 @@ output:
     toc: TRUE
     toc_float: FALSE
     toc_depth: 2
----
 ```
+
+Next I include a little bit of background information about the logistics of the study.  This includes collaborators, research assistants, and lab managers involved; when the data was collected; and where the experiment is reported (or planned to be reported).  Here is an example:
+
+>This experiment was conducted by Kathryn Schuler (graduate student) and Elissa Newport (advisor) and was based on a theory and computational model proposed by Charles Yang (U. Penn) and the declarative-procedural memory circuit framework proposed by Michael Ullman (Georgetown University). The lab manager at the time of running was Jaclyn Horowitz and the research assistant involved in this project was Gabriella Iskin (undergraduate RA).  The data was collected at Georgetown University from November 11, 2016 to ONGOING.
+
+>- This experiment was reported in:
+    - nothing, yet.
+- And is planned to be reported in:
+    - 2017 - Katie's job talk at Penn
+    - 2017 - Katie's dissertation
+
 #### Introduction
 #### Materials and Method
 #### Results and analysis
