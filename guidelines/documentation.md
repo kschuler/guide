@@ -35,9 +35,9 @@ Importantly, when an experiment is complete, I can export the notes and tasks as
 
 Asana allows you to organize tasks into boards (kind of like [Trello](https://trello.com/)) or as lists like any standard to do list application. Further you can cross list a task so that it appears in more than one project.  We make use of the boards feature for a high level overview of currently running experiments and writing projects.  Each experiment or publication is then cross-listed to an Index page for a collection of experiments so that we can see all of the experiments that have been done within a given genre, and all of the publications that have been written in that genre.
 
-- Experiments board
-- Writing & publishing board
-- An example index page for collections of experiments
+- [Experiments board](#experiments-board)
+- [Writing & publishing board](#writing-&-publishing-board)
+- [An example index page for collections of experiments](#an-example-index-page-for-collections-of-experiments)
 
 #### Experiments board
 
