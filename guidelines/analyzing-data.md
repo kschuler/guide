@@ -1,5 +1,7 @@
 # Analyzing data 
 
+UNDER CONSTRUCTION
+
 >Note that this is the current method used to analyze data (from July 2016 onward).
 
 I analyze my data using an [R Notebook](http://rmarkdown.rstudio.com/). An R Notebook is an R Markdown document that contains executable code along with text and figures. [Here](https://www.dropbox.com/home/Research/summaries?preview=0010-srt-pilot.html) is an example of one of my analysis notebooks.
