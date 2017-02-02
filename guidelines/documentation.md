@@ -7,9 +7,6 @@
             - [Experiment task and sub-task conventions](#experiment-task-and-sub-task-conventions)
         - [Writing & publishing board](#writing-&-publishing-board)
         - [An example index page for collections of experiments](#an-example-index-page-for-collections-of-experiments)
-
-
-
 - [File organization system](#file-organization-system)
     - Naming conventions
     - Location of currently running experiments
