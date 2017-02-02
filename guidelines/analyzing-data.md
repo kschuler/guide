@@ -80,7 +80,17 @@ Next I include a little bit of background information about the logistics of the
     - 2017 - Katie's dissertation
 
 #### Introduction
+
+In the introduction, I provide a little bit of informal rational as to why we conducted this experiment. This should be no more than a few paragraphs.  The primary purpose of this section is so that I remember the circumstances that lead us to run the experiment.  Here is an example:
+
+>This experiment was run based on a suggestion from Michael Ullman in Katie's dissertation committee meeting (suggested July 2016).  In our original Tolerance Principle work we found that TP predicts categorically when children will form productive rules but not when adults will adults.  Adults instead matched the token frequency of the regular form in thier input (exactly as they had done in our inconsistent input work).  We had discussed how we might force adults to behave like kids.  We tried a series of experiments on mechanical turk in which the language was much more complex (a la Hudson-Kam & Newport, 2009) and we found that adults continued to match the token frequency. In some conversations with Michael, we discussed the evidence for the role of the declarative (hippoampal) and procedural (basal ganglia) memory circuits in storing exceptions and forming rules. And further that adults learn second languages via declariative memory.  This lead to the hypothesis that if we could prevent adults from accessing their declarative memory circuit, they would be forced to rely on the procedural circuit as children may do.  A quick way to ask that was to force adults to respond very quickly, as the retrieval from declarative memory is hypothesized to take longer.
+
+>Here we re-ran our original Tolerance Principle experiment, except we gave adults a strict time limit of 1.5 seconds in which to produce sentences in the production test. After 1.5 seconds, the screen would turn red and participants would hear a beep. To encourge them to comply, they were told they would recieve a $0.50 bonus for every sentence they could complete before the screen turned red and the computer beeped.
+
 #### Materials and Method
+
+
+
 #### Results and analysis
 #### Conclusions
 #### Next steps
