@@ -106,7 +106,19 @@ My research folder is organized by file type. Over the years I have found this t
 
 ### Naming conventions
 
-Within each of these folders, there is a single file or sub-folder for each individual experiment. All files and folders begin with the experiment id, the collection that experiment belongs to, followed by a descriptive title in all lower-case with `-` as the separator: **EXPID-collection-descriptive-title**. and  Collections of experiments can be identified by the first name in the experiment title, and sub-collections can be identified by the experiment id number (EXPID). 
+Within each of these folders, there is a single file or sub-folder for each individual experiment. All files and folders begin with the experiment id, the collection that experiment belongs to, followed by a descriptive title in all lower-case with `-` as the separator: `EXPID-collection-descriptive-title`. 
+
+Collections of experiments can be identified by the first name in the experiment title, and sub-collections can be identified by the experiment id number (EXPID). You can see how nicely this naming convention works by viewing my [lab notebook](http://kathrynschuler.com/labnotebook).
+
+##### `subject-tracking`
+##### `stimuli`
+##### `raw-data`
+##### `processed-data`
+##### `experiments`
+##### `docs`
+##### `design-sheets`
+##### `analyses`
+
 ### Location of currently running experiments
 ### Location of archived experiments
 ### Location of files shared with colleagues
