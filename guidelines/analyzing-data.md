@@ -1,4 +1,4 @@
-``# Analyzing data 
+# Analyzing data 
 
 Note that this is the current method used to analyze data (from July 2016 onward).
 
