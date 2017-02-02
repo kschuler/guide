@@ -160,6 +160,7 @@ Collections of experiments can be identified by the first name in the experiment
 
 ##### `docs`
 - contains a single folder for each experiment with the `EXPID-collection-descriptive-title` appended with `-docs`
+    - For example: `0160-empiricalyang-9noun-hfrule-child-docs/`
 - includes any auxilliary documents that do not belong anywhere in the remaining folder architecture but I want to keep.
 - Often these are things like:
     - Data sheet templates for when we record things by hand 
@@ -167,6 +168,10 @@ Collections of experiments can be identified by the first name in the experiment
     - [Asana notes](#project-management) from the experiment
 
 ##### `design-sheets`
+- contains a single excel workbook for each experiment `EXPID-collection-descriptive-title` appended with `-design.xslx`
+    - For example: `0160-empiricalyang-9noun-hfrule-child-design.xslx`
+- This is important so that there are not several different excel files and notes containing the experiment design.  A single file with a worksheet for each aspect of the design is more than sufficient.  
+
 ##### `analyses`
 
 ### Location of currently running experiments
