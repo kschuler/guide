@@ -24,11 +24,11 @@ I manage all of my research and academic related projects via [Asana](https://as
 From the Asana website:
 > Between status meetings, scheduling conflicts and never-ending email chains, a lot of your time at work isn’t focused on work. Asana lets you know who is doing what, by when. Communication is focused and actionable and you’ll always know the status of work happening across your team. Spend less time talking about work, and more time actually getting it done.
 
-These points are especially relevant for research projects.  Before Asana, I found myself searching through emails or random notes to try to remember what we decided to do and why.  Now, all of our conversations about research projects are saved and timestamped.  I know exactly when I asked research assistants to do things and why, and they can communicate with me with questions or comments right on a task.
+These points are especially relevant for research projects.  Before Asana, I found myself searching through emails or random notes to try to remember what we decided to do and why.  Now, all of our conversations about research projects are saved and timestamped.  I know exactly when I asked research assistants to do things and why, and they can communicate with me right on a task or project if they have questions or comments.
 
 I also found it difficult to keep track of all of the projects I had going on.  I spent a lot of hours asking for or generating status updates about projects.  Now, I know exactly what is happening and what the status is with all of my projects all the time.
 
-When an experiment is complete, I can export the notes and tasks associated with a project to save with that experiments auxiliary documents.
+Plus, when an experiment is complete, I can export the notes and tasks associated with a project to save with that experiments auxiliary documents.
 
 
 
