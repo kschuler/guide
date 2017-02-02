@@ -209,6 +209,33 @@ Here I describe the procedure that were used in the experiment, including all ph
 
 ## Default data cleaning and exclusion criteria
 
+### Exclusion criteria
+
+We exclude participants who:
+
+- Did not meet inclusion criteria (e.g. age, language experience, normal to corrected-to-normal hearing/vision, wrong-handed, participated in similar experiment within the last 3 months)
+- Did not complete the study
+- Experienced equipment malfunction during experiment
+- Did not produce the noun correctly on >50% of trials in production tests
+    - for experiments in which the noun is given; indicates they did not understand the task
+- Chose the same value on all but 2 trials on Rating tests
+    - indicates they did not understand the task
+
+We exclude trials on which:
+
+- For production tests:
+    - The participant did not produce the noun correctly on production tests
+        - no way to know they were paying attention to the trial
+    - participant was prompted for the noun or plural marker by researcher (verb prompt ok)
+        - research assistants are instructed not to prompt participants for noun or plural marker
+- For rating tests:
+    - participant provided no rating
+- For SRT data:
+    - 
+
+### Data cleaning
+
+- 
 
 ## Default analysis strategies
 
