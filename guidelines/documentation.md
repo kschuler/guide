@@ -1,6 +1,8 @@
 # Documentation Guidelines
 
-- [Project management](#project-management)
+- [Project management with Asana](#project-management-with-asana)
+    - [Why I use Asana](#why-I-use-asana)
+    - [How we use Asana](#how-I-use-asana)
 - [File organization](#file-organization)
     - naming conventions
     - location of currently running experiments
@@ -13,9 +15,33 @@
     - sending files to colleagues
 
 
-## Project management
+## Project management with Asana
 
+### Why I use Asana
+
+I manage all of my research and academic related projects via [Asana](https://asana.com/guide).  Asana is a web-based project management application that allows teams to work together toward accomplishing projects.  This allows me to monitor the status of projects and interact with research assistants and our lab manager by assigning tasks or having conversations.
+
+From the Asana website:
+> Between status meetings, scheduling conflicts and never-ending email chains, a lot of your time at work isn’t focused on work. Asana lets you know who is doing what, by when. Communication is focused and actionable and you’ll always know the status of work happening across your team. Spend less time talking about work, and more time actually getting it done.
+
+These points are especially relevant for research projects.  Before Asana, I found myself searching through emails or random notes to try to remember what we decided to do and why.  Now, all of our conversations about research projects are saved and timestamped.  I know exactly when I asked research assistants to do things and why, and they can communicate with me with questions or comments right on a task.
+
+When an experiment is complete, I can export the notes and tasks associated with a project to save with that experiments auxiliary documents.
+
+
+
+### How I use Asana
+
+
+
+Asana allows you to organize tasks into boards or 
+
+![](/assets/asana-experiments-board.png)
 Asana
+
+Each experiment is then cross-listed to an Index page for that project series.  
+
+
 
 ## File organization
 
