@@ -6,7 +6,7 @@
         - [Experiments board](#experiments-board)
             - [Experiment task and sub-task conventions](#experiment-task-and-sub-task-conventions)
         - [Writing & publishing board](#writing-&-publishing-board)
-        - [An example index page for collections of experiments](#an-example-index-page-for-collections-of-experiments)
+        - [Indexing experiments](#an-example-index-page-for-collections-of-experiments)
 - [File organization system](#file-organization-system)
     - Naming conventions
     - Location of currently running experiments
@@ -88,7 +88,7 @@ The "Upcoming abstracts..." section provides a way for me to view the conference
 
 Finally, when they are in press they move to "In press & published".  Writing projects are not checked complete until they are published (or printed for posters, or I have received an acceptance or rejection for grants).
 
-#### An example index page for collections of experiments
+#### Indexing experiments
 
 Each collection of experiments has an index page that contains cross-listed experiments and writing projects.  At the top of each index are the "Publications & Presentations" associated with that collection.  This is followed by sub-collections of cross-listed experiments.
 
