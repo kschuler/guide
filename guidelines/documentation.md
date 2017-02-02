@@ -17,6 +17,8 @@
 
 ## Project management with Asana
 
+I manage all of my research and academic related projects via [Asana](https://asana.com/guide).  Asana is a web-based project management application that allows teams to work together toward accomplishing projects.  This allows me to monitor the status of projects and interact with research assistants and our lab manager by assigning tasks or having conversations.
+
 ### Why I use Asana
 
 I manage all of my research and academic related projects via [Asana](https://asana.com/guide).  Asana is a web-based project management application that allows teams to work together toward accomplishing projects.  This allows me to monitor the status of projects and interact with research assistants and our lab manager by assigning tasks or having conversations.
