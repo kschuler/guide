@@ -34,10 +34,12 @@ My research folder is organized by file type. Over the years I have found this t
 
 Is open-source, in the sense that anyone who wants to can see it.  But protected in the sense that the information is copyrighted and people must request my permission to use or distribute it.
 
-## Checklist for initiating a new experiment
+## Checklists 
+
+### initiating a new experiment
 
 
-## Checklist for archiving a complete experiment
+### archiving a complete experiment
 
-
+### sending files to colleagues
 
