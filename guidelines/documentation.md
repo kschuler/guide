@@ -131,8 +131,11 @@ Collections of experiments can be identified by the first name in the experiment
 - subject data files are named: `SID-YEAR-MONTH-DAY-HHMMSS-datatype.csv`
     - For example: `C01-2016-06-17-100307-exposure.csv`
 
-
 ##### `processed-data`
+- contains a single folder for each experiment with the `EXPID-collection-descriptive-title` appended with `-raw-data`
+    - For example: `0160-empiricalyang-9noun-hfrule-child-raw-data/`
+
+
 ##### `experiments`
 ##### `docs`
 ##### `design-sheets`
