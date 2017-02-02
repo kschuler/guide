@@ -69,6 +69,7 @@ output:
     toc_depth: 2
 ```
 
+Next you have to include more:
 
 ```
 {r setup, include=FALSE}
