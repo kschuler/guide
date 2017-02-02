@@ -69,6 +69,10 @@ output:
     toc_depth: 2
 ```
 
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE, warning = FALSE)
+```
+
 Next I include a little bit of background information about the logistics of the study.  This includes collaborators, research assistants, and lab managers involved; when the data was collected; and where the experiment is reported (or planned to be reported).  Here is an example:
 
 >This experiment was conducted by Kathryn Schuler (graduate student) and Elissa Newport (advisor) and was based on a theory and computational model proposed by Charles Yang (U. Penn) and the declarative-procedural memory circuit framework proposed by Michael Ullman (Georgetown University). The lab manager at the time of running was Jaclyn Horowitz and the research assistant involved in this project was Gabriella Iskin (undergraduate RA).  The data was collected at Georgetown University from November 11, 2016 to ONGOING.
