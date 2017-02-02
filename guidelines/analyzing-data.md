@@ -71,7 +71,7 @@ output:
 
 Next you have to include more:
 
-```
+```R
 {r setup, include=FALSE}
 knitr::opts_chunk$set(echo = FALSE, warning = FALSE)
 ```
