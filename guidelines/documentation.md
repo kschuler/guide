@@ -60,14 +60,22 @@ When an experiment is complete, it is moved to the "Complete" column.  These exp
 
 
 #### Writing & publishing board
+
+The writing & publishing board is a high level overview of all of the projects we are currently writing up.  Writing projects (usually conference abstracts, grants, or papers) are organized into one of five columns depending on their current status: Upcoming abstracts..., Drafting, Waiting for collaborators, Submitted & under review, and In press & published.  
+
 ![](/assets/asana-writing-board.png)
+
+The "Upcoming abstracts..." section provides a way for me to view the conferences and grants that I may want to submit to.  The "Drafting" section is reserved for papers that I am currently drafting (or will be drafting once data collection is complete).  Writing projects move to "Waiting for collaborators" when I have done my part and am now waiting for collaborator comments.  They move to "Submitted & under review" when I have submitted them or they are in review.  
+
+Finally, when they are in press they move to "In press & published".  Writing projects are not checked complete until they are published (or printed for posters, or I have received an acceptance or rejection for grants).
 
 #### An example index page for collections of experiments
 
+Each collection of experiments has an index page that contains cross-listed experiments and writing projects.  At the top of each index are the "Publications & Presentations" associated with that collection.  This is followed by sub-collections of cross-listed experiments.
+
 ![](/assets/asana-collection-index.png)
 
-
-
+For example, my "Empirical Yang" collection contains all of the experiments we have run on our Tolerance Principle work (formation of productive rules).  All of the publications and presentations are listed as tasks at the top (these also appear as cards in the "Writing & Publishing" board).  Each sub-collection of experiments has a heading (e.g. "Empirical Yang Adult 36-Noun") and each experiment that belongs to that sub-collection is listed below this heading.
 
 ## File organization system
 
