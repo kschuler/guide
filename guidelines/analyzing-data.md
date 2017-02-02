@@ -115,12 +115,88 @@ Here I describe the subjects include how many were run, how many were excluded a
 
 ##### Materials
 
-Here I describe the materials that were used in the experiment, including equipment, models, languages, and stimuli lists.  Here is an example:
+Here I describe the materials that were used in the experiment, including equipment, models, languages, and stimuli lists.  Note that the funny text is latex math notation (rendered by R markdown). Here is an example:
+
+>#### Equipment
+  - Hardware: 
+      - Macbook Air (OSX) 
+      - Sennheiser HD555 open-air headphones
+      - Internal microphone of Macbook Air
+  - Software: Python, PsychoPy 
+      - Note: Audacity used for some recordings as PsychoPy's microphone API unreliable
+
+>#### Model
+  - The Tolerance Principle (Yang, 2016)
+  - Learners will form a productive rule wheh it is more computationally efficient
+  - Let R be a rule that is applicable to N items, of which e are exceptions.  R is productive iff:
+       - $\textrm{e} \leq \theta_{N} \quad \textrm{where} \quad \theta_{N} := \frac{N}{ln(N)}$
+
+>#### Language
+- 15 total nouns: 
+    - 9 familiar: `mawg`, `tombur`, `glim`, `zup`, `spad`, `daygin`, `flairb`, `clidam`, `lapal`
+    - 6 novel: `bleggin`, `daffin`, `norg`, `sep`, `flugit`, `geed` 
+- 1 verb: `gentif` (means "there is" or "there are")
+- 7 plural markers: 
+    - 1 regular form: `ka` (applied to most frequent nouns)
+    - 6 exceptions: `po`, `lee`, `bae`, `tay`, `muy`, `woo`
+- Sentences constructed:
+    - Singular: `V` + `N` + `null` (e.g. `gentif mawg`)
+    - Plural: `V` + `N` + `MARKER` (e.g. `gentif mawg ka`)
+- Conditions:
+     - Compute the threshold for forming a productive rule by the Tolerance Principle (for our 9 nouns):
+        -  $\textrm{e} \leq \theta_{9}  \quad \textrm{where} \quad  \theta_{9} := \frac{9}{ln(9)} = 4.096$
+        - Thus, can tolerate 4 exceptions to the rule (regular form), but not 5 or more.
+    - 5R4E Exposure: 5 most frequent types take the regular form `ka` and 4 remaining types take exceptions.
+        - Language A: Noun rank in Zipfian distribution is as listed above (`mawg` is most frequent)
+        - Language B: Noun rank is reversed (`lapal` is most frequent)
+    - 3R6E Exposure: 3 most frequent types take the regular form `ka` and 6 remaining types take exceptions.
+        - Language A: Noun rank in Zipfian distribution is as listed above (`mawg` is most frequent)
+        - Language B: Noun rank is reversed (`lapal` is most frequent)
+
+>#### Stimuli
+- Images of "toasters" and pre-recorded words (adult female voice)
+    - Mechanical turk version uses written sentences
+- Exposure set: 
+    - 72 total sentences paired with corresponding picture
+    - each noun is paired with a specific plural marker (see [Language](#language))
+    - 1/3 of presentations were singular and 2/3 plural for each noun
+    - plurals appeared in groups of 2, 4, or 6
+    - Zipfian distribution
+- Production test set:
+    - All novel nouns presented twice: `bleggin`, `daffin`, `norg`, `sep`, `flugit`, `geed`
+    - plurals appeared in groups of 3 or 5
+- Rating test set:
+    - All 9 familiar nouns presented 4 times in 2AFC
+        - paired with four different incorrect plural markers
 
 
 ##### Procedure
 
+Here I describe the procedure that were used in the experiment, including all phases of the experiment. Here is an example:
+
+
+
+>### Procedure
+- Exposure: 
+    - see a picture and hear the sentence that goes with the picture
+    - repeat the sentence
+    - break every 18 trials (for sticker)
+- Production test:
+    - modeled after wug test (Berko, 1958)
+    - see a singular picture and hear corresponding sentence
+    - participant asked to produce plural sentence for same noun
+    - importantly, adults are given a 1.5 second time limit
+        - hear a beep and box on screen turns red to indicate end of time limit
+        - told they will get a 50 cent bonus for every trial on which they can produced within the time limit
+- Rating test:
+    - 2AFC test in which there is a child in a purple shirt and a child in a green shirt on the screen. 
+    - A test image appears in the box and the two cartoon children take turns producing a sentence to match the picture.
+    - participants must decide which child said the sentences correctly in silly speak
+
+
 #### Results and analysis
+
+
 
 
 #### Conclusions
