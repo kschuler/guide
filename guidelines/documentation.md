@@ -1,13 +1,16 @@
 # Documentation Guidelines
 
-- Project management and notes
-- File organization
+- [Project management](#project-management)
+- [File organization](#file-organization)
     - naming conventions
     - location of currently running experiments
     - location of archived experiments
-- Lab notebook
-- Checklist for initiating a new experiment
-- Checklist for archiving a completed experiment
+    - location of files shared with colleagues
+- [Lab notebook](#lab-notebook)
+- [Checklists](#checklists)
+    - initiating a new experiment
+    - archiving a completed experiment
+    - sending files to colleagues
 
 
 ## Project management
