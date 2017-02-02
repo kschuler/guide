@@ -152,16 +152,20 @@ Collections of experiments can be identified by the first name in the experiment
 - contains a single folder for each experiment with the `EXPID-collection-descriptive-title` appended with `-exp`
     - For example: `0160-empiricalyang-9noun-hfrule-child-exp/`
 - inside is all of the experiment code and files including:
-    - `change-log.txt`
+    - `change-log.txt`: a record of small changes made to the experiment
     - stimuli folders where necessary (e.g. `images`, `conditions`)
     - at least one file called: `run-exp-v1.py`
     - possibly a `yaml` parameter file
-- Note: while I manage code for creating full experiment paradigms on github, I find this to be overkill for every single experiment.  Often an experiment uses a paradigm with no changes except to the stimuli and conditions files, or with only very minor changes.  Once a paradigm is working well, I will pull it from github to be used in a single experiment.  Any modifications to the paradigm that I make for the single experiment will be tracked locally in the `change-log.txt` file.  When these small changes are made, I create another version of `run-exp` in the folder (e.g. `run-exp-v2.py`).  There is a place on the [subject tracking sheet](#subject-tracking) to mark which version a participant was run in.
-
-    
-
+- Note: While I manage code for creating full experiment paradigms on github, I find this to be overkill for every single experiment.  Often an experiment uses a paradigm with no changes except to the stimuli and conditions files, or with only very minor changes.  Once a paradigm is working well, I pull the current github version to use in a single experiment.  Any modifications to the paradigm that I make for the single experiment get tracked locally in the `change-log.txt` file.  When these small changes are made, I create another version of `run-exp` in the folder (e.g. `run-exp-v2.py`).  There is a place on the [subject tracking sheet](#subject-tracking) to mark which version a participant was run in.
 
 ##### `docs`
+- contains a single folder for each experiment with the `EXPID-collection-descriptive-title` appended with `-docs`
+- includes any auxilliary documents that do not belong anywhere in the remaining folder architecture but I want to keep.
+- Often these are things like:
+    - Data sheets templates for when we record things by hand
+    - The call for participants
+    - [Asana notes](#project-management)
+
 ##### `design-sheets`
 ##### `analyses`
 
