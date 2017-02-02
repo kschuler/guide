@@ -35,17 +35,30 @@ Importantly, when an experiment is complete, I can export the notes and tasks as
 
 Asana allows you to organize tasks into boards (kind of like [Trello](https://trello.com/)) or as lists like any standard to do list application. Further you can cross list a task so that it appears in more than one project.  We make use of the boards feature for a high level overview of currently running experiments and writing projects.  Each experiment or publication is then cross-listed to an Index page for a collection of experiments so that we can see all of the experiments that have been done within a given genre, and all of the publications that have been written in that genre.
 
+As mentioned above, Asana also allows for chat functionality (kind of like [Slack](https://slack.com)).  You can chat with team members about a specific task or start a conversation about a more general project.  All chats are searchable and are stored right with the task or project they were initiated in.  Anytime someone chats, I am also notified by email and can respond right from my email.  Email responses are also saved in the Asana chat.
+
+The most important components of our current Asana workspace are:
+
 - [Experiments board](#experiments-board)
 - [Writing & publishing board](#writing-&-publishing-board)
 - [An example index page for collections of experiments](#an-example-index-page-for-collections-of-experiments)
 
+
 #### Experiments board
 
+The experiments board is a high level overview of all of the experiments we are currently running.  Experiments are organized into one of four columns depending on their current status: Waiting on..., In Design, In Data Collection, and Complete.  
+
+Each experiment is a task (shown on the board as a card) that corresponds to the naming convention for that experiment: EXPID-collection-descriptive-experiment-title.  The task gets assigned to the research assistant or colleague who is doing the subject running and may have a due date that corresponds to when we would like to complete the experiment by.  A small chat bubble with a number to the right of it lets us know how many chats are associated with that project.
+
+Experiments are triaged in "Waiting on..." when we are waiting to initiate them or they are next up in the cue.  They move to "In Design" when we are in the design phase - creating design sheets, programming and testing the experiment, etc. And they move to "In Data Collection" when we begin collection data.  
+
+When an experiment is complete, it is moved to the "Complete" column.  These experiments need to be archived, and the experiment task itself does not get checked completed until the [checklist for archiving completed experiments](#checklist-for-archiving-completed-experiments) has been performed.
+
 ![](/assets/asana-experiments-board.png)
-Asana
+
 
 #### Writing & publishing board
-
+![](/assets/asana-writing-board.png)
 
 #### An example index page for collections of experiments
 
