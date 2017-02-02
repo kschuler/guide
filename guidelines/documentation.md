@@ -46,7 +46,7 @@ The most important components of our current Asana workspace are:
 - [Experiments board](#experiments-board)
     - [Experiment task and sub-task conventions](#experiment-task-and-sub-task-conventions)
 - [Writing & publishing board](#writing-&-publishing-board)
-- [An example index page for collections of experiments](#an-example-index-page-for-collections-of-experiments)
+- [An example index page for collections of experiments](#indexing-experiments)
 
 
 #### Experiments board
