@@ -54,8 +54,26 @@ All analysis notebooks follow the same basic format, with each section containin
 - Important files
 
 #### Header content
+
+```{yaml}
+---
+title: "0167-empiricalyang-9noun-hfrule-adults-fastproduction"
+author: "Kathryn Schuler"
+date: "last updated 2017-02-01"
+output: 
+  html_document:
+    theme: default
+    toc: TRUE
+    toc_float: FALSE
+    toc_depth: 2
+---
+```
 #### Introduction
-#### 
+#### Materials and Method
+#### Results and analysis
+#### Conclusions
+#### Next steps
+#### Important files
 
 
 
