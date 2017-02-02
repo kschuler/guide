@@ -10,7 +10,7 @@ These are the general guidelines I follow for documenting and managing my experi
         - [Writing & publishing board](#writing-&-publishing-board)
         - [Indexing experiments](#indexing-experiments)
 - [File organization system](#file-organization-system)
-    - Naming conventions
+    - [Naming conventions](#naming-conventions)
     - Location of currently running experiments
     - Location of archived experiments
     - Location of files shared with colleagues
