@@ -164,7 +164,7 @@ Collections of experiments can be identified by the first name in the experiment
 - Often these are things like:
     - Data sheet templates for when we record things by hand 
     - The call for participants / recruitment procedures 
-    - [Asana notes](#project-management)
+    - [Asana notes](#project-management) from the experiment
 
 ##### `design-sheets`
 ##### `analyses`
