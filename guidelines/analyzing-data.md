@@ -69,7 +69,7 @@ output:
     toc_depth: 2
 ```
 
-Next you have to include more:
+To initiate the R notebook and setup some options, the following code is required after the header information above.
 
 ```R
 {r setup, include=FALSE}
@@ -96,9 +96,24 @@ In the introduction, I provide a little bit of informal rational as to why we co
 
 #### Materials and Method
 
+In the Materials and Method section, I include information about the materials and methods use in the experiment. This is divided into the sub-sections: Subjects, Materials, and Procedure.
 
+##### Subjects
+
+Here I describe the subjects include how many were run, how many were excluded and why, and how they were recruited and reimbursed. Here is an example:
+
+>- Adults:
+    - 21 adults recruited at Georgetown University (13 female)
+    - additional 2 excluded for failing to complete the study (2 male)
+    - native English speakers (but multilingual permitted)
+    - compensated $15.00 ($10.00 with a $5.00 bonus)
+
+##### Materials
+##### Procedure
 
 #### Results and analysis
+
+
 #### Conclusions
 #### Next steps
 #### Important files
@@ -108,5 +123,7 @@ In the introduction, I provide a little bit of informal rational as to why we co
 
 
 ## Default data cleaning and exclusion criteria
+
+
 ## Default analysis strategies
 
