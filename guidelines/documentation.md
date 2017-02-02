@@ -3,7 +3,7 @@
 - [Project management with Asana](#project-management-with-asana)
     - [Why I use Asana](#why-I-use-asana)
     - [How we use Asana](#how-I-use-asana)
-- [File organization](#file-organization)
+- [File organization system](#file-organization-system)
     - naming conventions
     - location of currently running experiments
     - location of archived experiments
@@ -36,16 +36,24 @@ Plus, when an experiment is complete, I can export the notes and tasks associate
 
 
 
-Asana allows you to organize tasks into boards (kind of like Trello) or as lists (like basecamp). Further you can cross list a task so that it appears in more than one project.  We make use of the boards feature for a high level overview of currently running experiments and writing projects.  
+Asana allows you to organize tasks into boards (kind of like Trello) or as lists (like basecamp). Further you can cross list a task so that it appears in more than one project.  We make use of the boards feature for a high level overview of currently running experiments and writing projects.  Each experiment is then cross-listed to an Index page for a collection of experiments so that we can see all of the experiments that have been done within a given genre.
+
+- Experiments board
+- Writing & publishing board
+- An example index page for collections of experiments
+
+
+
+
 
 ![](/assets/asana-experiments-board.png)
 Asana
 
-Each experiment is then cross-listed to an Index page for that project series.  
 
 
 
-## File organization
+
+## File organization system
 
 My research folder is organized by file type. Over the years I have found this to be a more intuitive way for me to find things.  Looking for a design sheet?  It is in the design sheet folder.  Looking for the raw data for an experiment? It will be in the raw-data folder.  This also drastically simplifies the folder structure. There is a single document or single sub-folder for each experiment within each of the folders shown below. There are no other files stored in any other place.
 
