@@ -21,7 +21,7 @@ While there are bound to be things that are idiosyncratic about the particular l
 - There isn't a shortcut; you need a whiteboard and an excel workbook and some people to help you.
 - Do this part first!  (Pick the Lexicon later)
 - Statistical things to care about
- - frequency
+ - frequency equal or complys to your distribution.
  - bi-gram and tri-gram frequency
 - Other
  - linguistics matters
