@@ -46,16 +46,28 @@ The most important components of our current Asana workspace are:
 
 #### Experiments board
 
-The experiments board is a high level overview of all of the experiments we are currently running.  Experiments are organized into one of four columns depending on their current status: Waiting on..., In Design, In Data Collection, and Complete.  
+The experiments board is a high level overview of all of the experiments we are currently running.  Experiments are organized into one of four columns depending on their current status: **Waiting on...**, **In Design**, **In Data Collection**, and **Complete**.  
 
 ![](/assets/asana-experiments-board.png)
 
 
-Each experiment is a task (shown on the board as a card) that corresponds to the naming convention for that experiment: EXPID-collection-descriptive-experiment-title.  The task gets assigned to the research assistant or colleague who is doing the subject running and may have a due date that corresponds to when we would like to complete the experiment by.  A small chat bubble with a number to the right of it lets us know how many chats are associated with that project.
+Each experiment is a task (shown on the board as a card) that corresponds to the naming convention for that experiment: **EXPID-collection-descriptive-experiment-title**.  The task gets assigned to the research assistant or colleague who is doing the subject running and may have a due date that corresponds to when we would like to complete the experiment by.  A small chat bubble with a number to the right of it lets us know how many chats are associated with that project.
 
-Experiments are triaged in "Waiting on..." when we are waiting to initiate them or they are next up in the cue.  They move to "In Design" when we are in the design phase - creating design sheets, programming and testing the experiment, etc. And they move to "In Data Collection" when we begin collection data.  Experiments may move back to "Waiting on..." if they need revision before they can return to data collection.
+Experiments are triaged in **"Waiting on..."** when we are waiting to initiate them or they are next up in the cue.  They move to **"In Design"** when we are in the design phase - creating design sheets, programming and testing the experiment, etc. And they move to **"In Data Collection"** when we begin collection data.  Experiments may move back to **"Waiting on..."** if they need revision before they can return to data collection.
 
-When an experiment is complete, it is moved to the "Complete" column.  These experiments need to be archived, and the experiment task itself does not get checked completed until the [checklist for archiving completed experiments](#checklist-for-archiving-completed-experiments) has been performed.
+When an experiment is complete, it is moved to the **"Complete"** column.  These experiments need to be archived, and the experiment task itself does not get checked completed until the [checklist for archiving completed experiments](#checklist-for-archiving-completed-experiments) has been performed.
+
+By clicking on the card, you open the experiment and can view all of its chats and sub-tasks.  Each experiment has description and a standard set of task sections:
+
+1. Background
+2. Designing the experiment
+3. Running the experiment
+4. Transcribing and coding the experiment
+5. Analyzing the data
+
+As of February, 2017, we also try to keep all comments on the main experiment thread (and not on sub-tasks), because this allows for easier printing and archiving.
+
+![](/assets/asana-experiment-subtasks.png)
 
 
 
