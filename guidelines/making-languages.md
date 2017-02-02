@@ -1,2 +1,3 @@
-# Guidelines for Making Artificial Languages
+# Guidelines for Designing Artificial Languages
 
+Most of my studies involve 
