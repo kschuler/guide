@@ -112,6 +112,15 @@ This ensure that (1) when sorted alphabetically, the files will arrange by ID nu
 
 Collections of experiments can be identified by the first name in the experiment title, and sub-collections can be identified by the experiment id number (EXPID). You can see how nicely this naming convention works by viewing my [lab notebook](http://kathrynschuler.com/labnotebook).
 
+- `subject-tracking`
+- `stimuli`
+- `raw-data`
+- `processed-data`
+- `experiments`
+- `docs`
+- `design-sheets`
+- `analyses`
+
 ##### `subject-tracking`
 - contains a single `.csv` with the `EXPID-collection-descriptive-title` appended with `-track.csv`
     - For example: `0160-empiricalyang-9noun-hfrule-child-track.csv`
@@ -119,24 +128,39 @@ Collections of experiments can be identified by the first name in the experiment
 ##### `stimuli`
 - contains a single folder for each experiment with the `EXPID-collection-descriptive-title` appended with `-stims`
     - For example: `0160-empiricalyang-9noun-hfrule-child-stims/`
-- Inside contains all the stimuli for the experiment arranged in sub-folders labeled with the file type (e.g. `conditions`, `sounds`, `images`, `movies`)
+- inside contains all the stimuli for the experiment arranged in sub-folders labeled with the file type (e.g. `conditions`, `sounds`, `images`, `movies`)
 - may also contain a Word document `instructions-text.docx` which are the instructions provided to the participant during the experiment.
 
 ##### `raw-data`
 - contains a single folder for each experiment with the `EXPID-collection-descriptive-title` appended with `-raw-data`
     - For example: `0160-empiricalyang-9noun-hfrule-child-raw-data/`
-- contains all of the raw data for the experiment, which may be single file or folder per participant.  
+- inside contains all of the raw data for the experiment, which may be single file or folder per participant.  
 - subject data folders are named: `SID-YEAR-MONTH-DAY-HHMMSS`
     - For example: `C01-2016-06-17-100307`
 - subject data files are named: `SID-YEAR-MONTH-DAY-HHMMSS-datatype.csv`
     - For example: `C01-2016-06-17-100307-exposure.csv`
 
 ##### `processed-data`
-- contains a single folder for each experiment with the `EXPID-collection-descriptive-title` appended with `-raw-data`
-    - For example: `0160-empiricalyang-9noun-hfrule-child-raw-data/`
-
+- contains a single folder for each experiment with the `EXPID-collection-descriptive-title` appended with `-processed-data`
+    - For example: `0160-empiricalyang-9noun-hfrule-child-processed/`
+- inside contains all of the processed data for the experiment, which may be
+    - an empty text file, indicating that no processed data exists.
+    - one or more files with data that has been manipulated in some way
+        - preprocessed or transcribed and coded, for example.
 
 ##### `experiments`
+- contains a single folder for each experiment with the `EXPID-collection-descriptive-title` appended with `-exp`
+    - For example: `0160-empiricalyang-9noun-hfrule-child-exp/`
+- inside is all of the experiment code and files including:
+    - `change-log.txt`
+    - stimuli folders where necessary (e.g. `images`, `conditions`)
+    - at least one file called: `run-exp-v1.py`
+    - possibly a `yaml` parameter file
+- Note: while I manage code for creating full experiment paradigms on github, I find this to be overkill for every single experiment.  Often an experiment uses a paradigm with no changes except to the stimuli and conditions files, or with only very minor changes.  Once a paradigm is working well, I will pull it from github to be used in a single experiment.  Any modifications to the paradigm that I make for the single experiment will be tracked locally in the `change-log.txt` file.  When these small changes are made, I create another version of `run-exp` in the folder (e.g. `run-exp-v2.py`).  There is a place on the [subject tracking sheet](#subject-tracking) to mark which version a participant was run in.
+
+    
+
+
 ##### `docs`
 ##### `design-sheets`
 ##### `analyses`
