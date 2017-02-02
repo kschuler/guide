@@ -36,7 +36,7 @@ Plus, when an experiment is complete, I can export the notes and tasks associate
 
 
 
-Asana allows you to organize tasks into boards or 
+Asana allows you to organize tasks into boards (kind of like Trello) or as lists (like basecamp). Further you can cross list a task so that it appears in more than one project.  We make use of the boards feature for a high level overview of currently running experiments and writing projects.  
 
 ![](/assets/asana-experiments-board.png)
 Asana
