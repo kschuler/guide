@@ -28,27 +28,28 @@ These points are especially relevant for research projects.  Before Asana, I fou
 
 Before Asana, I found it difficult to keep track of all of the projects I had going on.  I spent a lot of hours asking for or generating status updates about projects.  Now, I know exactly what is happening and what the status is with all of my projects all the time.
 
-Importantly, when an experiment is complete, I can export the notes and tasks associated with a project as .pdf files to save with that experiments auxiliary documents.
-
+Importantly, when an experiment is complete, I can export the notes and tasks associated with a project as a .pdf file to save with that experiments auxiliary documents.
 
 
 ### How I use Asana
 
-
-
-Asana allows you to organize tasks into boards (kind of like Trello) or as lists (like basecamp). Further you can cross list a task so that it appears in more than one project.  We make use of the boards feature for a high level overview of currently running experiments and writing projects.  Each experiment is then cross-listed to an Index page for a collection of experiments so that we can see all of the experiments that have been done within a given genre.
+Asana allows you to organize tasks into boards (kind of like [Trello](https://trello.com/)) or as lists like any standard to do list application. Further you can cross list a task so that it appears in more than one project.  We make use of the boards feature for a high level overview of currently running experiments and writing projects.  Each experiment or publication is then cross-listed to an Index page for a collection of experiments so that we can see all of the experiments that have been done within a given genre, and all of the publications that have been written in that genre.
 
 - Experiments board
 - Writing & publishing board
 - An example index page for collections of experiments
 
-
-
-
+#### Experiments board
 
 ![](/assets/asana-experiments-board.png)
 Asana
 
+#### Writing & publishing board
+
+
+#### An example index page for collections of experiments
+
+![](/assets/asana-collection-index.png)
 
 
 
