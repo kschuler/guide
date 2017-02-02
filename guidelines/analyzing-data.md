@@ -36,7 +36,26 @@ Finally, when you are ready to get started you can install R studio. (Lab comput
 
 ## Analysis notebook boilerplate and conventions
 
-All analysis notebooks follow the same basic format.
+All analysis notebooks follow the same basic format, with each section containing the same information.  Click on each link below to see details about each section.
+
+- Header content
+- Introduction
+- Materials and Method
+    - Subjects
+    - Materials
+    - Procedure
+- Results and analysis
+    - Preregistration
+    - Participants
+    - Data type 1
+    - Data type 2
+- Conclusions
+- Next steps
+- Important files
+
+#### Header content
+#### Introduction
+#### 
 
 
 
