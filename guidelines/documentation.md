@@ -183,6 +183,8 @@ Currently running experiments are located in the `kschuler-current` dropbox fold
 
 ### Location of archived experiments
 
+An archive of all experiments is located in the `kschuler-all` dropbox folder.  This folder is accessible to only Katie.
+
 ### Location of files shared with colleagues
 
 ## Lab Notebook
