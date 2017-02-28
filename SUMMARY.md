@@ -1,7 +1,7 @@
 # Summary
 
 * [Introduction](README.md)
-* CURRENT EXPERIMENTS 
+* [CURRENT EXPERIMENTS ](current-experiments.md)
   * [Recruiting subjects](current/recruitment.md)
   * [How to run](current/how-to-run.md)
 * GUIDELINES
@@ -22,7 +22,6 @@
   * [anaconda](cheat-sheets/anaconda.md)
   * [bash](cheat-sheets/bash.md)
 * ARCHIVE
-  *  [Analyzing data (old)](archives/analyzing-data-archive-2012-2016.md)
-  *  [Recruiting subjects (old)](archives/recruitment-archive.md)
-
+  * [Analyzing data \(old\)](archives/analyzing-data-archive-2012-2016.md)
+  * [Recruiting subjects \(old\)](archives/recruitment-archive.md)
 
