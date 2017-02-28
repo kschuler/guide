@@ -195,7 +195,7 @@ Also as of February 24, 2017 I added daily notes on the things I am working on f
 
 ### Initiating a new experiment
 
-To begin a new experiment, I follow these steps:
+Whenever I begin a new experiment, I follow these steps to ensure the experiment is well documented and organized.
 
 1. Select a study ID and descriptive title
 2. Add the experiment to the experiment index
