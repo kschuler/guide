@@ -22,7 +22,7 @@ All current experiments are below.  If the experiment you are running is not lis
   * This study investigates how people learn languages.
   * Computer game that involves learning an alien language.
   * The experiment last about 25-30 minutes.
-  * Paid going rate for mturk
+  * Paid going hourly rate for mturk
 
 
 
