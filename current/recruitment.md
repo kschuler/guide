@@ -11,18 +11,18 @@ All current experiments are below.  If the experiment you are running is not lis
 ### 0200-inconinput-1day-6733-adults-fastproduction
 
 * **Who is running:**
-* **Gaby**, Jaclyn, Katie
+  * **Gaby**, Jaclyn, Katie
 * **Inclusion criteria:**
-* Age range:
-* Adults: 18 - 26 years
-* Native English speakers \(bilingual is fine\)
-* Normal to corrected-to-normal hearing and vision
+  * Age range:
+    * Adults: 18 - 26 years
+  * Native English speakers \(bilingual is fine\)
+  * Normal to corrected-to-normal hearing and vision
 * **Study info:**
-* This study investigates how people learn languages.
-* Computer game that involves learning an alien language.
-* The experiment last about 15-20 minutes \(1 day\).
+  * This study investigates how people learn languages.
+  * Computer game that involves learning an alien language.
+  * The experiment last about 15-20 minutes \(1 day\).
 * **Notes**
-* Pay is $10.00 with up to $5.00 more in bonus pay.
+  * Pay is $10.00 with up to $5.00 more in bonus pay.
 
 
 ### 0165-empiricalyang-16noun-maj-or-tp-child
