@@ -106,7 +106,7 @@ Within each of these folders, there is a single file or sub-folder for each indi
 
 This ensure that \(1\) when sorted alphabetically, the files will arrange by ID number \(2\) that whenever a file is opened or shared, the filename makes it absolutely clear what it is you are looking it \(e.g. there are not a million file folders named "data"\), \(3\) searching by EXPID allows you to find all files related to a given experiment.
 
-Collections of experiments can be identified by the first name in the experiment title, and sub-collections can be identified by the experiment id number \(EXPID\). You can see how nicely this naming convention works by viewing my [lab notebook](http://kathrynschuler.com/labnotebook).
+Collections of experiments can be identified by the first name in the experiment title, and sub-collections can be identified by the experiment id number \(EXPID\). You can see how nicely this naming convention works by viewing my [lab notebook](http://lab.kathrynschuler.com).
 
 * `subject-tracking`
 * `stimuli`
