@@ -217,7 +217,15 @@ Also as of February 24, 2017 I added daily notes on the things I am working on f
 
 ### Archiving a complete experiment
 
-### sending files to colleagues
+### Sending files to colleagues
+
+When a colleague asks me to send them files or other documents, I follow the following steps:
+
+1. Create a folder for the exchange in my dropbox folder "sent-to-collaborators" in the main dropbox directory.  
+2. Name the folder collaborator-date (e.g. jenny-culbertson-2016-11-15) where the date is the date I sent the requested files.
+3. Include all files you want to send inside this folder
+4. Add a text file call materials-requested.txt to this folder that describes what the colleauge needed.
+5. Email the materials.
 
 
 
