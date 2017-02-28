@@ -193,17 +193,23 @@ Is open-source, in the sense that anyone who wants to can see it.  But protected
 
 1. Select a study ID and descriptive title
 2. Add the experiment to the experiment index
-3. Create [required files](#file-organization-system) in [kschuler-current](https://www.dropbox.com/sh/yhbyybw459l48tt/AACfmIlqhv9YechRqSQ1Jyf0a?dl=0)
+3. Create [required files](#file-organization-system) in [kschuler-current](https://www.dropbox.com/sh/yhbyybw459l48tt/AACfmIlqhv9YechRqSQ1Jyf0a?dl=0) and populate the folders where needed
   - analyses folder
+    - R markdown file
   - design sheet
   - docs folder
+    - call for subjects
+    - data sheet
   - experiment folder
   - processed-data folder
   - raw-data folder
   - stimuli folder
   - subject-tracking sheet
 4. Add the experiment to the Asana Experiment Board
-  - including adding a task list template for new experiments 
+  - using the new experiment template
+5. Modify the task list of the experiment on Asana
+6. Add the study running information to the guide
+   
 
 ### archiving a complete experiment
 
