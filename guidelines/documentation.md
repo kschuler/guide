@@ -72,7 +72,7 @@ By clicking on the card, you open the experiment and can view all of its chats a
 4. Transcribing and coding the experiment  
 5. Analyzing the data
 
-As of February, 2017, we also try to keep all comments on the main experiment thread \(and not on sub-tasks\), because this allows for easier printing and archiving.
+As of February, 2017, we also try to keep all comments on the main experiment task \(and not on sub-tasks\), because this allows for easier printing and archiving.
 
 ![](/assets/asana-experiment-subtasks.png)
 
