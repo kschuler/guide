@@ -17,7 +17,7 @@ These are the general guidelines I follow for documenting and managing my experi
   * Location of files shared with colleagues
 * [Lab notebook](#lab-notebook)
 * [Checklists](#checklists)
-  * Initiating a new experiment
+  * [Initiating a new experiment](#initiating-a-new-experiment)
   * Archiving a completed experiment
   * Sending files to colleagues
 
