@@ -223,7 +223,24 @@ When an experiment is complete, I move it from the `kschuler-current` folder (wh
 
 1. Open the `all-experiments-database.xlsx` file.
 2. Fill out all of the `Experiment tracking information` columns
-3. 
+3. Move files from `kschuler-curent` to `kschuler-all` by following the `Documentation checklist` on the `all-experiments-database.xlsx`. For reference, these include:
+  - experiment tracking: Have you filled out all of this information?
+  - listed in Asana: Is the experiment listed in Asana on the correct index page?
+  - analyses: Is the analysis complete and correct?
+  - design sheet: Is there a design sheet?
+  - docs: Are all docs available? Typically these are:
+    - call for participants
+    - data sheet
+    - notes from asana (printed)
+  - experiments: do you have the experiment files? Is the changelog updated?
+  - processed data: do you have all of the processed data for this experiment?
+  - raw data: do you have all of the raw data for this experiment? including sound files and scanned data sheets?
+  - stimuli: have you saved all of the stimuli files for this experiment in this folder?
+  - subject tracking: do you have the subject tracking sheet for this experiment?
+  - summary: have you saved summary files for this experiment?
+    - printed as a .pdf for the folder
+    - uploaded to lab notebook server (ghost) for viewing in lab notebook?
+  - notes: have you noted anything you will want to remember in the future?
 
 
 ### Sending files to colleagues
