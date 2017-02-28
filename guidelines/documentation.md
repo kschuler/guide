@@ -39,7 +39,7 @@ Importantly, when an experiment is complete, I can export the notes and tasks as
 
 ### How we use Asana
 
-Asana allows you to organize tasks into boards \(kind of like [Trello](https://trello.com/)\) or as lists like any standard to do list application. Further you can cross list a task so that it appears in more than one project.  We make use of the boards feature for a high level overview of currently running experiments and writing projects.  Each experiment or publication is then cross-listed to an Index page for a collection of experiments so that we can see all of the experiments that have been done within a given genre, and all of the publications that have been written in that genre.
+Asana allows you to organize tasks into boards \(kind of like [Trello](https://trello.com/)\) or as lists like any standard to-do list application. Further you can cross list a task so that it appears in more than one project.  We make use of the boards feature for a high level overview of currently running experiments and writing projects.  Each experiment or publication is then cross-listed to an Index page for a collection of experiments so that we can see all of the experiments that have been done within a given genre, and all of the publications that have been written in that genre.
 
 As mentioned above, Asana also allows for chat functionality \(kind of like [Slack](https://slack.com)\).  You can chat with team members about a specific task or start a conversation about a more general project.  All chats are searchable and are stored right with the task or project they were initiated in.  Anytime someone chats, I am also notified by email and can respond right from my email.  Email responses are also saved in the Asana chat.
 
@@ -185,7 +185,9 @@ Collections of experiments can be identified by the first name in the experiment
 
 ## Lab Notebook
 
-Is open-source, in the sense that anyone who wants to can see it.  But protected in the sense that the information is copyrighted and people must request my permission to use or distribute it.
+Katie's lab notebook can be accessed at http://lab.kathrynschuler.com. It is password protected, so you need to request permission to view it.  It contains a summary of all of the experiments that I have run in graduate school.
+
+As of February 
 
 ## Checklists
 
