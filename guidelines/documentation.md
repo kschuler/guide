@@ -12,9 +12,9 @@ These are the general guidelines I follow for documenting and managing my experi
     * [Indexing experiments](#indexing-experiments)
 * [File organization system](#file-organization-system)
   * [Naming conventions](#naming-conventions)
-  * Location of currently running experiments
-  * Location of archived experiments
-  * Location of files shared with colleagues
+  * [Location of currently running experiments](#location-of-currently-running-experiments)
+  * [Location of archived experiments](#location-of-archived-experiments)
+  * [Location of files shared with colleagues](#location-of-files-shared-with-colleagues)
 * [Lab notebook](#lab-notebook)
 * [Checklists](#checklists)
   * [Initiating a new experiment](#initiating-a-new-experiment)
