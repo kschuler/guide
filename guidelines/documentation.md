@@ -179,6 +179,8 @@ Collections of experiments can be identified by the first name in the experiment
 
 ### Location of currently running experiments
 
+Currently running experiments are located in the `kschuler-current` dropbox folder.  This folder is accessible to the Lab's dropbox account (`learninglab`).
+
 ### Location of archived experiments
 
 ### Location of files shared with colleagues
