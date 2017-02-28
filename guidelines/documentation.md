@@ -195,6 +195,8 @@ Also as of February 24, 2017 I added daily notes on the things I am working on f
 
 ### Initiating a new experiment
 
+To begin a new experiment, I follow these steps:
+
 1. Select a study ID and descriptive title
 2. Add the experiment to the experiment index
 3. Create [required files](#file-organization-system) in [kschuler-current](https://www.dropbox.com/sh/yhbyybw459l48tt/AACfmIlqhv9YechRqSQ1Jyf0a?dl=0) and populate the folders where needed
@@ -216,6 +218,8 @@ Also as of February 24, 2017 I added daily notes on the things I am working on f
    
 
 ### Archiving a complete experiment
+
+
 
 ### Sending files to colleagues
 
