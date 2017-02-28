@@ -8,6 +8,25 @@ All current experiments are below.  If the experiment you are running is not lis
 * [0104-inconinput-1day-pluralmorph-6733-training](#0104-inconinput-1day-pluralmorph-6733-training)
 * [0035-babysaffran-srt-patient](#0035-babysaffran-srt-patient)
 
+
+### 0167-empiricalyang-9noun-hfrule-adults-fastproduction
+
+* **Who is running:**
+* **Gaby**, Jaclyn, Katie
+* **Inclusion criteria:**
+* Age range:
+* Adults: 18 - 26 years
+* Native English speakers \(bilingual is fine\)
+* Normal to corrected-to-normal hearing and vision
+* **Study info:**
+* This study investigates how people learn languages.
+* Computer game that involves learning an alien language.
+* The experiment last about 15-20 minutes \(1 day\).
+* **Notes**
+* Pay is $10.00 with up to $5.00 more in bonus pay.
+
+
+
 ### 0165-empiricalyang-16noun-maj-or-tp-child
 
 * **Who is running:**
@@ -22,39 +41,6 @@ All current experiments are below.  If the experiment you are running is not lis
   * This study investigates how people learn languages.
   * Computer game that involves learning an alien language.
   * The experiment last about 15-20 minutes \(1 day\).
-
-### 0167-empiricalyang-9noun-hfrule-adults-fastproduction
-
-* **Who is running:**
-  * **Gaby**, Jaclyn, Katie
-* **Inclusion criteria:**
-  * Age range:
-    * Adults: 18 - 26 years
-  * Native English speakers \(bilingual is fine\)
-  * Normal to corrected-to-normal hearing and vision
-* **Study info:**
-  * This study investigates how people learn languages.
-  * Computer game that involves learning an alien language.
-  * The experiment last about 15-20 minutes \(1 day\).
-* **Notes**
-  * Pay is $10.00 with up to $5.00 more in bonus pay.
-
-
-
-### 0500-inconinput-empiricalyang-33scatter:
-
-* **Who is running:**
-  * **Rebecca**, Jaclyn, Katie
-* **Inclusion criteria:**
-  * Age range:
-    * Children \(young\): 5.0 - 6.99 years
-    * Adults: 18 - 26 years
-  * Native English speakers \(billingual is fine\)
-  * Normal to correct-to-normal hearing and vision
-* **Study info:**
-  * This study investigates how people learn languages.
-  * Computer game that involves learning an alien language.
-  * The experiment last about 25-30 minutes.
 
 
 ### 0104-inconinput-1day-pluralmorph-6733-training

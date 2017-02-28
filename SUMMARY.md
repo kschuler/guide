@@ -4,7 +4,7 @@
 * [CURRENT EXPERIMENTS ](current-experiments.md)
   * [Recruiting subjects](current/recruitment.md)
   * [How to run](current/how-to-run.md)
-* GUIDELINES
+* [GUIDELINES](guidelines.md)
   * [Making stimuli](guidelines/making-stimuli.md)
   * [Running subjects](guidelines/running-subjects.md)
   * [Coding and transcribing data](guidelines/coding-and-transcribing.md)
@@ -21,7 +21,7 @@
   * [pandas](cheat-sheets/pandas.md)
   * [anaconda](cheat-sheets/anaconda.md)
   * [bash](cheat-sheets/bash.md)
-* ARCHIVE
+* [ARCHIVE](archive.md)
   * [Analyzing data \(old\)](archives/analyzing-data-archive-2012-2016.md)
   * [Recruiting subjects \(old\)](archives/recruitment-archive.md)
 
