@@ -222,6 +222,8 @@ Whenever I begin a new experiment, I follow these steps to ensure the experiment
 When an experiment is complete, I move it from the `kschuler-current` folder (which houses current experiments) to the `kschuler-all` folder (which houses my experiment archives).  To ensure an experiment has been properly archived, I follow these steps:
 
 1. Open the `all-experiments-database.xlsx` file.
+2. Fill out all of the `Experiment tracking information` columns
+3. 
 
 
 ### Sending files to colleagues
