@@ -18,7 +18,7 @@ These are the general guidelines I follow for documenting and managing my experi
 * [Lab notebook](#lab-notebook)
 * [Checklists](#checklists)
   * [Initiating a new experiment](#initiating-a-new-experiment)
-  * Archiving a completed experiment
+  * [Archiving a completed experiment](#archiving-a-completed-experiment)
   * Sending files to colleagues
 
 ## Project management with Asana
