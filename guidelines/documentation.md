@@ -66,11 +66,11 @@ When an experiment is complete, it is moved to the **"Complete"** column.  These
 
 By clicking on the card, you open the experiment and can view all of its chats and sub-tasks.  Each experiment has description and a standard set of task sections:
 
-**1. Background  
+1. Background  
 2. Designing the experiment  
 3. Running the experiment  
 4. Transcribing and coding the experiment  
-5. Analyzing the data**
+5. Analyzing the data
 
 As of February, 2017, we also try to keep all comments on the main experiment thread \(and not on sub-tasks\), because this allows for easier printing and archiving.
 
