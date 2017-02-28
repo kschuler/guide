@@ -7,6 +7,24 @@ All current experiments are below.  If the experiment you are running is not lis
 * [0104-inconinput-1day-pluralmorph-6733-training](#0104-inconinput-1day-pluralmorph-6733-training)
 * [0035-babysaffran-srt-patient](#0035-babysaffran-srt-patient)
 
+### 0401-condvar-exp1-purvcond-32itemtest-1day-mturk
+
+* **Who is running:**
+  * **Katie** (on mechanical turk)
+* **Inclusion criteria:**
+  * Age range:
+    * Adults: 18 +
+    * data collected about age and gender
+  * Native English speakers
+    * bilingual is fine
+    * data collected about language experience
+* **Study info:**
+  * This study investigates how people learn languages.
+  * Computer game that involves learning an alien language.
+  * The experiment last about 25-30 minutes.
+  * Paid going rate for mturk
+
+
 
 ### 0200-inconinput-1day-6733-adults-fastproduction
 
