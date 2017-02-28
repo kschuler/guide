@@ -185,9 +185,11 @@ Collections of experiments can be identified by the first name in the experiment
 
 ## Lab Notebook
 
-Katie's lab notebook can be accessed at http://lab.kathrynschuler.com. It is password protected, so you need to request permission to view it.  It contains a summary of all of the experiments that I have run in graduate school.
+As of February 24, 2017 my lab notebook was moved to http://lab.kathrynschuler.com. It is password protected, so you need to request permission from me to view it.  As before, it contains a summary of all of the experiments that I have run in graduate school.
 
-As of February 
+Also as of February 24, 2017 I added daily notes on the things I am working on for my future self.  This are informal and just intended as a productivity tool for me.
+
+
 
 ## Checklists
 
@@ -213,7 +215,7 @@ As of February
 6. Add the study running information to the guide
    
 
-### archiving a complete experiment
+### Archiving a complete experiment
 
 ### sending files to colleagues
 
