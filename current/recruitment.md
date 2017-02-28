@@ -26,7 +26,6 @@ All current experiments are below.  If the experiment you are running is not lis
 * Pay is $10.00 with up to $5.00 more in bonus pay.
 
 
-
 ### 0165-empiricalyang-16noun-maj-or-tp-child
 
 * **Who is running:**
