@@ -19,7 +19,7 @@ These are the general guidelines I follow for documenting and managing my experi
 * [Checklists](#checklists)
   * [Initiating a new experiment](#initiating-a-new-experiment)
   * [Archiving a completed experiment](#archiving-a-completed-experiment)
-  * Sending files to colleagues
+  * [Sending files to colleagues](#sending-files-to-colleages)
 
 ## Project management with Asana
 
