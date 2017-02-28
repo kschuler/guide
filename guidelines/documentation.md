@@ -189,7 +189,7 @@ Is open-source, in the sense that anyone who wants to can see it.  But protected
 
 ## Checklists
 
-### initiating a new experiment
+### Initiating a new experiment
 
 1. Select a study ID and descriptive title
 2. Add the experiment to the experiment index
