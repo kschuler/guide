@@ -21,7 +21,10 @@ These are the general guidelines I follow for documenting and managing my experi
 
 ## Project management with Asana
 
-I manage all of my research and academic related projects via [Asana](https://asana.com/guide).  Asana is a web-based project management application that allows teams to work together toward accomplishing projects.  This allows me to monitor the status of projects and interact with research assistants and our lab manager by assigning tasks or having conversations.
+I manage all of my research and academic related projects via [Asana](https://asana.com/guide).  Asana is a web-based project management application that allows teams to work together toward accomplishing projects.  This allows me to monitor the status of projects and interact with research assistants and our lab manager by assigning tasks or having conversations.  For more information on what Asana is, check out these links:
+
+- [Asana onboarding checklist]()
+- [Asana intro deck]()
 
 ### Why we use Asana
 
