@@ -3,6 +3,7 @@
 These are instructions for how I set up servers with Digital Ocean.  If you already have a server setup and want to install psiTurk, you can skip to that section by clicking [here](#get-miniconda-on-the-sever).
 
 - [Get a Digital Ocean server](#get-a-digital-ocean-server)
+- [Initial server setup](#initial-server-setup)
 - [Get Miniconda on the server](#get-miniconda-on-the-server)
 - [Get psiTurk](#get-psiturk)
 
