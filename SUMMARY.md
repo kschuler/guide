@@ -21,7 +21,7 @@
   * [pandas](cheat-sheets/pandas.md)
   * [anaconda](cheat-sheets/anaconda.md)
   * [bash](cheat-sheets/bash.md)
-* [ARCHIVE](archive.md)
+* [ARCHIVES](archive.md)
+  * [All Experiments](archives/all-experiments.md)
   * [Analyzing data \(old\)](archives/analyzing-data-archive-2012-2016.md)
-  * [Recruiting subjects \(old\)](archives/recruitment-archive.md)
 
