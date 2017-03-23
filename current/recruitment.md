@@ -2,11 +2,29 @@
 
 All current experiments are below.  If the experiment you are running is not listed please [email me](mailto:kathryn.schuler@gmail.com) and remind me to update it. Information for archived experiments can be found [here](archive/recruitment-archive.md).
 
-* [0401-condvar-exp1-purvcond-32itemtest-1day-mturk](0401-condvar-exp1-purvcond-32itemtest-1day-mturk)
+
+*[0166-empiricalyang-9noun-hfrule-child-4yearolds](#0166-empiricalyang-9noun-hfrule-child-4yearolds)
+* [0401-condvar-exp1-purvcond-32itemtest-1day-mturk](#0401-condvar-exp1-purvcond-32itemtest-1day-mturk)
 * [0200-inconinput-1day-6733-adults-fastproduction](#0200-inconinput-1day-6733-adults-fastproduction)
 * [0165-empiricalyang-16noun-maj-or-tp-child](#0165-empiricalyang-16noun-maj-or-tp-child)
 * [0104-inconinput-1day-pluralmorph-6733-training](#0104-inconinput-1day-pluralmorph-6733-training)
 * [0035-babysaffran-srt-patient](#0035-babysaffran-srt-patient)
+
+
+### 0166-empiricalyang-9noun-hfrule-child-4yearolds
+
+* **Who is running:**
+  * **Emily**, Jaclyn
+* **Inclusion criteria:**
+  * Age range:
+    * Children: 4.0 - 4.99 years
+  * Native English speakers \(bilingual is fine\)
+  * Normal to corrected-to-normal hearing and vision
+* **Study info:**
+  * This study investigates how people learn languages.
+  * Computer game that involves learning an alien language.
+  * The experiment last about 15-20 minutes \(1 day\).
+
 
 ### 0401-condvar-exp1-purvcond-32itemtest-1day-mturk
 
