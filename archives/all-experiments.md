@@ -167,7 +167,7 @@ Schuler & Newport
 Schuler, Horowitz, Yang, & Newport
 
 - [0500-inconinput-empiricalyang-33scatter](0500-inconinput-empiricalyang-33scatter-R-notebook.html)
-- [0500-inconinput-empiricalyang-33scatter](http://kathrynschuelr.com/labnotebook/0500-inconinput-empiricalyang-33scatter-R-notebook.html)
+- [0500-inconinput-empiricalyang-33scatter](https://138.197.45.106/exp-summaries/0500-inconinput-empiricalyang-33scatter-R-notebook.html)
 
 
 #### Regularization in adult learners
