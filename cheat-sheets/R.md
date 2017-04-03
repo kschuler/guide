@@ -5,6 +5,8 @@ Coming soon...
 
 ## Cleaning Data
 
+
+
 ```
 # View the first 6 rows of data
 head(data)
@@ -14,4 +16,8 @@ tail(weather)
 
 # view a condensed summary of the data
 str(weather)
+
 ```
+
+
+
