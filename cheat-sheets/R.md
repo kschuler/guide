@@ -1,11 +1,10 @@
 
 # R
 
-Coming soon...
-
 ## Cleaning Data
 
 
+- the weather example
 
 ```
 # View the first 6 rows of data
