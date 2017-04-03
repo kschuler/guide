@@ -94,6 +94,12 @@ exit
 ```  
 The next time you log in, you'll enter the NEW password you selected.
 
+## Initial server setup 
+
+### Login as root
+
+### Create a new 
+
 
 ## Get Miniconda on the server
 
