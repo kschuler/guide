@@ -2,7 +2,7 @@
 
 - [Instructions for running (most) experiments](#instructions-for-running-experiments)
   - [Good experiment hygiene](#good-experiment-hygiene)
-  - [Follow these steps](#follow-these-steps)
+  - [Running experiments](#running-experiments)
   - [Troubleshooting](#troubleshooting)
 - [Special exceptions](#special-exceptions)
 
@@ -25,7 +25,7 @@ The following studies require special methods (click to view these methods):
   - Make sure the data you have collected syncs to Dropbox
   - Turn the computer off completely (end of day)
 
-### Follow these steps
+### Running experiments
 In general, follow these steps when running an experiment.  These steps are auxillary to the lab's subject running checklists linked here.
 - [subject running checklist for kids](https://www.dropbox.com/s/j8w62vo4umn8yrr/LDL%20Checklist%20-%20Running%20Kids.docx?dl=0)
 - [subject running checklist for adults](https://www.dropbox.com/s/lokr1wa93d069h8/LDL%20Checklist%20-%20Running%20Adults.docx?dl=0)
