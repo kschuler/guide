@@ -1,5 +1,10 @@
 # Recruiting subjects for current experiments
 
+There are a few exclusion criteria that apply to all of the experiments that we run in our lab.  They are:
+
+1. **Has not participated in another language study in the past 3 months**
+2. **Has NEVER participated in another study in the same series (e.g. Empirical Yang)**
+
 All current experiments are below.  If the experiment you are running is not listed please [email me](mailto:kathryn.schuler@gmail.com) and remind me to update it. Information for archived experiments can be found [here](archive/recruitment-archive.md).
 
 
