@@ -1,6 +1,7 @@
 # How to run current experiments
 
 - [Instructions for running (most) experiments](#instructions-for-running-experiments)
+  - [Good experiment hygiene](#good-experiment-hygiene)
   - [Follow these steps](#follow-these-steps)
   - [Troubleshooting](#troubleshooting)
 - [Special exceptions](#special-exceptions)
@@ -10,6 +11,19 @@ The preferred method for running most experiments is to use the psychopy package
 
 The following studies require special methods (click to view these methods):
 - [0035-babysaffran-srt-patient](#0035-babysaffran-srt-patient)
+
+### Good experiment hygiene
+1. Make sure the experiment has been throughly tested on the computer you are using.
+2. Before running an experiment
+  - Turn off the internet
+  - Ensure all applications are closed (nothing is running)
+  - Turn off Dropbox syncing
+  - Make sure you are running the correct experiment
+3. After running an experiment
+  - Turn on the internet
+  - Turn on Dropbox syncing
+  - Make sure the data you have collected syncs to Dropbox
+  - Turn the computer off completely (end of day)
 
 ### Follow these steps
 In general, follow these steps when running an experiment.  These steps are auxillary to the lab's subject running checklists linked here.
