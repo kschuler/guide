@@ -1,7 +1,12 @@
 # How to run current experiments
 Instructions to run all current experiments are below.  
 
-## For most experiments
+- [Instructions for running experiments](#instructions-for-running-experiments)
+  - [Follow these steps](#follow-these-steps)
+  - [Troubleshooting](#troubleshooting)
+- [Special exceptions](#special-exceptions)
+
+## Instructions for running experiments
 The preferred method for running most experiments is to use the psychopy package from within [Atom](https://atom.io/packages/psychopy).  Unless otherwise specified, all lab experiments can be run using this method.
 
 The following studies require special methods (click to view these methods):
