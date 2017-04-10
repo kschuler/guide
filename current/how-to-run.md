@@ -39,6 +39,20 @@ In general, follow these steps when running an experiment.  These steps are auxi
 [![Running experiments with atom (silent video demo)](http://img.youtube.com/vi/tSyBMPg3bsQ/0.jpg)](https://www.youtube.com/watch?v=tSyBMPg3bsQ)
 
 ---
+
+### Troubleshooting
+
+**"I ran the study in ATOM and I got an error message"**
+
+> **Solution 1: Has the experiment been tested on this exact computer?**
+  If no, the experiment is unlikely to work.  One thing you can try is to make sure Dropbox has updated (or "synced").  If you think this is the issue, you should always run the study through as a test BEFORE testing any additional subjects.  It is not guaranteed that this will fix your problem.  You need to test all conditions of the experiment on the computer you intend to use to guarantee it will work.
+  
+> **Solution 2: Was ATOM properly shut down before you opened your new experiment?**
+Atom will cache experiment folders if it is left open.  This can lead to error messages in which PsychoPy is unable to find files (like images, sounds, or conditions files).  Shutting down ATOM completely and reopening it fresh with your experiment is likely to solve this issue.
+
+
+
+---
 ## Special exceptions
 ### 0035-babysaffran-srt-patient
 ##### Before running
