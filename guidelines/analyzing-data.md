@@ -6,13 +6,20 @@ UNDER CONSTRUCTION
 
 I analyze my data using an [R Notebook](http://rmarkdown.rstudio.com/). An R Notebook is an R Markdown document that contains executable code along with text and figures. [Here](https://www.dropbox.com/home/Research/summaries?preview=0010-srt-pilot.html) is an example of one of my analysis notebooks.
 
-- [Getting started](#getting-started)
-- [Analysis notebook boilerplate and conventions](#analysis-notebook-conventions)
-- [Default data cleaning and exclusion criteria](#default-data-cleaning-and-exclusion-criteria)
-- [Default analysis strategies](#default-analysis-strategies)
+I also perform some statistical analyses using SPSS, particularly repeated-measures ANOVAs.  Instructions for doing so can also be found below. 
+
+- [Analyzing data in an R Notebook](#analyzing-data-in-an-r-notebook)
+    - [Getting started](#getting-started)
+    - [Analysis notebook boilerplate and conventions](#analysis-notebook-conventions)
+    - [Default data cleaning and exclusion criteria](#default-data-cleaning-and-exclusion-criteria)
+    - [Default analysis strategies](#default-analysis-strategies)
+- [Analyzing data in SPSS](#analyzing-data-in-spss)
+    - [T-tests](#t-tests)
+    - [Repeated-measures ANOVA](#repeated-measures-ANOVA)
 
 
-## Getting started
+## Analyzing data in an R Notebook
+### Getting started
 
 A good place to start is reading this nice paper about how to do good things with your data and analyses. I follow this rules in my own research, and it is a nice way of understanding why we do things the way we do them.
 
@@ -36,7 +43,7 @@ Finally, when you are ready to get started you can install R studio. (Lab comput
 
 - [Install R Studio](https://www.rstudio.com/products/rstudio/download/)
 
-## Analysis notebook boilerplate and conventions
+### Analysis notebook boilerplate and conventions
 
 All analysis notebooks follow the same basic format, with each section containing the same information. This information allows the notebook to stand alone as a full summary of the experiment and ensure that all experiments contain all of the important information.  The final experiment notebook will be published in my [lab notebook](http://kathrynschuler.com/labnotebook) repository. Click on each link below to see details about each section.
 
@@ -237,5 +244,15 @@ We exclude trials on which:
 
 - 
 
-## Default analysis strategies
+### Default analysis strategies
+
+## Analyzing data in SPSS
+
+### T-tests
+
+Coming soon...
+
+### Repeated measures ANOVAs
+
+Coming soon...
 
