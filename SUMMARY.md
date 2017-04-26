@@ -15,12 +15,6 @@
   * [Setting up a computer](tools/computer-setup.md)
   * [Setting up a server](tools/server-setup.md)
   * [Favorite tools for common tasks](tools/favorites.md)
-* CHEAT SHEETS
-  * [git](cheat-sheets/git.md)
-  * [R](cheat-sheets/R.md)
-  * [pandas](cheat-sheets/pandas.md)
-  * [anaconda](cheat-sheets/anaconda.md)
-  * [bash](cheat-sheets/bash.md)
 * [ARCHIVES](archive.md)
   * [All Experiments](archives/all-experiments.md)
   * [Analyzing data \(old\)](archives/analyzing-data-archive-2012-2016.md)

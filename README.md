@@ -28,15 +28,6 @@ This section documents the hardware and software that I use to run my experiment
 * [Setting up a server](tools/server-setup.md)
 * [Favorite tools for common tasks](tools/favorites.md)
 
-## Programming cheat sheets
-
-This section provides common commands for each the tools I use most often: git, R, python, and bash. I also provide links to scripts I use for common lab tasks.
-
-* [git](cheat-sheets/git.md)
-* [R](cheat-sheets/R.md)
-* [anaconda](cheat-sheets/anaconda.md)
-* [pandas](cheat-sheets/pandas.md)
-* [bash](cheat-sheets/bash.md)
 
 ## Archives
 
