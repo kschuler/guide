@@ -9,6 +9,7 @@
   * [Running subjects](guidelines/running-subjects.md)
   * [Coding and transcribing data](guidelines/coding-and-transcribing.md)
   * [Analyzing data](guidelines/analyzing-data.md)
+  * [New Sample Article](new-sample-article.md)
   * [Documentation](guidelines/documentation.md)
 * TOOLS
   * [Hardware & software](tools/hardware-and-software.md)
@@ -18,5 +19,4 @@
 * [ARCHIVES](archive.md)
   * [All Experiments](archives/all-experiments.md)
   * [Analyzing data \(old\)](archives/analyzing-data-archive-2012-2016.md)
-* [New Sample Article](new-sample-article.md)
 
