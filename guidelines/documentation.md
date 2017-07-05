@@ -23,8 +23,8 @@ These are the general guidelines I follow for documenting and managing my experi
 
 I manage all of my research and academic related projects via [Asana](https://asana.com/guide).  Asana is a web-based project management application that allows teams to work together toward accomplishing projects.  This allows me to monitor the status of projects and interact with research assistants and our lab manager by assigning tasks or having conversations.  For more information on what Asana is, check out these links:
 
-- [Asana onboarding checklist]()
-- [Asana intro deck]()
+* [Asana onboarding checklist]()
+* [Asana intro deck]()
 
 ### Why we use Asana
 
@@ -180,7 +180,7 @@ Collections of experiments can be identified by the first name in the experiment
 
 ### Location of currently running experiments
 
-Currently running experiments are located in the `kschuler-current` dropbox folder.  This folder is accessible to the Lab's dropbox account (`learninglab`).
+Currently running experiments are located in the `kschuler-current` dropbox folder.  This folder is accessible to the Lab's dropbox account \(`learninglab`\).
 
 ### Location of archived experiments
 
@@ -190,11 +190,9 @@ An archive of all experiments is located in the `kschuler-all` dropbox folder.  
 
 ## Lab Notebook
 
-As of February 24, 2017 my lab notebook was moved to http://lab.kathrynschuler.com. It is password protected, so you need to request permission from me to view it.  As before, it contains a summary of all of the experiments that I have run in graduate school.
+As of February 24, 2017 my lab notebook was moved to [http://lab.kathrynschuler.com](http://lab.kathrynschuler.com). It is password protected, so you need to request permission from me to view it.  As before, it contains a summary of all of the experiments that I have run in graduate school.
 
 Also as of February 24, 2017 I added daily notes on the things I am working on for my future self.  This are informal and just intended as a productivity tool for me.
-
-
 
 ## Checklists
 
@@ -205,55 +203,53 @@ Whenever I begin a new experiment, I follow these steps to ensure the experiment
 1. Select a study ID and descriptive title
 2. Add the experiment to the experiment index
 3. Create [required files](#file-organization-system) in [kschuler-current](https://www.dropbox.com/sh/yhbyybw459l48tt/AACfmIlqhv9YechRqSQ1Jyf0a?dl=0) and populate the folders where needed
-  - analyses folder
-    - R markdown file
-  - design sheet
-  - docs folder
-    - call for subjects
-    - data sheet
-  - experiment folder
-  - processed-data folder
-  - raw-data folder
-  - stimuli folder
-  - subject-tracking sheet
+   * analyses folder
+     * R markdown file
+   * design sheet
+   * docs folder
+     * call for subjects
+     * data sheet
+   * experiment folder
+   * processed-data folder
+   * raw-data folder
+   * stimuli folder
+   * subject-tracking sheet
 4. Add the experiment to the Asana Experiment Board
-  - using the new experiment template
+   * using the new experiment template
 5. Modify the task list of the experiment on Asana
 6. Add the study running information to the guide
-   
 
 ### Archiving a complete experiment
 
-When an experiment is complete, I move it from the `kschuler-current` folder (which houses current experiments) to the `kschuler-all` folder (which houses my experiment archives).  To ensure an experiment has been properly archived, I follow these steps:
+When an experiment is complete, I move it from the `kschuler-current` folder \(which houses current experiments\) to the `kschuler-all` folder \(which houses my experiment archives\).  To ensure an experiment has been properly archived, I follow these steps:
 
 1. Open the `all-experiments-database.xlsx` file.
 2. Fill out all of the `Experiment tracking information` columns
 3. Move files from `kschuler-curent` to `kschuler-all` by following the `Documentation checklist` on the `all-experiments-database.xlsx`. For reference, these include:
-  - experiment tracking: Have you filled out all of this information?
-  - listed in Asana: Is the experiment listed in Asana on the correct index page?
-  - analyses: Is the analysis complete and correct?
-  - design sheet: Is there a design sheet?
-  - docs: Are all docs available? Typically these are:
-    - call for participants
-    - data sheet
-    - notes from asana (printed)
-  - experiments: do you have the experiment files? Is the changelog updated?
-  - processed data: do you have all of the processed data for this experiment?
-  - raw data: do you have all of the raw data for this experiment? including sound files and scanned data sheets?
-  - stimuli: have you saved all of the stimuli files for this experiment in this folder?
-  - subject tracking: do you have the subject tracking sheet for this experiment?
-  - summary: have you saved summary files for this experiment?
-    - printed as a .pdf for the folder
-    - uploaded to lab notebook server (ghost) for viewing in lab notebook?
-  - notes: have you noted anything you will want to remember in the future?
-
+   * experiment tracking: Have you filled out all of this information?
+   * listed in Asana: Is the experiment listed in Asana on the correct index page?
+   * analyses: Is the analysis complete and correct?
+   * design sheet: Is there a design sheet?
+   * docs: Are all docs available? Typically these are:
+     * call for participants
+     * data sheet
+     * notes from asana \(printed\)
+   * experiments: do you have the experiment files? Is the changelog updated?
+   * processed data: do you have all of the processed data for this experiment?
+   * raw data: do you have all of the raw data for this experiment? including sound files and scanned data sheets?
+   * stimuli: have you saved all of the stimuli files for this experiment in this folder?
+   * subject tracking: do you have the subject tracking sheet for this experiment?
+   * summary: have you saved summary files for this experiment?
+     * printed as a .pdf for the folder
+     * uploaded to lab notebook server \(ghost\) for viewing in lab notebook?
+   * notes: have you noted anything you will want to remember in the future?
 
 ### Sending files to colleagues
 
 When a colleague asks me to send them files or other documents, I follow the following steps:
 
 1. Create a folder for the exchange in my dropbox folder "sent-to-collaborators" in the main dropbox directory.  
-2. Name the folder collaborator-date (e.g. jenny-culbertson-2016-11-15) where the date is the date I sent the requested files.
+2. Name the folder collaborator-date \(e.g. jenny-culbertson-2016-11-15\) where the date is the date I sent the requested files.
 3. Include all files you want to send inside this folder
 4. Add a text file call `materials-requested.txt` to this folder that describes what the colleauge needed.
 5. Email the materials.
