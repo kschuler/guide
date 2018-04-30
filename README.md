@@ -9,6 +9,8 @@ This section describes how to recruit and run subjects in my current experiments
 * [Recruiting subjects for current experiments](current/recruitment.md)
 * [How to run current experiments](current/how-to-run.md)
 
+* test github edits
+
 ## Guidelines
 
 This section provides guidelines for how I create, design, analyze, and document my experiments.
